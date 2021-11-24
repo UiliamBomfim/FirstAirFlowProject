@@ -1,0 +1,77 @@
+[2021-11-23 18:25:35,044] {scheduler_job.py:182} INFO - Started process (PID=14249) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:25:35,046] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:25:35,047] {logging_mixin.py:104} INFO - [2021-11-23 18:25:35,047] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:25:35,072] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:25:35,107] {logging_mixin.py:104} INFO - [2021-11-23 18:25:35,107] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:25:35,146] {logging_mixin.py:104} INFO - [2021-11-23 18:25:35,146] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:25:35,295] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.260 seconds
+[2021-11-23 18:26:16,826] {scheduler_job.py:182} INFO - Started process (PID=14316) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:26:16,828] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:26:16,830] {logging_mixin.py:104} INFO - [2021-11-23 18:26:16,829] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:26:16,856] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:26:16,891] {logging_mixin.py:104} INFO - [2021-11-23 18:26:16,891] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:26:16,930] {logging_mixin.py:104} INFO - [2021-11-23 18:26:16,929] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:26:17,031] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.210 seconds
+[2021-11-23 18:26:56,969] {scheduler_job.py:182} INFO - Started process (PID=14405) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:26:56,971] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:26:56,973] {logging_mixin.py:104} INFO - [2021-11-23 18:26:56,972] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:26:57,010] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:26:57,044] {logging_mixin.py:104} INFO - [2021-11-23 18:26:57,044] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:26:57,084] {logging_mixin.py:104} INFO - [2021-11-23 18:26:57,084] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:26:57,177] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.212 seconds
+[2021-11-23 18:27:40,688] {scheduler_job.py:182} INFO - Started process (PID=14477) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:27:40,691] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:27:40,693] {logging_mixin.py:104} INFO - [2021-11-23 18:27:40,693] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:27:40,723] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:27:40,749] {logging_mixin.py:104} INFO - [2021-11-23 18:27:40,749] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:27:40,772] {logging_mixin.py:104} INFO - [2021-11-23 18:27:40,772] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:27:40,918] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.236 seconds
+[2021-11-23 18:28:21,771] {scheduler_job.py:182} INFO - Started process (PID=14564) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:28:21,772] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:28:21,772] {logging_mixin.py:104} INFO - [2021-11-23 18:28:21,772] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:28:21,788] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:28:21,806] {logging_mixin.py:104} INFO - [2021-11-23 18:28:21,806] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:28:21,826] {logging_mixin.py:104} INFO - [2021-11-23 18:28:21,826] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:28:21,902] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.136 seconds
+[2021-11-23 18:29:00,438] {scheduler_job.py:182} INFO - Started process (PID=14617) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:29:00,439] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:29:00,440] {logging_mixin.py:104} INFO - [2021-11-23 18:29:00,440] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:29:00,468] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:29:00,494] {logging_mixin.py:104} INFO - [2021-11-23 18:29:00,494] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:29:00,522] {logging_mixin.py:104} INFO - [2021-11-23 18:29:00,522] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:29:00,742] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.309 seconds
+[2021-11-23 18:29:42,915] {scheduler_job.py:182} INFO - Started process (PID=14650) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:29:42,917] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:29:42,918] {logging_mixin.py:104} INFO - [2021-11-23 18:29:42,918] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:29:42,946] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:29:42,975] {logging_mixin.py:104} INFO - [2021-11-23 18:29:42,974] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:29:43,011] {logging_mixin.py:104} INFO - [2021-11-23 18:29:43,010] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:29:43,127] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.217 seconds
+[2021-11-23 18:30:21,753] {scheduler_job.py:182} INFO - Started process (PID=14713) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:30:21,755] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:30:21,756] {logging_mixin.py:104} INFO - [2021-11-23 18:30:21,756] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:30:21,779] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:30:21,811] {logging_mixin.py:104} INFO - [2021-11-23 18:30:21,811] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:30:21,841] {logging_mixin.py:104} INFO - [2021-11-23 18:30:21,841] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:30:21,978] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.231 seconds
+[2021-11-23 18:31:02,036] {scheduler_job.py:182} INFO - Started process (PID=14761) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:31:02,040] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:31:02,042] {logging_mixin.py:104} INFO - [2021-11-23 18:31:02,042] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:31:02,087] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:31:02,137] {logging_mixin.py:104} INFO - [2021-11-23 18:31:02,136] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:31:02,190] {logging_mixin.py:104} INFO - [2021-11-23 18:31:02,190] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:31:02,347] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.322 seconds
+[2021-11-23 18:31:44,087] {scheduler_job.py:182} INFO - Started process (PID=14815) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:31:44,088] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:31:44,089] {logging_mixin.py:104} INFO - [2021-11-23 18:31:44,089] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:31:44,124] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:31:44,161] {logging_mixin.py:104} INFO - [2021-11-23 18:31:44,161] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:31:44,197] {logging_mixin.py:104} INFO - [2021-11-23 18:31:44,196] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:31:44,301] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.222 seconds
+[2021-11-23 18:32:28,882] {scheduler_job.py:182} INFO - Started process (PID=14889) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:32:28,884] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2021-11-23 18:32:28,885] {logging_mixin.py:104} INFO - [2021-11-23 18:32:28,885] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:32:28,902] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2021-11-23 18:32:28,922] {logging_mixin.py:104} INFO - [2021-11-23 18:32:28,922] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:32:28,939] {logging_mixin.py:104} INFO - [2021-11-23 18:32:28,939] {dag.py:2305} INFO - Setting next_dagrun for example_nested_branch_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:32:29,051] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.173 seconds

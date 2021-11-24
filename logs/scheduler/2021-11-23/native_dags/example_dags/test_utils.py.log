@@ -1,0 +1,84 @@
+[2021-11-23 18:25:15,689] {scheduler_job.py:182} INFO - Started process (PID=14191) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:25:15,691] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:25:15,692] {logging_mixin.py:104} INFO - [2021-11-23 18:25:15,691] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:25:15,705] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:25:15,721] {logging_mixin.py:104} INFO - [2021-11-23 18:25:15,721] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:25:15,734] {logging_mixin.py:104} INFO - [2021-11-23 18:25:15,734] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:25:15,817] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.133 seconds
+[2021-11-23 18:26:00,186] {scheduler_job.py:182} INFO - Started process (PID=14282) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:26:00,189] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:26:00,190] {logging_mixin.py:104} INFO - [2021-11-23 18:26:00,190] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:26:00,215] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:26:00,246] {logging_mixin.py:104} INFO - [2021-11-23 18:26:00,246] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:26:00,280] {logging_mixin.py:104} INFO - [2021-11-23 18:26:00,279] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:26:00,378] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.203 seconds
+[2021-11-23 18:26:37,145] {scheduler_job.py:182} INFO - Started process (PID=14334) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:26:37,146] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:26:37,147] {logging_mixin.py:104} INFO - [2021-11-23 18:26:37,147] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:26:37,160] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:26:37,175] {logging_mixin.py:104} INFO - [2021-11-23 18:26:37,175] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:26:37,187] {logging_mixin.py:104} INFO - [2021-11-23 18:26:37,187] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:26:37,262] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.122 seconds
+[2021-11-23 18:27:13,636] {scheduler_job.py:182} INFO - Started process (PID=14449) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:27:13,639] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:27:13,641] {logging_mixin.py:104} INFO - [2021-11-23 18:27:13,641] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:27:13,670] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:27:13,708] {logging_mixin.py:104} INFO - [2021-11-23 18:27:13,707] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:27:13,739] {logging_mixin.py:104} INFO - [2021-11-23 18:27:13,739] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:27:13,882] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.250 seconds
+[2021-11-23 18:27:52,734] {scheduler_job.py:182} INFO - Started process (PID=14490) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:27:52,737] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:27:52,739] {logging_mixin.py:104} INFO - [2021-11-23 18:27:52,739] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:27:52,754] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:27:52,777] {logging_mixin.py:104} INFO - [2021-11-23 18:27:52,776] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:27:52,802] {logging_mixin.py:104} INFO - [2021-11-23 18:27:52,802] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:27:52,926] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.199 seconds
+[2021-11-23 18:28:31,086] {scheduler_job.py:182} INFO - Started process (PID=14589) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:28:31,088] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:28:31,090] {logging_mixin.py:104} INFO - [2021-11-23 18:28:31,089] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:28:31,115] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:28:31,153] {logging_mixin.py:104} INFO - [2021-11-23 18:28:31,152] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:28:31,183] {logging_mixin.py:104} INFO - [2021-11-23 18:28:31,183] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:28:31,308] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.231 seconds
+[2021-11-23 18:29:08,741] {scheduler_job.py:182} INFO - Started process (PID=14622) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:29:08,743] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:29:08,744] {logging_mixin.py:104} INFO - [2021-11-23 18:29:08,744] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:29:08,764] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:29:08,786] {logging_mixin.py:104} INFO - [2021-11-23 18:29:08,786] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:29:08,812] {logging_mixin.py:104} INFO - [2021-11-23 18:29:08,811] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:29:08,973] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.237 seconds
+[2021-11-23 18:29:50,650] {scheduler_job.py:182} INFO - Started process (PID=14660) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:29:50,653] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:29:50,655] {logging_mixin.py:104} INFO - [2021-11-23 18:29:50,655] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:29:50,676] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:29:50,701] {logging_mixin.py:104} INFO - [2021-11-23 18:29:50,701] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:29:50,723] {logging_mixin.py:104} INFO - [2021-11-23 18:29:50,723] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:29:50,880] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.237 seconds
+[2021-11-23 18:30:28,897] {scheduler_job.py:182} INFO - Started process (PID=14722) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:30:28,898] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:30:28,901] {logging_mixin.py:104} INFO - [2021-11-23 18:30:28,900] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:30:28,932] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:30:28,967] {logging_mixin.py:104} INFO - [2021-11-23 18:30:28,967] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:30:28,999] {logging_mixin.py:104} INFO - [2021-11-23 18:30:28,999] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:30:29,106] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.221 seconds
+[2021-11-23 18:31:09,862] {scheduler_job.py:182} INFO - Started process (PID=14777) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:31:09,863] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:31:09,865] {logging_mixin.py:104} INFO - [2021-11-23 18:31:09,864] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:31:09,896] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:31:09,932] {logging_mixin.py:104} INFO - [2021-11-23 18:31:09,932] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:31:09,966] {logging_mixin.py:104} INFO - [2021-11-23 18:31:09,966] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:31:10,125] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.269 seconds
+[2021-11-23 18:31:50,920] {scheduler_job.py:182} INFO - Started process (PID=14822) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:31:50,921] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:31:50,922] {logging_mixin.py:104} INFO - [2021-11-23 18:31:50,922] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:31:50,948] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:31:50,989] {logging_mixin.py:104} INFO - [2021-11-23 18:31:50,988] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:31:51,019] {logging_mixin.py:104} INFO - [2021-11-23 18:31:51,019] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:31:51,103] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.194 seconds
+[2021-11-23 18:32:23,294] {scheduler_job.py:182} INFO - Started process (PID=14852) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:32:23,296] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-23 18:32:23,297] {logging_mixin.py:104} INFO - [2021-11-23 18:32:23,297] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:32:23,309] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-23 18:32:23,331] {logging_mixin.py:104} INFO - [2021-11-23 18:32:23,330] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:32:23,355] {logging_mixin.py:104} INFO - [2021-11-23 18:32:23,355] {dag.py:2305} INFO - Setting next_dagrun for test_utils to None
+[2021-11-23 18:32:23,442] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.152 seconds

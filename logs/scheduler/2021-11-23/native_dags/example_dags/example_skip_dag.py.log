@@ -1,0 +1,84 @@
+[2021-11-23 18:25:22,789] {scheduler_job.py:182} INFO - Started process (PID=14239) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:25:22,791] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:25:22,794] {logging_mixin.py:104} INFO - [2021-11-23 18:25:22,794] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:25:22,821] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:25:22,856] {logging_mixin.py:104} INFO - [2021-11-23 18:25:22,856] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:25:22,891] {logging_mixin.py:104} INFO - [2021-11-23 18:25:22,891] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:25:23,013] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.228 seconds
+[2021-11-23 18:26:07,242] {scheduler_job.py:182} INFO - Started process (PID=14303) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:26:07,243] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:26:07,244] {logging_mixin.py:104} INFO - [2021-11-23 18:26:07,244] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:26:07,257] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:26:07,274] {logging_mixin.py:104} INFO - [2021-11-23 18:26:07,274] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:26:07,287] {logging_mixin.py:104} INFO - [2021-11-23 18:26:07,287] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:26:07,394] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.156 seconds
+[2021-11-23 18:26:43,780] {scheduler_job.py:182} INFO - Started process (PID=14386) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:26:43,787] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:26:43,788] {logging_mixin.py:104} INFO - [2021-11-23 18:26:43,788] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:26:43,810] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:26:43,876] {logging_mixin.py:104} INFO - [2021-11-23 18:26:43,876] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:26:43,907] {logging_mixin.py:104} INFO - [2021-11-23 18:26:43,906] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:26:44,070] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.295 seconds
+[2021-11-23 18:27:26,720] {scheduler_job.py:182} INFO - Started process (PID=14467) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:27:26,723] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:27:26,724] {logging_mixin.py:104} INFO - [2021-11-23 18:27:26,724] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:27:26,744] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:27:26,772] {logging_mixin.py:104} INFO - [2021-11-23 18:27:26,772] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:27:26,795] {logging_mixin.py:104} INFO - [2021-11-23 18:27:26,795] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:27:27,023] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.311 seconds
+[2021-11-23 18:28:05,456] {scheduler_job.py:182} INFO - Started process (PID=14516) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:28:05,458] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:28:05,459] {logging_mixin.py:104} INFO - [2021-11-23 18:28:05,459] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:28:05,472] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:28:05,492] {logging_mixin.py:104} INFO - [2021-11-23 18:28:05,492] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:28:05,507] {logging_mixin.py:104} INFO - [2021-11-23 18:28:05,507] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:28:05,666] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.214 seconds
+[2021-11-23 18:28:42,773] {scheduler_job.py:182} INFO - Started process (PID=14597) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:28:42,775] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:28:42,775] {logging_mixin.py:104} INFO - [2021-11-23 18:28:42,775] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:28:42,794] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:28:42,825] {logging_mixin.py:104} INFO - [2021-11-23 18:28:42,824] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:28:42,850] {logging_mixin.py:104} INFO - [2021-11-23 18:28:42,849] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:28:43,000] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.233 seconds
+[2021-11-23 18:29:22,842] {scheduler_job.py:182} INFO - Started process (PID=14635) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:29:22,844] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:29:22,844] {logging_mixin.py:104} INFO - [2021-11-23 18:29:22,844] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:29:22,865] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:29:22,893] {logging_mixin.py:104} INFO - [2021-11-23 18:29:22,893] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:29:22,915] {logging_mixin.py:104} INFO - [2021-11-23 18:29:22,915] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:29:23,011] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.173 seconds
+[2021-11-23 18:30:02,701] {scheduler_job.py:182} INFO - Started process (PID=14671) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:30:02,703] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:30:02,704] {logging_mixin.py:104} INFO - [2021-11-23 18:30:02,704] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:30:02,722] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:30:02,753] {logging_mixin.py:104} INFO - [2021-11-23 18:30:02,753] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:30:02,774] {logging_mixin.py:104} INFO - [2021-11-23 18:30:02,773] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:30:02,866] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.173 seconds
+[2021-11-23 18:30:42,012] {scheduler_job.py:182} INFO - Started process (PID=14731) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:30:42,015] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:30:42,017] {logging_mixin.py:104} INFO - [2021-11-23 18:30:42,017] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:30:42,050] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:30:42,085] {logging_mixin.py:104} INFO - [2021-11-23 18:30:42,084] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:30:42,121] {logging_mixin.py:104} INFO - [2021-11-23 18:30:42,121] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:30:42,232] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.225 seconds
+[2021-11-23 18:31:24,432] {scheduler_job.py:182} INFO - Started process (PID=14799) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:31:24,434] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:31:24,435] {logging_mixin.py:104} INFO - [2021-11-23 18:31:24,435] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:31:24,472] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:31:24,501] {logging_mixin.py:104} INFO - [2021-11-23 18:31:24,500] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:31:24,527] {logging_mixin.py:104} INFO - [2021-11-23 18:31:24,527] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:31:24,640] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.215 seconds
+[2021-11-23 18:32:05,968] {scheduler_job.py:182} INFO - Started process (PID=14834) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:32:05,972] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:32:05,974] {logging_mixin.py:104} INFO - [2021-11-23 18:32:05,974] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:32:06,003] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:32:06,036] {logging_mixin.py:104} INFO - [2021-11-23 18:32:06,036] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:32:06,077] {logging_mixin.py:104} INFO - [2021-11-23 18:32:06,076] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:32:06,207] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.244 seconds
+[2021-11-23 18:32:41,782] {scheduler_job.py:182} INFO - Started process (PID=14929) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:32:41,783] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-11-23 18:32:41,784] {logging_mixin.py:104} INFO - [2021-11-23 18:32:41,784] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:32:41,797] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-11-23 18:32:41,815] {logging_mixin.py:104} INFO - [2021-11-23 18:32:41,815] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 18:32:41,828] {logging_mixin.py:104} INFO - [2021-11-23 18:32:41,828] {dag.py:2305} INFO - Setting next_dagrun for example_skip_dag to 2021-11-21 00:00:00+00:00
+[2021-11-23 18:32:41,906] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.128 seconds
