@@ -1272,3 +1272,248 @@
 [2021-11-23 23:57:21,871] {logging_mixin.py:104} INFO - [2021-11-23 23:57:21,870] {dag.py:1832} INFO - Sync 1 DAGs
 [2021-11-23 23:57:21,884] {logging_mixin.py:104} INFO - [2021-11-23 23:57:21,884] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
 [2021-11-23 23:57:21,965] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.210 seconds
+[2021-11-23 23:58:09,128] {scheduler_job.py:182} INFO - Started process (PID=9023) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:58:09,131] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-23 23:58:09,132] {logging_mixin.py:104} INFO - [2021-11-23 23:58:09,132] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:58:09,261] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:58:09,275] {logging_mixin.py:104} INFO - [2021-11-23 23:58:09,275] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 23:58:09,288] {logging_mixin.py:104} INFO - [2021-11-23 23:58:09,288] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-23 23:58:09,380] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.257 seconds
+[2021-11-23 23:58:53,525] {scheduler_job.py:182} INFO - Started process (PID=9083) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:58:53,527] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-23 23:58:53,528] {logging_mixin.py:104} INFO - [2021-11-23 23:58:53,528] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:58:53,640] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:58:53,660] {logging_mixin.py:104} INFO - [2021-11-23 23:58:53,660] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 23:58:53,679] {logging_mixin.py:104} INFO - [2021-11-23 23:58:53,679] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-23 23:58:53,768] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.247 seconds
+[2021-11-23 23:59:41,435] {scheduler_job.py:182} INFO - Started process (PID=9202) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:59:41,438] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-23 23:59:41,439] {logging_mixin.py:104} INFO - [2021-11-23 23:59:41,439] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:59:41,528] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-23 23:59:41,542] {logging_mixin.py:104} INFO - [2021-11-23 23:59:41,542] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 23:59:41,561] {logging_mixin.py:104} INFO - [2021-11-23 23:59:41,561] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-23 23:59:41,714] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.283 seconds
+[2021-11-24 00:00:29,048] {scheduler_job.py:182} INFO - Started process (PID=9344) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:00:29,050] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:00:29,053] {logging_mixin.py:104} INFO - [2021-11-24 00:00:29,052] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:00:29,090] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:00:29,123] {logging_mixin.py:104} INFO - [2021-11-24 00:00:29,123] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:00:29,147] {logging_mixin.py:104} INFO - [2021-11-24 00:00:29,146] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:00:29,340] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.299 seconds
+[2021-11-24 00:01:09,570] {scheduler_job.py:182} INFO - Started process (PID=9457) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:01:09,574] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:01:09,577] {logging_mixin.py:104} INFO - [2021-11-24 00:01:09,576] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:01:09,606] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:01:09,643] {logging_mixin.py:104} INFO - [2021-11-24 00:01:09,642] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:01:09,672] {logging_mixin.py:104} INFO - [2021-11-24 00:01:09,672] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:01:09,770] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.205 seconds
+[2021-11-24 00:01:53,108] {scheduler_job.py:182} INFO - Started process (PID=9547) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:01:53,110] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:01:53,112] {logging_mixin.py:104} INFO - [2021-11-24 00:01:53,111] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:01:53,146] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:01:53,182] {logging_mixin.py:104} INFO - [2021-11-24 00:01:53,182] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:01:53,214] {logging_mixin.py:104} INFO - [2021-11-24 00:01:53,213] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:01:53,453] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.349 seconds
+[2021-11-24 00:02:44,225] {scheduler_job.py:182} INFO - Started process (PID=9661) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:02:44,227] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:02:44,229] {logging_mixin.py:104} INFO - [2021-11-24 00:02:44,228] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:02:44,254] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:02:44,288] {logging_mixin.py:104} INFO - [2021-11-24 00:02:44,288] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:02:44,311] {logging_mixin.py:104} INFO - [2021-11-24 00:02:44,311] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:02:44,431] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.210 seconds
+[2021-11-24 00:03:19,510] {scheduler_job.py:182} INFO - Started process (PID=9731) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:03:19,512] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:03:19,513] {logging_mixin.py:104} INFO - [2021-11-24 00:03:19,513] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:03:19,557] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:03:19,591] {logging_mixin.py:104} INFO - [2021-11-24 00:03:19,591] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:03:19,627] {logging_mixin.py:104} INFO - [2021-11-24 00:03:19,627] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:03:19,745] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.242 seconds
+[2021-11-24 00:04:03,761] {scheduler_job.py:182} INFO - Started process (PID=9794) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:04:03,765] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:04:03,766] {logging_mixin.py:104} INFO - [2021-11-24 00:04:03,766] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:04:03,798] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:04:03,824] {logging_mixin.py:104} INFO - [2021-11-24 00:04:03,823] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:04:03,844] {logging_mixin.py:104} INFO - [2021-11-24 00:04:03,844] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:04:03,970] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.217 seconds
+[2021-11-24 00:04:42,199] {scheduler_job.py:182} INFO - Started process (PID=9859) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:04:42,201] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:04:42,202] {logging_mixin.py:104} INFO - [2021-11-24 00:04:42,202] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:04:42,226] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:04:42,251] {logging_mixin.py:104} INFO - [2021-11-24 00:04:42,251] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:04:42,271] {logging_mixin.py:104} INFO - [2021-11-24 00:04:42,271] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:04:42,364] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.172 seconds
+[2021-11-24 00:05:15,025] {scheduler_job.py:182} INFO - Started process (PID=9964) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:05:15,027] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:05:15,028] {logging_mixin.py:104} INFO - [2021-11-24 00:05:15,028] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:05:15,048] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:05:15,067] {logging_mixin.py:104} INFO - [2021-11-24 00:05:15,066] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:05:15,083] {logging_mixin.py:104} INFO - [2021-11-24 00:05:15,083] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:05:15,188] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.167 seconds
+[2021-11-24 00:05:54,584] {scheduler_job.py:182} INFO - Started process (PID=10015) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:05:54,586] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:05:54,587] {logging_mixin.py:104} INFO - [2021-11-24 00:05:54,587] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:05:54,606] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:05:54,624] {logging_mixin.py:104} INFO - [2021-11-24 00:05:54,624] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:05:54,640] {logging_mixin.py:104} INFO - [2021-11-24 00:05:54,640] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:05:54,724] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.144 seconds
+[2021-11-24 00:06:42,864] {scheduler_job.py:182} INFO - Started process (PID=10062) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:06:42,867] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:06:42,868] {logging_mixin.py:104} INFO - [2021-11-24 00:06:42,868] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:06:42,901] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:06:42,937] {logging_mixin.py:104} INFO - [2021-11-24 00:06:42,936] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:06:42,965] {logging_mixin.py:104} INFO - [2021-11-24 00:06:42,964] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:06:43,090] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.229 seconds
+[2021-11-24 00:07:31,237] {scheduler_job.py:182} INFO - Started process (PID=10102) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:07:31,240] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:07:31,241] {logging_mixin.py:104} INFO - [2021-11-24 00:07:31,241] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:07:31,263] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:07:31,298] {logging_mixin.py:104} INFO - [2021-11-24 00:07:31,298] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:07:31,328] {logging_mixin.py:104} INFO - [2021-11-24 00:07:31,328] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:07:31,419] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.186 seconds
+[2021-11-24 00:08:10,450] {scheduler_job.py:182} INFO - Started process (PID=10160) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:08:10,452] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:08:10,453] {logging_mixin.py:104} INFO - [2021-11-24 00:08:10,453] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:08:10,475] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:08:10,492] {logging_mixin.py:104} INFO - [2021-11-24 00:08:10,492] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:08:10,507] {logging_mixin.py:104} INFO - [2021-11-24 00:08:10,507] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:08:10,638] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.192 seconds
+[2021-11-24 00:08:53,687] {scheduler_job.py:182} INFO - Started process (PID=10344) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:08:53,689] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:08:53,690] {logging_mixin.py:104} INFO - [2021-11-24 00:08:53,690] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:08:53,716] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:08:53,750] {logging_mixin.py:104} INFO - [2021-11-24 00:08:53,750] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:08:53,778] {logging_mixin.py:104} INFO - [2021-11-24 00:08:53,778] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:08:53,877] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.198 seconds
+[2021-11-24 00:09:29,398] {scheduler_job.py:182} INFO - Started process (PID=10439) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:09:29,400] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:09:29,401] {logging_mixin.py:104} INFO - [2021-11-24 00:09:29,401] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:09:29,420] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:09:29,439] {logging_mixin.py:104} INFO - [2021-11-24 00:09:29,439] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:09:29,458] {logging_mixin.py:104} INFO - [2021-11-24 00:09:29,458] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:09:29,693] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.300 seconds
+[2021-11-24 00:10:09,292] {scheduler_job.py:182} INFO - Started process (PID=10604) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:10:09,294] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:10:09,295] {logging_mixin.py:104} INFO - [2021-11-24 00:10:09,295] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:10:09,314] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:10:09,333] {logging_mixin.py:104} INFO - [2021-11-24 00:10:09,332] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:10:09,350] {logging_mixin.py:104} INFO - [2021-11-24 00:10:09,349] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:10:09,466] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.178 seconds
+[2021-11-24 00:10:49,858] {scheduler_job.py:182} INFO - Started process (PID=10654) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:10:49,862] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:10:49,863] {logging_mixin.py:104} INFO - [2021-11-24 00:10:49,862] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:10:49,882] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:10:49,913] {logging_mixin.py:104} INFO - [2021-11-24 00:10:49,912] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:10:49,935] {logging_mixin.py:104} INFO - [2021-11-24 00:10:49,935] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:10:50,045] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.192 seconds
+[2021-11-24 00:11:23,828] {scheduler_job.py:182} INFO - Started process (PID=10695) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:11:23,829] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:11:23,831] {logging_mixin.py:104} INFO - [2021-11-24 00:11:23,830] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:11:23,850] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:11:23,866] {logging_mixin.py:104} INFO - [2021-11-24 00:11:23,866] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:11:23,881] {logging_mixin.py:104} INFO - [2021-11-24 00:11:23,881] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:11:23,970] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2021-11-24 00:12:04,290] {scheduler_job.py:182} INFO - Started process (PID=10776) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:12:04,292] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:12:04,293] {logging_mixin.py:104} INFO - [2021-11-24 00:12:04,292] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:12:04,314] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:12:04,335] {logging_mixin.py:104} INFO - [2021-11-24 00:12:04,335] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:12:04,353] {logging_mixin.py:104} INFO - [2021-11-24 00:12:04,353] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:12:04,445] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.160 seconds
+[2021-11-24 00:12:46,323] {scheduler_job.py:182} INFO - Started process (PID=10841) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:12:46,325] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:12:46,326] {logging_mixin.py:104} INFO - [2021-11-24 00:12:46,326] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:12:46,347] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:12:46,370] {logging_mixin.py:104} INFO - [2021-11-24 00:12:46,370] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:12:46,391] {logging_mixin.py:104} INFO - [2021-11-24 00:12:46,391] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:12:46,514] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.196 seconds
+[2021-11-24 00:13:25,681] {scheduler_job.py:182} INFO - Started process (PID=10953) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:13:25,682] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:13:25,683] {logging_mixin.py:104} INFO - [2021-11-24 00:13:25,683] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:13:25,703] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:13:25,720] {logging_mixin.py:104} INFO - [2021-11-24 00:13:25,720] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:13:25,736] {logging_mixin.py:104} INFO - [2021-11-24 00:13:25,736] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:13:25,861] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.184 seconds
+[2021-11-24 00:14:00,839] {scheduler_job.py:182} INFO - Started process (PID=11031) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:14:00,843] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:14:00,844] {logging_mixin.py:104} INFO - [2021-11-24 00:14:00,844] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:14:00,869] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:14:00,901] {logging_mixin.py:104} INFO - [2021-11-24 00:14:00,901] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:14:00,930] {logging_mixin.py:104} INFO - [2021-11-24 00:14:00,930] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:14:01,074] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.241 seconds
+[2021-11-24 00:14:35,923] {scheduler_job.py:182} INFO - Started process (PID=11098) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:14:35,926] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:14:35,927] {logging_mixin.py:104} INFO - [2021-11-24 00:14:35,927] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:14:35,950] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:14:35,979] {logging_mixin.py:104} INFO - [2021-11-24 00:14:35,978] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:14:36,004] {logging_mixin.py:104} INFO - [2021-11-24 00:14:36,004] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:14:36,144] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.230 seconds
+[2021-11-24 00:15:11,749] {scheduler_job.py:182} INFO - Started process (PID=11215) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:15:11,752] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:15:11,753] {logging_mixin.py:104} INFO - [2021-11-24 00:15:11,753] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:15:11,778] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:15:11,823] {logging_mixin.py:104} INFO - [2021-11-24 00:15:11,823] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:15:11,858] {logging_mixin.py:104} INFO - [2021-11-24 00:15:11,858] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:15:12,317] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.576 seconds
+[2021-11-24 00:15:55,185] {scheduler_job.py:182} INFO - Started process (PID=11378) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:15:55,188] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:15:55,190] {logging_mixin.py:104} INFO - [2021-11-24 00:15:55,189] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:15:55,207] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:15:55,224] {logging_mixin.py:104} INFO - [2021-11-24 00:15:55,224] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:15:55,240] {logging_mixin.py:104} INFO - [2021-11-24 00:15:55,239] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:15:55,333] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.152 seconds
+[2021-11-24 00:16:33,226] {scheduler_job.py:182} INFO - Started process (PID=11544) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:16:33,227] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:16:33,228] {logging_mixin.py:104} INFO - [2021-11-24 00:16:33,228] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:16:33,243] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:16:33,260] {logging_mixin.py:104} INFO - [2021-11-24 00:16:33,260] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:16:33,274] {logging_mixin.py:104} INFO - [2021-11-24 00:16:33,274] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:16:33,602] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.380 seconds
+[2021-11-24 00:17:20,979] {scheduler_job.py:182} INFO - Started process (PID=11656) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:17:20,982] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:17:20,983] {logging_mixin.py:104} INFO - [2021-11-24 00:17:20,982] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:17:21,010] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:17:21,044] {logging_mixin.py:104} INFO - [2021-11-24 00:17:21,043] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:17:21,072] {logging_mixin.py:104} INFO - [2021-11-24 00:17:21,071] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:17:21,267] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.294 seconds
+[2021-11-24 00:18:11,326] {scheduler_job.py:182} INFO - Started process (PID=11722) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:18:11,328] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:18:11,329] {logging_mixin.py:104} INFO - [2021-11-24 00:18:11,329] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:18:11,358] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:18:11,384] {logging_mixin.py:104} INFO - [2021-11-24 00:18:11,384] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:18:11,409] {logging_mixin.py:104} INFO - [2021-11-24 00:18:11,409] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:18:12,101] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.781 seconds
+[2021-11-24 00:18:54,330] {scheduler_job.py:182} INFO - Started process (PID=11842) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:18:54,332] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:18:54,333] {logging_mixin.py:104} INFO - [2021-11-24 00:18:54,333] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:18:54,353] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:18:54,376] {logging_mixin.py:104} INFO - [2021-11-24 00:18:54,376] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:18:54,395] {logging_mixin.py:104} INFO - [2021-11-24 00:18:54,395] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:18:54,510] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.184 seconds
+[2021-11-24 00:19:29,229] {scheduler_job.py:182} INFO - Started process (PID=11876) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:19:29,230] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:19:29,231] {logging_mixin.py:104} INFO - [2021-11-24 00:19:29,231] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:19:29,245] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:19:29,262] {logging_mixin.py:104} INFO - [2021-11-24 00:19:29,262] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:19:29,275] {logging_mixin.py:104} INFO - [2021-11-24 00:19:29,275] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:19:29,442] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.217 seconds
+[2021-11-24 00:20:05,427] {scheduler_job.py:182} INFO - Started process (PID=11990) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:20:05,429] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:20:05,430] {logging_mixin.py:104} INFO - [2021-11-24 00:20:05,430] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:20:05,448] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:20:05,469] {logging_mixin.py:104} INFO - [2021-11-24 00:20:05,469] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:20:05,486] {logging_mixin.py:104} INFO - [2021-11-24 00:20:05,486] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:20:05,654] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.231 seconds
+[2021-11-24 00:20:41,948] {scheduler_job.py:182} INFO - Started process (PID=12058) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:20:41,950] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:20:41,951] {logging_mixin.py:104} INFO - [2021-11-24 00:20:41,950] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:20:41,980] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:20:42,003] {logging_mixin.py:104} INFO - [2021-11-24 00:20:42,003] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:20:42,031] {logging_mixin.py:104} INFO - [2021-11-24 00:20:42,030] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:20:42,192] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.252 seconds
+[2021-11-24 00:21:21,341] {scheduler_job.py:182} INFO - Started process (PID=12128) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:21:21,343] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-11-24 00:21:21,344] {logging_mixin.py:104} INFO - [2021-11-24 00:21:21,344] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:21:21,359] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-11-24 00:21:21,376] {logging_mixin.py:104} INFO - [2021-11-24 00:21:21,376] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:21:21,394] {logging_mixin.py:104} INFO - [2021-11-24 00:21:21,393] {dag.py:2305} INFO - Setting next_dagrun for tutorial to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:21:21,509] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.171 seconds

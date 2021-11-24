@@ -1187,3 +1187,228 @@
 [2021-11-23 23:57:26,196] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
 [2021-11-23 23:57:26,213] {logging_mixin.py:104} INFO - [2021-11-23 23:57:26,213] {dag.py:1832} INFO - Sync 1 DAGs
 [2021-11-23 23:57:26,230] {logging_mixin.py:104} INFO - [2021-11-23 23:57:26,230] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-23 23:57:26,827] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.752 seconds
+[2021-11-23 23:58:12,992] {scheduler_job.py:182} INFO - Started process (PID=9026) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:58:12,993] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-23 23:58:12,994] {logging_mixin.py:104} INFO - [2021-11-23 23:58:12,994] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:58:13,084] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:58:13,097] {logging_mixin.py:104} INFO - [2021-11-23 23:58:13,097] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 23:58:13,110] {logging_mixin.py:104} INFO - [2021-11-23 23:58:13,110] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-23 23:58:13,198] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.210 seconds
+[2021-11-23 23:58:57,374] {scheduler_job.py:182} INFO - Started process (PID=9086) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:58:57,376] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-23 23:58:57,378] {logging_mixin.py:104} INFO - [2021-11-23 23:58:57,377] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:58:57,472] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:58:57,486] {logging_mixin.py:104} INFO - [2021-11-23 23:58:57,486] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 23:58:57,498] {logging_mixin.py:104} INFO - [2021-11-23 23:58:57,498] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-23 23:58:57,597] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.226 seconds
+[2021-11-23 23:59:45,429] {scheduler_job.py:182} INFO - Started process (PID=9212) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:59:45,430] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-23 23:59:45,432] {logging_mixin.py:104} INFO - [2021-11-23 23:59:45,432] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:59:45,599] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-23 23:59:45,625] {logging_mixin.py:104} INFO - [2021-11-23 23:59:45,625] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-23 23:59:45,653] {logging_mixin.py:104} INFO - [2021-11-23 23:59:45,652] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-23 23:59:45,819] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.397 seconds
+[2021-11-24 00:00:33,047] {scheduler_job.py:182} INFO - Started process (PID=9421) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:00:33,050] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:00:33,052] {logging_mixin.py:104} INFO - [2021-11-24 00:00:33,051] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:00:33,074] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:00:33,098] {logging_mixin.py:104} INFO - [2021-11-24 00:00:33,098] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:00:33,124] {logging_mixin.py:104} INFO - [2021-11-24 00:00:33,123] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:00:33,395] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.354 seconds
+[2021-11-24 00:01:13,069] {scheduler_job.py:182} INFO - Started process (PID=9460) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:01:13,071] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:01:13,074] {logging_mixin.py:104} INFO - [2021-11-24 00:01:13,074] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:01:13,108] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:01:13,148] {logging_mixin.py:104} INFO - [2021-11-24 00:01:13,147] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:01:13,177] {logging_mixin.py:104} INFO - [2021-11-24 00:01:13,177] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:01:13,288] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2021-11-24 00:01:57,080] {scheduler_job.py:182} INFO - Started process (PID=9575) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:01:57,082] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:01:57,084] {logging_mixin.py:104} INFO - [2021-11-24 00:01:57,083] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:01:57,106] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:01:57,130] {logging_mixin.py:104} INFO - [2021-11-24 00:01:57,130] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:01:57,152] {logging_mixin.py:104} INFO - [2021-11-24 00:01:57,152] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:01:57,250] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.174 seconds
+[2021-11-24 00:02:47,873] {scheduler_job.py:182} INFO - Started process (PID=9668) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:02:47,874] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:02:47,885] {logging_mixin.py:104} INFO - [2021-11-24 00:02:47,884] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:02:47,914] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:02:47,944] {logging_mixin.py:104} INFO - [2021-11-24 00:02:47,944] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:02:47,963] {logging_mixin.py:104} INFO - [2021-11-24 00:02:47,962] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:02:48,078] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.208 seconds
+[2021-11-24 00:03:38,357] {scheduler_job.py:182} INFO - Started process (PID=9754) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:03:38,360] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:03:38,361] {logging_mixin.py:104} INFO - [2021-11-24 00:03:38,361] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:03:38,390] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:03:38,421] {logging_mixin.py:104} INFO - [2021-11-24 00:03:38,421] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:03:38,449] {logging_mixin.py:104} INFO - [2021-11-24 00:03:38,448] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:03:38,606] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.255 seconds
+[2021-11-24 00:04:21,537] {scheduler_job.py:182} INFO - Started process (PID=9825) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:04:21,538] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:04:21,540] {logging_mixin.py:104} INFO - [2021-11-24 00:04:21,539] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:04:21,561] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:04:21,585] {logging_mixin.py:104} INFO - [2021-11-24 00:04:21,585] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:04:21,608] {logging_mixin.py:104} INFO - [2021-11-24 00:04:21,607] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:04:21,720] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.188 seconds
+[2021-11-24 00:05:05,061] {scheduler_job.py:182} INFO - Started process (PID=9907) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:05:05,063] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:05:05,063] {logging_mixin.py:104} INFO - [2021-11-24 00:05:05,063] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:05:05,079] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:05:05,098] {logging_mixin.py:104} INFO - [2021-11-24 00:05:05,098] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:05:05,115] {logging_mixin.py:104} INFO - [2021-11-24 00:05:05,115] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:05:05,202] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.144 seconds
+[2021-11-24 00:05:43,915] {scheduler_job.py:182} INFO - Started process (PID=10002) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:05:43,917] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:05:43,918] {logging_mixin.py:104} INFO - [2021-11-24 00:05:43,918] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:05:43,937] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:05:43,955] {logging_mixin.py:104} INFO - [2021-11-24 00:05:43,955] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:05:43,971] {logging_mixin.py:104} INFO - [2021-11-24 00:05:43,971] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:05:44,074] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.163 seconds
+[2021-11-24 00:06:32,174] {scheduler_job.py:182} INFO - Started process (PID=10052) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:06:32,177] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:06:32,179] {logging_mixin.py:104} INFO - [2021-11-24 00:06:32,178] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:06:32,205] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:06:32,240] {logging_mixin.py:104} INFO - [2021-11-24 00:06:32,240] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:06:32,271] {logging_mixin.py:104} INFO - [2021-11-24 00:06:32,270] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:06:32,380] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.210 seconds
+[2021-11-24 00:07:20,474] {scheduler_job.py:182} INFO - Started process (PID=10094) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:07:20,477] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:07:20,478] {logging_mixin.py:104} INFO - [2021-11-24 00:07:20,478] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:07:20,505] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:07:20,535] {logging_mixin.py:104} INFO - [2021-11-24 00:07:20,534] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:07:20,572] {logging_mixin.py:104} INFO - [2021-11-24 00:07:20,572] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:07:20,710] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.242 seconds
+[2021-11-24 00:08:02,140] {scheduler_job.py:182} INFO - Started process (PID=10152) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:08:02,143] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:08:02,144] {logging_mixin.py:104} INFO - [2021-11-24 00:08:02,144] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:08:02,162] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:08:02,186] {logging_mixin.py:104} INFO - [2021-11-24 00:08:02,186] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:08:02,201] {logging_mixin.py:104} INFO - [2021-11-24 00:08:02,200] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:08:02,394] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.259 seconds
+[2021-11-24 00:08:45,299] {scheduler_job.py:182} INFO - Started process (PID=10320) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:08:45,302] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:08:45,304] {logging_mixin.py:104} INFO - [2021-11-24 00:08:45,303] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:08:45,321] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:08:45,337] {logging_mixin.py:104} INFO - [2021-11-24 00:08:45,337] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:08:45,352] {logging_mixin.py:104} INFO - [2021-11-24 00:08:45,352] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:08:45,543] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.249 seconds
+[2021-11-24 00:09:34,925] {scheduler_job.py:182} INFO - Started process (PID=10477) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:09:34,930] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:09:34,932] {logging_mixin.py:104} INFO - [2021-11-24 00:09:34,932] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:09:34,962] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:09:34,995] {logging_mixin.py:104} INFO - [2021-11-24 00:09:34,994] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:09:35,014] {logging_mixin.py:104} INFO - [2021-11-24 00:09:35,014] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:09:35,194] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.274 seconds
+[2021-11-24 00:10:13,361] {scheduler_job.py:182} INFO - Started process (PID=10610) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:10:13,364] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:10:13,367] {logging_mixin.py:104} INFO - [2021-11-24 00:10:13,366] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:10:13,396] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:10:13,432] {logging_mixin.py:104} INFO - [2021-11-24 00:10:13,432] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:10:13,465] {logging_mixin.py:104} INFO - [2021-11-24 00:10:13,464] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:10:13,579] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2021-11-24 00:10:54,318] {scheduler_job.py:182} INFO - Started process (PID=10663) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:10:54,319] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:10:54,320] {logging_mixin.py:104} INFO - [2021-11-24 00:10:54,320] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:10:54,338] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:10:54,356] {logging_mixin.py:104} INFO - [2021-11-24 00:10:54,356] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:10:54,372] {logging_mixin.py:104} INFO - [2021-11-24 00:10:54,372] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:10:54,480] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.166 seconds
+[2021-11-24 00:11:38,553] {scheduler_job.py:182} INFO - Started process (PID=10741) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:11:38,555] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:11:38,556] {logging_mixin.py:104} INFO - [2021-11-24 00:11:38,555] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:11:38,572] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:11:38,591] {logging_mixin.py:104} INFO - [2021-11-24 00:11:38,590] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:11:38,608] {logging_mixin.py:104} INFO - [2021-11-24 00:11:38,608] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:11:38,718] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.169 seconds
+[2021-11-24 00:12:20,084] {scheduler_job.py:182} INFO - Started process (PID=10791) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:12:20,086] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:12:20,087] {logging_mixin.py:104} INFO - [2021-11-24 00:12:20,086] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:12:20,106] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:12:20,124] {logging_mixin.py:104} INFO - [2021-11-24 00:12:20,124] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:12:20,140] {logging_mixin.py:104} INFO - [2021-11-24 00:12:20,140] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:12:20,255] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.175 seconds
+[2021-11-24 00:13:05,097] {scheduler_job.py:182} INFO - Started process (PID=10868) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:13:05,099] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:13:05,100] {logging_mixin.py:104} INFO - [2021-11-24 00:13:05,100] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:13:05,119] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:13:05,137] {logging_mixin.py:104} INFO - [2021-11-24 00:13:05,137] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:13:05,153] {logging_mixin.py:104} INFO - [2021-11-24 00:13:05,153] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:13:05,292] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.200 seconds
+[2021-11-24 00:13:49,438] {scheduler_job.py:182} INFO - Started process (PID=11022) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:13:49,441] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:13:49,442] {logging_mixin.py:104} INFO - [2021-11-24 00:13:49,442] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:13:49,462] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:13:49,484] {logging_mixin.py:104} INFO - [2021-11-24 00:13:49,484] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:13:49,505] {logging_mixin.py:104} INFO - [2021-11-24 00:13:49,505] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:13:49,602] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.169 seconds
+[2021-11-24 00:14:27,207] {scheduler_job.py:182} INFO - Started process (PID=11064) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:14:27,208] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:14:27,209] {logging_mixin.py:104} INFO - [2021-11-24 00:14:27,209] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:14:27,224] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:14:27,240] {logging_mixin.py:104} INFO - [2021-11-24 00:14:27,239] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:14:27,253] {logging_mixin.py:104} INFO - [2021-11-24 00:14:27,253] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:14:27,393] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.191 seconds
+[2021-11-24 00:15:15,845] {scheduler_job.py:182} INFO - Started process (PID=11222) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:15:15,847] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:15:15,849] {logging_mixin.py:104} INFO - [2021-11-24 00:15:15,848] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:15:15,879] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:15:15,912] {logging_mixin.py:104} INFO - [2021-11-24 00:15:15,912] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:15:15,945] {logging_mixin.py:104} INFO - [2021-11-24 00:15:15,945] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:15:16,142] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.302 seconds
+[2021-11-24 00:15:58,045] {scheduler_job.py:182} INFO - Started process (PID=11396) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:15:58,048] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:15:58,049] {logging_mixin.py:104} INFO - [2021-11-24 00:15:58,049] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:15:58,069] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:15:58,093] {logging_mixin.py:104} INFO - [2021-11-24 00:15:58,093] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:15:58,114] {logging_mixin.py:104} INFO - [2021-11-24 00:15:58,114] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:15:58,266] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.225 seconds
+[2021-11-24 00:16:36,730] {scheduler_job.py:182} INFO - Started process (PID=11573) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:16:36,732] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:16:36,733] {logging_mixin.py:104} INFO - [2021-11-24 00:16:36,733] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:16:36,757] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:16:36,774] {logging_mixin.py:104} INFO - [2021-11-24 00:16:36,773] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:16:36,788] {logging_mixin.py:104} INFO - [2021-11-24 00:16:36,788] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:16:36,912] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.185 seconds
+[2021-11-24 00:17:25,015] {scheduler_job.py:182} INFO - Started process (PID=11662) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:17:25,017] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:17:25,018] {logging_mixin.py:104} INFO - [2021-11-24 00:17:25,018] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:17:25,036] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:17:25,057] {logging_mixin.py:104} INFO - [2021-11-24 00:17:25,057] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:17:25,074] {logging_mixin.py:104} INFO - [2021-11-24 00:17:25,073] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:17:25,201] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.190 seconds
+[2021-11-24 00:18:15,336] {scheduler_job.py:182} INFO - Started process (PID=11725) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:18:15,342] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:18:15,343] {logging_mixin.py:104} INFO - [2021-11-24 00:18:15,343] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:18:15,390] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:18:15,436] {logging_mixin.py:104} INFO - [2021-11-24 00:18:15,435] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:18:15,476] {logging_mixin.py:104} INFO - [2021-11-24 00:18:15,476] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:18:15,675] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.348 seconds
+[2021-11-24 00:18:58,185] {scheduler_job.py:182} INFO - Started process (PID=11845) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:18:58,189] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:18:58,190] {logging_mixin.py:104} INFO - [2021-11-24 00:18:58,190] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:18:58,207] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:18:58,224] {logging_mixin.py:104} INFO - [2021-11-24 00:18:58,224] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:18:58,240] {logging_mixin.py:104} INFO - [2021-11-24 00:18:58,239] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:18:58,334] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.152 seconds
+[2021-11-24 00:19:33,185] {scheduler_job.py:182} INFO - Started process (PID=11879) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:19:33,187] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:19:33,189] {logging_mixin.py:104} INFO - [2021-11-24 00:19:33,188] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:19:33,207] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:19:33,224] {logging_mixin.py:104} INFO - [2021-11-24 00:19:33,224] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:19:33,239] {logging_mixin.py:104} INFO - [2021-11-24 00:19:33,239] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:19:33,341] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.159 seconds
+[2021-11-24 00:20:12,596] {scheduler_job.py:182} INFO - Started process (PID=12018) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:20:12,599] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:20:12,600] {logging_mixin.py:104} INFO - [2021-11-24 00:20:12,600] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:20:12,629] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:20:12,660] {logging_mixin.py:104} INFO - [2021-11-24 00:20:12,659] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:20:12,690] {logging_mixin.py:104} INFO - [2021-11-24 00:20:12,689] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:20:12,818] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.229 seconds
+[2021-11-24 00:21:01,040] {scheduler_job.py:182} INFO - Started process (PID=12088) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:21:01,043] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-11-24 00:21:01,045] {logging_mixin.py:104} INFO - [2021-11-24 00:21:01,043] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:21:01,075] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-11-24 00:21:01,101] {logging_mixin.py:104} INFO - [2021-11-24 00:21:01,101] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:21:01,131] {logging_mixin.py:104} INFO - [2021-11-24 00:21:01,131] {dag.py:2305} INFO - Setting next_dagrun for example_xcom to 2021-11-22 00:00:00+00:00
+[2021-11-24 00:21:01,255] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.219 seconds
