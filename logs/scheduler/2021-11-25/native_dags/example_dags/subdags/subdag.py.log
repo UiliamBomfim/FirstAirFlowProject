@@ -1,0 +1,880 @@
+[2021-11-25 13:28:33,844] {scheduler_job.py:182} INFO - Started process (PID=7519) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:28:33,846] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:28:33,847] {logging_mixin.py:104} INFO - [2021-11-25 13:28:33,847] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:28:33,861] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:28:33,870] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2021-11-25 13:29:21,988] {scheduler_job.py:182} INFO - Started process (PID=7817) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:29:21,990] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:29:21,991] {logging_mixin.py:104} INFO - [2021-11-25 13:29:21,991] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:29:21,997] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:29:22,013] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2021-11-25 13:30:08,144] {scheduler_job.py:182} INFO - Started process (PID=7978) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:30:08,146] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:30:08,147] {logging_mixin.py:104} INFO - [2021-11-25 13:30:08,146] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:30:08,151] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:30:08,163] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-11-25 13:30:48,195] {scheduler_job.py:182} INFO - Started process (PID=8123) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:30:48,198] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:30:48,199] {logging_mixin.py:104} INFO - [2021-11-25 13:30:48,199] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:30:48,204] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:30:48,218] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2021-11-25 13:31:37,635] {scheduler_job.py:182} INFO - Started process (PID=8249) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:31:37,637] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:31:37,638] {logging_mixin.py:104} INFO - [2021-11-25 13:31:37,638] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:31:37,647] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:31:37,669] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2021-11-25 13:32:16,348] {scheduler_job.py:182} INFO - Started process (PID=8308) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:32:16,350] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:32:16,352] {logging_mixin.py:104} INFO - [2021-11-25 13:32:16,351] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:32:16,357] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:32:16,370] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2021-11-25 13:33:00,460] {scheduler_job.py:182} INFO - Started process (PID=8487) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:33:00,462] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:33:00,463] {logging_mixin.py:104} INFO - [2021-11-25 13:33:00,462] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:33:00,466] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:33:00,475] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 13:33:46,105] {scheduler_job.py:182} INFO - Started process (PID=8833) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:33:46,156] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:33:46,157] {logging_mixin.py:104} INFO - [2021-11-25 13:33:46,157] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:33:46,335] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:33:46,353] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.251 seconds
+[2021-11-25 13:34:39,795] {scheduler_job.py:182} INFO - Started process (PID=9097) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:34:39,797] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:34:39,798] {logging_mixin.py:104} INFO - [2021-11-25 13:34:39,798] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:34:39,802] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:34:39,815] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2021-11-25 13:35:37,294] {scheduler_job.py:182} INFO - Started process (PID=9205) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:35:37,320] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:35:37,323] {logging_mixin.py:104} INFO - [2021-11-25 13:35:37,322] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:35:37,350] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:35:37,372] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.082 seconds
+[2021-11-25 13:36:53,265] {scheduler_job.py:182} INFO - Started process (PID=9426) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:36:53,280] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:36:53,281] {logging_mixin.py:104} INFO - [2021-11-25 13:36:53,281] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:36:53,294] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:36:53,307] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.046 seconds
+[2021-11-25 13:37:48,767] {scheduler_job.py:182} INFO - Started process (PID=9482) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:37:48,781] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:37:48,782] {logging_mixin.py:104} INFO - [2021-11-25 13:37:48,782] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:37:48,825] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:37:48,838] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.076 seconds
+[2021-11-25 13:38:35,134] {scheduler_job.py:182} INFO - Started process (PID=9544) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:38:35,139] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:38:35,141] {logging_mixin.py:104} INFO - [2021-11-25 13:38:35,140] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:38:35,148] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:38:35,168] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2021-11-25 13:39:18,750] {scheduler_job.py:182} INFO - Started process (PID=9683) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:39:18,752] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:39:18,753] {logging_mixin.py:104} INFO - [2021-11-25 13:39:18,753] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:39:18,758] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:39:18,768] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2021-11-25 13:40:03,181] {scheduler_job.py:182} INFO - Started process (PID=9764) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:40:03,183] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:40:03,184] {logging_mixin.py:104} INFO - [2021-11-25 13:40:03,183] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:40:03,188] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:40:03,198] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-11-25 13:40:53,949] {scheduler_job.py:182} INFO - Started process (PID=9826) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:40:53,952] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:40:53,953] {logging_mixin.py:104} INFO - [2021-11-25 13:40:53,953] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:40:53,958] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:40:53,977] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2021-11-25 13:41:33,158] {scheduler_job.py:182} INFO - Started process (PID=10015) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:41:33,161] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:41:33,163] {logging_mixin.py:104} INFO - [2021-11-25 13:41:33,163] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:41:33,169] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:41:33,818] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.666 seconds
+[2021-11-25 13:42:25,018] {scheduler_job.py:182} INFO - Started process (PID=10368) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:42:25,019] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:42:25,021] {logging_mixin.py:104} INFO - [2021-11-25 13:42:25,020] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:42:25,024] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:42:25,034] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 13:43:11,695] {scheduler_job.py:182} INFO - Started process (PID=10563) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:43:11,697] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:43:11,698] {logging_mixin.py:104} INFO - [2021-11-25 13:43:11,697] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:43:11,701] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:43:11,711] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 13:44:05,805] {scheduler_job.py:182} INFO - Started process (PID=11153) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:44:05,808] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:44:05,809] {logging_mixin.py:104} INFO - [2021-11-25 13:44:05,809] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:44:05,815] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:44:05,827] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2021-11-25 13:44:52,854] {scheduler_job.py:182} INFO - Started process (PID=11484) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:44:52,856] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:44:52,858] {logging_mixin.py:104} INFO - [2021-11-25 13:44:52,857] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:44:52,864] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:44:52,880] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2021-11-25 13:45:28,800] {scheduler_job.py:182} INFO - Started process (PID=11757) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:45:28,802] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:45:28,802] {logging_mixin.py:104} INFO - [2021-11-25 13:45:28,802] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:45:28,806] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:45:28,814] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 13:46:07,275] {scheduler_job.py:182} INFO - Started process (PID=12033) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:46:07,278] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:46:07,280] {logging_mixin.py:104} INFO - [2021-11-25 13:46:07,279] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:46:07,293] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:46:07,314] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2021-11-25 13:46:54,836] {scheduler_job.py:182} INFO - Started process (PID=12307) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:46:54,837] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:46:54,839] {logging_mixin.py:104} INFO - [2021-11-25 13:46:54,839] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:46:54,846] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:46:54,862] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2021-11-25 13:47:35,036] {scheduler_job.py:182} INFO - Started process (PID=12608) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:47:35,038] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:47:35,041] {logging_mixin.py:104} INFO - [2021-11-25 13:47:35,041] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:47:35,045] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:47:35,063] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.036 seconds
+[2021-11-25 13:48:23,181] {scheduler_job.py:182} INFO - Started process (PID=12939) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:48:23,183] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:48:23,184] {logging_mixin.py:104} INFO - [2021-11-25 13:48:23,184] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:48:23,189] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:48:23,207] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2021-11-25 13:48:59,788] {scheduler_job.py:182} INFO - Started process (PID=13176) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:48:59,801] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:48:59,802] {logging_mixin.py:104} INFO - [2021-11-25 13:48:59,802] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:48:59,806] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:48:59,820] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2021-11-25 13:49:37,188] {scheduler_job.py:182} INFO - Started process (PID=13358) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:49:37,190] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:49:37,191] {logging_mixin.py:104} INFO - [2021-11-25 13:49:37,191] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:49:37,196] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:49:37,212] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2021-11-25 13:50:23,768] {scheduler_job.py:182} INFO - Started process (PID=13428) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:50:23,769] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:50:23,771] {logging_mixin.py:104} INFO - [2021-11-25 13:50:23,771] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:50:23,777] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:50:23,790] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2021-11-25 13:51:09,648] {scheduler_job.py:182} INFO - Started process (PID=13499) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:51:09,650] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:51:09,651] {logging_mixin.py:104} INFO - [2021-11-25 13:51:09,651] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:51:09,659] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:51:09,684] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2021-11-25 13:51:56,900] {scheduler_job.py:182} INFO - Started process (PID=13606) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:51:56,901] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:51:56,902] {logging_mixin.py:104} INFO - [2021-11-25 13:51:56,902] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:51:56,907] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:51:56,915] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 13:52:37,982] {scheduler_job.py:182} INFO - Started process (PID=13676) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:52:37,984] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:52:37,985] {logging_mixin.py:104} INFO - [2021-11-25 13:52:37,985] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:52:37,989] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:52:38,001] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-11-25 13:53:14,116] {scheduler_job.py:182} INFO - Started process (PID=13781) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:53:14,117] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:53:14,119] {logging_mixin.py:104} INFO - [2021-11-25 13:53:14,118] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:53:14,124] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:53:14,138] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2021-11-25 13:53:56,814] {scheduler_job.py:182} INFO - Started process (PID=13818) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:53:56,818] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:53:56,820] {logging_mixin.py:104} INFO - [2021-11-25 13:53:56,820] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:53:56,825] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:53:56,840] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2021-11-25 13:54:37,330] {scheduler_job.py:182} INFO - Started process (PID=13909) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:54:37,335] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:54:37,337] {logging_mixin.py:104} INFO - [2021-11-25 13:54:37,336] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:54:37,344] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:54:37,358] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2021-11-25 13:55:22,127] {scheduler_job.py:182} INFO - Started process (PID=13979) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:55:22,129] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:55:22,130] {logging_mixin.py:104} INFO - [2021-11-25 13:55:22,130] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:55:22,136] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:55:22,150] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2021-11-25 13:55:57,835] {scheduler_job.py:182} INFO - Started process (PID=14021) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:55:57,839] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:55:57,841] {logging_mixin.py:104} INFO - [2021-11-25 13:55:57,841] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:55:57,851] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:55:57,865] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2021-11-25 13:56:48,034] {scheduler_job.py:182} INFO - Started process (PID=14121) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:56:48,037] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:56:48,038] {logging_mixin.py:104} INFO - [2021-11-25 13:56:48,038] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:56:48,043] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:56:48,056] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2021-11-25 13:57:24,130] {scheduler_job.py:182} INFO - Started process (PID=14231) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:57:24,132] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:57:24,133] {logging_mixin.py:104} INFO - [2021-11-25 13:57:24,133] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:57:24,137] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:57:24,147] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-11-25 13:58:08,918] {scheduler_job.py:182} INFO - Started process (PID=14304) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:58:08,921] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:58:08,922] {logging_mixin.py:104} INFO - [2021-11-25 13:58:08,922] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:58:08,927] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:58:08,945] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2021-11-25 13:58:52,661] {scheduler_job.py:182} INFO - Started process (PID=14360) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:58:52,669] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:58:52,670] {logging_mixin.py:104} INFO - [2021-11-25 13:58:52,670] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:58:52,675] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:58:52,692] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2021-11-25 13:59:42,357] {scheduler_job.py:182} INFO - Started process (PID=14526) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:59:42,359] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 13:59:42,360] {logging_mixin.py:104} INFO - [2021-11-25 13:59:42,360] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:59:42,363] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 13:59:42,372] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:00:25,994] {scheduler_job.py:182} INFO - Started process (PID=14650) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:00:25,995] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:00:25,996] {logging_mixin.py:104} INFO - [2021-11-25 14:00:25,996] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:00:25,999] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:00:26,015] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2021-11-25 14:01:06,221] {scheduler_job.py:182} INFO - Started process (PID=14762) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:01:06,231] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:01:06,232] {logging_mixin.py:104} INFO - [2021-11-25 14:01:06,232] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:01:06,237] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:01:06,247] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2021-11-25 14:01:47,398] {scheduler_job.py:182} INFO - Started process (PID=14838) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:01:47,400] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:01:47,401] {logging_mixin.py:104} INFO - [2021-11-25 14:01:47,401] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:01:47,404] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:01:47,413] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:02:26,498] {scheduler_job.py:182} INFO - Started process (PID=14913) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:02:26,500] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:02:26,500] {logging_mixin.py:104} INFO - [2021-11-25 14:02:26,500] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:02:26,504] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:02:26,512] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:02:59,227] {scheduler_job.py:182} INFO - Started process (PID=14991) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:02:59,229] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:02:59,230] {logging_mixin.py:104} INFO - [2021-11-25 14:02:59,230] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:02:59,233] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:02:59,243] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:03:33,786] {scheduler_job.py:182} INFO - Started process (PID=15063) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:03:33,788] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:03:33,789] {logging_mixin.py:104} INFO - [2021-11-25 14:03:33,789] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:03:33,795] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:03:33,805] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-11-25 14:04:15,318] {scheduler_job.py:182} INFO - Started process (PID=15163) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:04:15,330] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:04:15,331] {logging_mixin.py:104} INFO - [2021-11-25 14:04:15,331] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:04:15,334] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:04:15,343] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2021-11-25 14:04:55,442] {scheduler_job.py:182} INFO - Started process (PID=15197) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:04:55,443] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:04:55,444] {logging_mixin.py:104} INFO - [2021-11-25 14:04:55,444] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:04:55,448] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:04:55,457] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:05:34,864] {scheduler_job.py:182} INFO - Started process (PID=15267) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:05:34,865] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:05:34,866] {logging_mixin.py:104} INFO - [2021-11-25 14:05:34,866] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:05:34,870] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:05:34,880] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:06:14,583] {scheduler_job.py:182} INFO - Started process (PID=15338) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:06:14,585] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:06:14,586] {logging_mixin.py:104} INFO - [2021-11-25 14:06:14,586] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:06:14,591] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:06:14,607] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2021-11-25 14:06:54,994] {scheduler_job.py:182} INFO - Started process (PID=15400) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:06:54,999] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:06:55,001] {logging_mixin.py:104} INFO - [2021-11-25 14:06:55,001] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:06:55,006] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:06:55,017] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2021-11-25 14:07:36,273] {scheduler_job.py:182} INFO - Started process (PID=15473) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:07:36,276] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:07:36,278] {logging_mixin.py:104} INFO - [2021-11-25 14:07:36,278] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:07:36,284] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:07:36,296] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2021-11-25 14:08:14,200] {scheduler_job.py:182} INFO - Started process (PID=15539) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:08:14,201] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:08:14,202] {logging_mixin.py:104} INFO - [2021-11-25 14:08:14,202] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:08:14,208] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:08:14,218] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-11-25 14:08:50,052] {scheduler_job.py:182} INFO - Started process (PID=15575) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:08:50,053] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:08:50,054] {logging_mixin.py:104} INFO - [2021-11-25 14:08:50,054] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:08:50,059] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:08:50,068] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:09:30,862] {scheduler_job.py:182} INFO - Started process (PID=15663) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:09:30,864] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:09:30,865] {logging_mixin.py:104} INFO - [2021-11-25 14:09:30,865] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:09:30,868] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:09:30,876] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:10:11,904] {scheduler_job.py:182} INFO - Started process (PID=15732) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:10:11,906] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:10:11,907] {logging_mixin.py:104} INFO - [2021-11-25 14:10:11,906] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:10:11,910] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:10:11,919] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:10:50,658] {scheduler_job.py:182} INFO - Started process (PID=15763) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:10:50,659] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:10:50,660] {logging_mixin.py:104} INFO - [2021-11-25 14:10:50,660] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:10:50,664] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:10:50,672] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:11:36,106] {scheduler_job.py:182} INFO - Started process (PID=15836) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:11:36,148] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:11:36,150] {logging_mixin.py:104} INFO - [2021-11-25 14:11:36,149] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:11:36,154] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:11:36,165] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2021-11-25 14:12:23,584] {scheduler_job.py:182} INFO - Started process (PID=15962) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:12:23,585] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:12:23,586] {logging_mixin.py:104} INFO - [2021-11-25 14:12:23,586] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:12:23,589] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:12:23,598] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:13:10,342] {scheduler_job.py:182} INFO - Started process (PID=16089) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:13:10,344] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:13:10,345] {logging_mixin.py:104} INFO - [2021-11-25 14:13:10,345] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:13:10,349] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:13:10,360] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-11-25 14:13:52,209] {scheduler_job.py:182} INFO - Started process (PID=16205) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:13:52,211] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:13:52,213] {logging_mixin.py:104} INFO - [2021-11-25 14:13:52,212] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:13:52,220] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:13:52,232] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2021-11-25 14:14:31,338] {scheduler_job.py:182} INFO - Started process (PID=16294) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:14:31,340] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:14:31,341] {logging_mixin.py:104} INFO - [2021-11-25 14:14:31,341] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:14:31,345] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:14:31,356] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-11-25 14:15:14,981] {scheduler_job.py:182} INFO - Started process (PID=16374) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:15:14,982] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:15:14,983] {logging_mixin.py:104} INFO - [2021-11-25 14:15:14,983] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:15:14,988] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:15:14,999] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-11-25 14:16:00,859] {scheduler_job.py:182} INFO - Started process (PID=16457) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:16:00,860] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:16:00,861] {logging_mixin.py:104} INFO - [2021-11-25 14:16:00,861] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:16:00,865] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:16:00,874] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:16:45,408] {scheduler_job.py:182} INFO - Started process (PID=16533) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:16:45,410] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:16:45,411] {logging_mixin.py:104} INFO - [2021-11-25 14:16:45,410] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:16:45,415] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:16:45,423] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:17:24,690] {scheduler_job.py:182} INFO - Started process (PID=16606) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:17:24,691] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:17:24,692] {logging_mixin.py:104} INFO - [2021-11-25 14:17:24,692] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:17:24,696] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:17:24,704] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:18:06,020] {scheduler_job.py:182} INFO - Started process (PID=16673) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:18:06,022] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:18:06,022] {logging_mixin.py:104} INFO - [2021-11-25 14:18:06,022] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:18:06,026] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:18:06,035] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:18:50,017] {scheduler_job.py:182} INFO - Started process (PID=16704) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:18:50,038] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:18:50,039] {logging_mixin.py:104} INFO - [2021-11-25 14:18:50,039] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:18:50,062] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:18:50,070] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2021-11-25 14:19:33,841] {scheduler_job.py:182} INFO - Started process (PID=16804) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:19:33,843] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:19:33,844] {logging_mixin.py:104} INFO - [2021-11-25 14:19:33,844] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:19:33,848] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:19:33,859] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-11-25 14:20:26,267] {scheduler_job.py:182} INFO - Started process (PID=16882) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:20:26,268] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:20:26,269] {logging_mixin.py:104} INFO - [2021-11-25 14:20:26,269] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:20:26,273] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:20:26,281] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:21:15,171] {scheduler_job.py:182} INFO - Started process (PID=16953) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:21:15,225] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:21:15,226] {logging_mixin.py:104} INFO - [2021-11-25 14:21:15,226] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:21:15,255] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:21:15,337] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.171 seconds
+[2021-11-25 14:21:54,844] {scheduler_job.py:182} INFO - Started process (PID=17010) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:21:54,846] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:21:54,847] {logging_mixin.py:104} INFO - [2021-11-25 14:21:54,847] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:21:54,851] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:21:54,862] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2021-11-25 14:22:35,429] {scheduler_job.py:182} INFO - Started process (PID=17089) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:22:35,431] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:22:35,432] {logging_mixin.py:104} INFO - [2021-11-25 14:22:35,432] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:22:35,436] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:22:35,447] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-11-25 14:23:42,470] {scheduler_job.py:182} INFO - Started process (PID=17160) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:23:42,561] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:23:42,562] {logging_mixin.py:104} INFO - [2021-11-25 14:23:42,562] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:23:43,097] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:23:43,105] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.638 seconds
+[2021-11-25 14:24:30,535] {scheduler_job.py:182} INFO - Started process (PID=17268) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:24:30,537] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:24:30,538] {logging_mixin.py:104} INFO - [2021-11-25 14:24:30,537] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:24:30,541] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:24:30,550] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:25:08,700] {scheduler_job.py:182} INFO - Started process (PID=17336) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:25:08,702] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:25:08,703] {logging_mixin.py:104} INFO - [2021-11-25 14:25:08,703] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:25:08,707] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:25:08,717] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:25:43,790] {scheduler_job.py:182} INFO - Started process (PID=17366) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:25:43,792] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:25:43,792] {logging_mixin.py:104} INFO - [2021-11-25 14:25:43,792] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:25:43,796] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:25:43,804] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:26:23,005] {scheduler_job.py:182} INFO - Started process (PID=17441) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:26:23,007] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:26:23,008] {logging_mixin.py:104} INFO - [2021-11-25 14:26:23,008] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:26:23,012] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:26:23,020] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:26:57,927] {scheduler_job.py:182} INFO - Started process (PID=17512) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:26:57,929] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:26:57,931] {logging_mixin.py:104} INFO - [2021-11-25 14:26:57,930] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:26:57,936] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:26:57,947] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2021-11-25 14:27:40,048] {scheduler_job.py:182} INFO - Started process (PID=17574) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:27:40,049] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:27:40,050] {logging_mixin.py:104} INFO - [2021-11-25 14:27:40,050] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:27:40,054] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:27:40,062] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:28:12,884] {scheduler_job.py:182} INFO - Started process (PID=17637) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:28:12,886] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:28:12,887] {logging_mixin.py:104} INFO - [2021-11-25 14:28:12,887] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:28:12,891] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:28:12,903] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-11-25 14:28:49,725] {scheduler_job.py:182} INFO - Started process (PID=17674) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:28:49,727] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:28:49,728] {logging_mixin.py:104} INFO - [2021-11-25 14:28:49,727] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:28:49,731] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:28:49,740] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:29:27,305] {scheduler_job.py:182} INFO - Started process (PID=17773) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:29:27,307] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:29:27,308] {logging_mixin.py:104} INFO - [2021-11-25 14:29:27,307] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:29:27,311] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:29:27,320] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:30:06,277] {scheduler_job.py:182} INFO - Started process (PID=17843) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:30:06,279] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:30:06,280] {logging_mixin.py:104} INFO - [2021-11-25 14:30:06,280] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:30:06,285] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:30:06,295] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2021-11-25 14:30:39,687] {scheduler_job.py:182} INFO - Started process (PID=17895) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:30:39,688] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:30:39,689] {logging_mixin.py:104} INFO - [2021-11-25 14:30:39,689] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:30:39,693] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:30:39,701] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:31:25,351] {scheduler_job.py:182} INFO - Started process (PID=17978) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:31:25,434] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:31:25,435] {logging_mixin.py:104} INFO - [2021-11-25 14:31:25,435] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:31:25,544] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:31:25,553] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.205 seconds
+[2021-11-25 14:32:03,691] {scheduler_job.py:182} INFO - Started process (PID=18064) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:32:03,692] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:32:03,693] {logging_mixin.py:104} INFO - [2021-11-25 14:32:03,693] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:32:03,697] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:32:03,706] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:32:42,907] {scheduler_job.py:182} INFO - Started process (PID=18106) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:32:42,908] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:32:42,909] {logging_mixin.py:104} INFO - [2021-11-25 14:32:42,909] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:32:42,912] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:32:42,921] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:33:23,349] {scheduler_job.py:182} INFO - Started process (PID=18202) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:33:23,365] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:33:23,365] {logging_mixin.py:104} INFO - [2021-11-25 14:33:23,365] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:33:23,369] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:33:23,376] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2021-11-25 14:34:03,037] {scheduler_job.py:182} INFO - Started process (PID=18300) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:34:03,039] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:34:03,040] {logging_mixin.py:104} INFO - [2021-11-25 14:34:03,040] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:34:03,044] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:34:03,052] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:34:41,842] {scheduler_job.py:182} INFO - Started process (PID=18337) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:34:41,844] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:34:41,845] {logging_mixin.py:104} INFO - [2021-11-25 14:34:41,845] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:34:41,848] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:34:41,857] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:35:16,887] {scheduler_job.py:182} INFO - Started process (PID=18403) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:35:16,888] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:35:16,889] {logging_mixin.py:104} INFO - [2021-11-25 14:35:16,889] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:35:16,893] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:35:16,901] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:35:49,573] {scheduler_job.py:182} INFO - Started process (PID=18440) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:35:49,577] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:35:49,577] {logging_mixin.py:104} INFO - [2021-11-25 14:35:49,577] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:35:49,580] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:35:49,589] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-11-25 14:36:27,579] {scheduler_job.py:182} INFO - Started process (PID=18510) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:36:27,581] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:36:27,581] {logging_mixin.py:104} INFO - [2021-11-25 14:36:27,581] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:36:27,585] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:36:27,593] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:37:08,982] {scheduler_job.py:182} INFO - Started process (PID=18601) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:37:08,984] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:37:08,984] {logging_mixin.py:104} INFO - [2021-11-25 14:37:08,984] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:37:08,987] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:37:08,995] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2021-11-25 14:37:50,563] {scheduler_job.py:182} INFO - Started process (PID=18647) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:37:50,566] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:37:50,567] {logging_mixin.py:104} INFO - [2021-11-25 14:37:50,567] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:37:50,571] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:37:50,580] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-11-25 14:38:27,058] {scheduler_job.py:182} INFO - Started process (PID=18717) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:38:27,059] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:38:27,060] {logging_mixin.py:104} INFO - [2021-11-25 14:38:27,060] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:38:27,064] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:38:27,072] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:39:08,161] {scheduler_job.py:182} INFO - Started process (PID=18816) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:39:08,173] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:39:08,174] {logging_mixin.py:104} INFO - [2021-11-25 14:39:08,174] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:39:08,177] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:39:08,186] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2021-11-25 14:39:47,920] {scheduler_job.py:182} INFO - Started process (PID=18855) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:39:47,921] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:39:47,922] {logging_mixin.py:104} INFO - [2021-11-25 14:39:47,922] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:39:47,925] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:39:47,934] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:40:26,469] {scheduler_job.py:182} INFO - Started process (PID=18925) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:40:26,470] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:40:26,471] {logging_mixin.py:104} INFO - [2021-11-25 14:40:26,470] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:40:26,475] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:40:26,482] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2021-11-25 14:41:00,054] {scheduler_job.py:182} INFO - Started process (PID=19003) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:41:00,057] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:41:00,058] {logging_mixin.py:104} INFO - [2021-11-25 14:41:00,058] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:41:00,062] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:41:00,070] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:41:37,366] {scheduler_job.py:182} INFO - Started process (PID=19042) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:41:37,367] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:41:37,368] {logging_mixin.py:104} INFO - [2021-11-25 14:41:37,368] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:41:37,371] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:41:37,380] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:42:16,167] {scheduler_job.py:182} INFO - Started process (PID=19133) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:42:16,169] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:42:16,170] {logging_mixin.py:104} INFO - [2021-11-25 14:42:16,170] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:42:16,174] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:42:16,184] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-11-25 14:42:59,363] {scheduler_job.py:182} INFO - Started process (PID=19208) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:42:59,380] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:42:59,381] {logging_mixin.py:104} INFO - [2021-11-25 14:42:59,381] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:42:59,384] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:42:59,394] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2021-11-25 14:43:38,757] {scheduler_job.py:182} INFO - Started process (PID=19246) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:43:38,758] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:43:38,759] {logging_mixin.py:104} INFO - [2021-11-25 14:43:38,759] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:43:38,763] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:43:38,771] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:44:19,635] {scheduler_job.py:182} INFO - Started process (PID=19347) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:44:19,636] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:44:19,637] {logging_mixin.py:104} INFO - [2021-11-25 14:44:19,637] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:44:19,640] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:44:19,648] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:44:55,330] {scheduler_job.py:182} INFO - Started process (PID=19384) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:44:55,332] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:44:55,333] {logging_mixin.py:104} INFO - [2021-11-25 14:44:55,333] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:44:55,337] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:44:55,345] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:45:30,839] {scheduler_job.py:182} INFO - Started process (PID=19447) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:45:30,840] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:45:30,841] {logging_mixin.py:104} INFO - [2021-11-25 14:45:30,841] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:45:30,844] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:45:30,853] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:46:05,527] {scheduler_job.py:182} INFO - Started process (PID=19542) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:46:05,530] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:46:05,531] {logging_mixin.py:104} INFO - [2021-11-25 14:46:05,530] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:46:05,534] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:46:05,542] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:46:44,228] {scheduler_job.py:182} INFO - Started process (PID=19604) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:46:44,230] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:46:44,231] {logging_mixin.py:104} INFO - [2021-11-25 14:46:44,231] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:46:44,235] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:46:44,243] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:47:26,668] {scheduler_job.py:182} INFO - Started process (PID=19687) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:47:26,669] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:47:26,670] {logging_mixin.py:104} INFO - [2021-11-25 14:47:26,670] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:47:26,673] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:47:26,681] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:48:02,300] {scheduler_job.py:182} INFO - Started process (PID=19753) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:48:02,302] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:48:02,304] {logging_mixin.py:104} INFO - [2021-11-25 14:48:02,303] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:48:02,308] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:48:02,316] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:48:37,415] {scheduler_job.py:182} INFO - Started process (PID=19789) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:48:37,416] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:48:37,417] {logging_mixin.py:104} INFO - [2021-11-25 14:48:37,417] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:48:37,420] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:48:37,429] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:49:29,167] {scheduler_job.py:182} INFO - Started process (PID=19886) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:49:29,186] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:49:29,187] {logging_mixin.py:104} INFO - [2021-11-25 14:49:29,186] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:49:29,211] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:49:29,219] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2021-11-25 14:50:08,695] {scheduler_job.py:182} INFO - Started process (PID=19955) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:50:08,697] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:50:08,698] {logging_mixin.py:104} INFO - [2021-11-25 14:50:08,698] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:50:08,701] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:50:08,711] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:50:44,172] {scheduler_job.py:182} INFO - Started process (PID=19990) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:50:44,173] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:50:44,174] {logging_mixin.py:104} INFO - [2021-11-25 14:50:44,174] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:50:44,178] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:50:44,188] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:51:20,938] {scheduler_job.py:182} INFO - Started process (PID=20062) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:51:20,941] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:51:20,942] {logging_mixin.py:104} INFO - [2021-11-25 14:51:20,942] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:51:20,945] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:51:20,953] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:52:01,937] {scheduler_job.py:182} INFO - Started process (PID=20154) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:52:01,939] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:52:01,941] {logging_mixin.py:104} INFO - [2021-11-25 14:52:01,940] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:52:01,944] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:52:01,952] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:52:43,818] {scheduler_job.py:182} INFO - Started process (PID=20201) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:52:43,820] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:52:43,821] {logging_mixin.py:104} INFO - [2021-11-25 14:52:43,820] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:52:43,824] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:52:43,833] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:53:24,745] {scheduler_job.py:182} INFO - Started process (PID=20279) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:53:24,746] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:53:24,748] {logging_mixin.py:104} INFO - [2021-11-25 14:53:24,747] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:53:24,751] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:53:24,760] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:54:02,840] {scheduler_job.py:182} INFO - Started process (PID=20388) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:54:02,841] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:54:02,842] {logging_mixin.py:104} INFO - [2021-11-25 14:54:02,842] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:54:02,846] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:54:02,854] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:54:37,644] {scheduler_job.py:182} INFO - Started process (PID=20423) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:54:37,645] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:54:37,646] {logging_mixin.py:104} INFO - [2021-11-25 14:54:37,646] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:54:37,650] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:54:37,658] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:55:11,599] {scheduler_job.py:182} INFO - Started process (PID=20486) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:55:11,601] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:55:11,602] {logging_mixin.py:104} INFO - [2021-11-25 14:55:11,601] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:55:11,606] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:55:11,618] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-11-25 14:55:50,098] {scheduler_job.py:182} INFO - Started process (PID=20523) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:55:50,100] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:55:50,101] {logging_mixin.py:104} INFO - [2021-11-25 14:55:50,100] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:55:50,104] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:55:50,113] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:56:26,876] {scheduler_job.py:182} INFO - Started process (PID=20593) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:56:26,879] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:56:26,880] {logging_mixin.py:104} INFO - [2021-11-25 14:56:26,880] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:56:26,884] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:56:26,892] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 14:57:04,206] {scheduler_job.py:182} INFO - Started process (PID=20681) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:57:04,207] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:57:04,208] {logging_mixin.py:104} INFO - [2021-11-25 14:57:04,208] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:57:04,212] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:57:04,220] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:57:42,537] {scheduler_job.py:182} INFO - Started process (PID=20721) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:57:42,538] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:57:42,539] {logging_mixin.py:104} INFO - [2021-11-25 14:57:42,539] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:57:42,542] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:57:42,551] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 14:58:24,177] {scheduler_job.py:182} INFO - Started process (PID=20788) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:58:24,178] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:58:24,180] {logging_mixin.py:104} INFO - [2021-11-25 14:58:24,179] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:58:24,183] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:58:24,191] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 14:59:00,590] {scheduler_job.py:182} INFO - Started process (PID=20919) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:59:00,592] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:59:00,593] {logging_mixin.py:104} INFO - [2021-11-25 14:59:00,592] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:59:00,596] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:59:00,604] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 14:59:35,861] {scheduler_job.py:182} INFO - Started process (PID=20951) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:59:35,863] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 14:59:35,864] {logging_mixin.py:104} INFO - [2021-11-25 14:59:35,864] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:59:35,868] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 14:59:35,879] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-11-25 15:00:15,790] {scheduler_job.py:182} INFO - Started process (PID=21022) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:00:15,791] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:00:15,792] {logging_mixin.py:104} INFO - [2021-11-25 15:00:15,792] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:00:15,795] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:00:15,803] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 15:00:52,339] {scheduler_job.py:182} INFO - Started process (PID=21058) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:00:52,340] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:00:52,341] {logging_mixin.py:104} INFO - [2021-11-25 15:00:52,341] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:00:52,345] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:00:52,354] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:01:26,120] {scheduler_job.py:182} INFO - Started process (PID=21174) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:01:26,121] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:01:26,122] {logging_mixin.py:104} INFO - [2021-11-25 15:01:26,122] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:01:26,126] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:01:26,135] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 15:01:59,416] {scheduler_job.py:182} INFO - Started process (PID=21262) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:01:59,417] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:01:59,418] {logging_mixin.py:104} INFO - [2021-11-25 15:01:59,418] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:01:59,422] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:01:59,430] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:02:40,783] {scheduler_job.py:182} INFO - Started process (PID=21332) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:02:40,785] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:02:40,787] {logging_mixin.py:104} INFO - [2021-11-25 15:02:40,786] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:02:40,792] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:02:40,801] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-11-25 15:03:17,028] {scheduler_job.py:182} INFO - Started process (PID=21410) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:03:17,029] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:03:17,030] {logging_mixin.py:104} INFO - [2021-11-25 15:03:17,030] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:03:17,034] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:03:17,041] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 15:03:56,801] {scheduler_job.py:182} INFO - Started process (PID=21448) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:03:56,817] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:03:56,818] {logging_mixin.py:104} INFO - [2021-11-25 15:03:56,818] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:03:56,823] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:03:56,832] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2021-11-25 15:05:40,387] {scheduler_job.py:182} INFO - Started process (PID=21647) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:05:40,434] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:05:40,435] {logging_mixin.py:104} INFO - [2021-11-25 15:05:40,435] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:05:40,529] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:05:40,537] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.153 seconds
+[2021-11-25 15:06:24,158] {scheduler_job.py:182} INFO - Started process (PID=21789) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:06:24,159] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:06:24,160] {logging_mixin.py:104} INFO - [2021-11-25 15:06:24,160] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:06:24,163] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:06:24,172] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 15:06:57,484] {scheduler_job.py:182} INFO - Started process (PID=21853) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:06:57,486] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:06:57,487] {logging_mixin.py:104} INFO - [2021-11-25 15:06:57,487] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:06:57,490] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:06:57,500] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 15:07:36,563] {scheduler_job.py:182} INFO - Started process (PID=21913) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:07:36,564] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:07:36,565] {logging_mixin.py:104} INFO - [2021-11-25 15:07:36,565] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:07:36,568] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:07:36,577] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:08:18,362] {scheduler_job.py:182} INFO - Started process (PID=22020) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:08:18,364] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:08:18,365] {logging_mixin.py:104} INFO - [2021-11-25 15:08:18,365] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:08:18,368] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:08:18,378] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:08:58,359] {scheduler_job.py:182} INFO - Started process (PID=22084) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:08:58,361] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:08:58,361] {logging_mixin.py:104} INFO - [2021-11-25 15:08:58,361] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:08:58,366] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:08:58,374] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:09:38,694] {scheduler_job.py:182} INFO - Started process (PID=22170) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:09:38,695] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:09:38,696] {logging_mixin.py:104} INFO - [2021-11-25 15:09:38,696] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:09:38,699] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:09:38,708] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 15:10:19,234] {scheduler_job.py:182} INFO - Started process (PID=22244) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:10:19,235] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:10:19,237] {logging_mixin.py:104} INFO - [2021-11-25 15:10:19,237] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:10:19,241] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:10:19,249] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:10:54,187] {scheduler_job.py:182} INFO - Started process (PID=22275) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:10:54,189] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:10:54,190] {logging_mixin.py:104} INFO - [2021-11-25 15:10:54,190] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:10:54,194] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:10:54,202] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:11:30,629] {scheduler_job.py:182} INFO - Started process (PID=22340) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:11:30,631] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:11:30,631] {logging_mixin.py:104} INFO - [2021-11-25 15:11:30,631] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:11:30,634] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:11:30,643] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 15:12:11,531] {scheduler_job.py:182} INFO - Started process (PID=22436) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:12:11,549] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:12:11,550] {logging_mixin.py:104} INFO - [2021-11-25 15:12:11,550] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:12:11,554] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:12:11,564] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2021-11-25 15:12:49,720] {scheduler_job.py:182} INFO - Started process (PID=22474) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:12:49,721] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:12:49,722] {logging_mixin.py:104} INFO - [2021-11-25 15:12:49,722] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:12:49,725] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:12:49,737] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-11-25 15:13:23,777] {scheduler_job.py:182} INFO - Started process (PID=22544) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:13:23,778] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:13:23,779] {logging_mixin.py:104} INFO - [2021-11-25 15:13:23,779] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:13:23,783] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:13:23,792] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:13:56,597] {scheduler_job.py:182} INFO - Started process (PID=22579) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:13:56,598] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:13:56,599] {logging_mixin.py:104} INFO - [2021-11-25 15:13:56,599] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:13:56,603] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:13:56,611] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 15:14:31,972] {scheduler_job.py:182} INFO - Started process (PID=22668) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:14:31,998] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:14:31,999] {logging_mixin.py:104} INFO - [2021-11-25 15:14:31,999] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:14:32,121] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:14:32,130] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.162 seconds
+[2021-11-25 15:15:17,178] {scheduler_job.py:182} INFO - Started process (PID=22741) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:15:17,179] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:15:17,180] {logging_mixin.py:104} INFO - [2021-11-25 15:15:17,180] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:15:17,184] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:15:17,193] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:15:56,810] {scheduler_job.py:182} INFO - Started process (PID=22777) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:15:56,812] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:15:56,814] {logging_mixin.py:104} INFO - [2021-11-25 15:15:56,814] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:15:56,819] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:15:56,830] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2021-11-25 15:16:30,025] {scheduler_job.py:182} INFO - Started process (PID=22846) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:16:30,027] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:16:30,028] {logging_mixin.py:104} INFO - [2021-11-25 15:16:30,028] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:16:30,033] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:16:30,045] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2021-11-25 15:17:10,004] {scheduler_job.py:182} INFO - Started process (PID=22944) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:17:10,006] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:17:10,007] {logging_mixin.py:104} INFO - [2021-11-25 15:17:10,006] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:17:10,010] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:17:10,018] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:17:44,659] {scheduler_job.py:182} INFO - Started process (PID=22977) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:17:44,661] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:17:44,662] {logging_mixin.py:104} INFO - [2021-11-25 15:17:44,661] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:17:44,665] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:17:44,673] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 15:18:24,030] {scheduler_job.py:182} INFO - Started process (PID=23053) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:18:24,032] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:18:24,033] {logging_mixin.py:104} INFO - [2021-11-25 15:18:24,032] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:18:24,036] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:18:24,045] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:19:00,063] {scheduler_job.py:182} INFO - Started process (PID=23115) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:19:00,086] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:19:00,087] {logging_mixin.py:104} INFO - [2021-11-25 15:19:00,087] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:19:00,092] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:19:00,100] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2021-11-25 15:19:45,820] {scheduler_job.py:182} INFO - Started process (PID=23189) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:19:45,821] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:19:45,822] {logging_mixin.py:104} INFO - [2021-11-25 15:19:45,822] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:19:45,826] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:19:45,834] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 15:20:22,568] {scheduler_job.py:182} INFO - Started process (PID=23257) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:20:22,569] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:20:22,570] {logging_mixin.py:104} INFO - [2021-11-25 15:20:22,570] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:20:22,574] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:20:22,585] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-11-25 15:21:03,540] {scheduler_job.py:182} INFO - Started process (PID=23329) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:21:03,542] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:21:03,543] {logging_mixin.py:104} INFO - [2021-11-25 15:21:03,543] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:21:03,547] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:21:03,556] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-11-25 15:21:41,047] {scheduler_job.py:182} INFO - Started process (PID=23366) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:21:41,048] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:21:41,049] {logging_mixin.py:104} INFO - [2021-11-25 15:21:41,049] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:21:41,054] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:21:41,066] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2021-11-25 15:22:19,875] {scheduler_job.py:182} INFO - Started process (PID=23460) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:22:19,877] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:22:19,878] {logging_mixin.py:104} INFO - [2021-11-25 15:22:19,878] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:22:19,882] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:22:19,890] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:22:52,014] {scheduler_job.py:182} INFO - Started process (PID=23495) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:22:52,022] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:22:52,023] {logging_mixin.py:104} INFO - [2021-11-25 15:22:52,023] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:22:52,050] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:22:52,059] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2021-11-25 15:24:01,108] {scheduler_job.py:182} INFO - Started process (PID=23571) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:24:01,144] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:24:01,145] {logging_mixin.py:104} INFO - [2021-11-25 15:24:01,145] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:24:01,316] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:24:01,325] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.220 seconds
+[2021-11-25 15:24:40,842] {scheduler_job.py:182} INFO - Started process (PID=23680) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:24:40,845] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:24:40,846] {logging_mixin.py:104} INFO - [2021-11-25 15:24:40,845] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:24:40,849] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:24:40,857] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:25:20,843] {scheduler_job.py:182} INFO - Started process (PID=23769) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:25:20,844] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:25:20,845] {logging_mixin.py:104} INFO - [2021-11-25 15:25:20,845] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:25:20,849] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:25:20,857] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2021-11-25 15:25:59,592] {scheduler_job.py:182} INFO - Started process (PID=23837) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:25:59,594] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:25:59,594] {logging_mixin.py:104} INFO - [2021-11-25 15:25:59,594] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:25:59,598] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:25:59,607] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-11-25 15:26:36,305] {scheduler_job.py:182} INFO - Started process (PID=23872) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:26:36,306] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:26:36,307] {logging_mixin.py:104} INFO - [2021-11-25 15:26:36,307] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:26:36,312] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:26:36,323] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-11-25 15:27:14,136] {scheduler_job.py:182} INFO - Started process (PID=24026) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:27:14,138] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:27:14,138] {logging_mixin.py:104} INFO - [2021-11-25 15:27:14,138] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:27:14,142] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:27:14,151] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-11-25 15:27:55,493] {scheduler_job.py:182} INFO - Started process (PID=24077) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:27:55,495] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:27:55,496] {logging_mixin.py:104} INFO - [2021-11-25 15:27:55,496] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:27:55,499] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:27:55,508] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-11-25 15:28:34,611] {scheduler_job.py:182} INFO - Started process (PID=24193) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:28:34,613] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:28:34,614] {logging_mixin.py:104} INFO - [2021-11-25 15:28:34,614] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:28:34,617] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:28:34,627] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-11-25 15:29:15,881] {scheduler_job.py:182} INFO - Started process (PID=24305) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:29:15,883] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-11-25 15:29:15,884] {logging_mixin.py:104} INFO - [2021-11-25 15:29:15,884] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:29:15,887] {scheduler_job.py:645} WARNING - No viable dags retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-11-25 15:29:15,896] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds

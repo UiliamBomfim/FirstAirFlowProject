@@ -32,13 +32,13 @@ def _processing_user(ti):
 
 with DAG('user_processing', schedule_interval='@daily',
          default_args=default_args,
-         catchup=False) as dag:
+         catchup=True) as dag:
 
     creating_table = SqliteOperator(
         task_id='creating_table',
         sqlite_conn_id='db_sqlite',
         sql='''
-            CREATE TABLE users (
+            CREATE TABLE IF NOT EXISTS users (
             first_name TEXT NOT NULL,
             lastname TEXT NOT NULL,
             country TEXT NOT NULL,
@@ -74,3 +74,5 @@ with DAG('user_processing', schedule_interval='@daily',
         task_id='storing_user',
         bash_command='echo -e ".separator ","\n.import /tmp/processed_user.csv users" | sqlite3  /home/uiliam/airflow/airflow.db'
     )
+
+    creating_table >> is_api_available >> extracting_user >> processing_user >> storing_user

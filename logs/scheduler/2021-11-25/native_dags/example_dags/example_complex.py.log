@@ -1,0 +1,1057 @@
+[2021-11-25 13:29:00,366] {scheduler_job.py:182} INFO - Started process (PID=7690) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:29:00,368] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:29:00,369] {logging_mixin.py:104} INFO - [2021-11-25 13:29:00,369] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:29:00,393] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:29:00,416] {logging_mixin.py:104} INFO - [2021-11-25 13:29:00,416] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:29:00,433] {logging_mixin.py:104} INFO - [2021-11-25 13:29:00,433] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:29:00,518] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2021-11-25 13:29:53,810] {scheduler_job.py:182} INFO - Started process (PID=7944) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:29:53,813] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:29:53,814] {logging_mixin.py:104} INFO - [2021-11-25 13:29:53,814] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:29:53,846] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:29:53,878] {logging_mixin.py:104} INFO - [2021-11-25 13:29:53,878] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:29:53,909] {logging_mixin.py:104} INFO - [2021-11-25 13:29:53,909] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:29:54,056] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.251 seconds
+[2021-11-25 13:30:37,469] {scheduler_job.py:182} INFO - Started process (PID=8099) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:30:37,471] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:30:37,473] {logging_mixin.py:104} INFO - [2021-11-25 13:30:37,472] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:30:37,511] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:30:37,554] {logging_mixin.py:104} INFO - [2021-11-25 13:30:37,553] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:30:37,583] {logging_mixin.py:104} INFO - [2021-11-25 13:30:37,583] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:30:37,687] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.222 seconds
+[2021-11-25 13:31:26,417] {scheduler_job.py:182} INFO - Started process (PID=8216) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:31:26,420] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:31:26,426] {logging_mixin.py:104} INFO - [2021-11-25 13:31:26,425] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:31:26,502] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:31:26,547] {logging_mixin.py:104} INFO - [2021-11-25 13:31:26,547] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:31:26,568] {logging_mixin.py:104} INFO - [2021-11-25 13:31:26,568] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:31:26,673] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.264 seconds
+[2021-11-25 13:32:24,218] {scheduler_job.py:182} INFO - Started process (PID=8340) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:32:24,220] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:32:24,222] {logging_mixin.py:104} INFO - [2021-11-25 13:32:24,221] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:32:24,250] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:32:24,281] {logging_mixin.py:104} INFO - [2021-11-25 13:32:24,280] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:32:24,301] {logging_mixin.py:104} INFO - [2021-11-25 13:32:24,301] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:32:24,390] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.176 seconds
+[2021-11-25 13:33:07,802] {scheduler_job.py:182} INFO - Started process (PID=8566) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:33:07,803] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:33:07,804] {logging_mixin.py:104} INFO - [2021-11-25 13:33:07,804] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:33:07,842] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:33:07,886] {logging_mixin.py:104} INFO - [2021-11-25 13:33:07,886] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:33:07,905] {logging_mixin.py:104} INFO - [2021-11-25 13:33:07,904] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:33:08,171] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.374 seconds
+[2021-11-25 13:33:56,567] {scheduler_job.py:182} INFO - Started process (PID=8853) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:33:56,584] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:33:56,585] {logging_mixin.py:104} INFO - [2021-11-25 13:33:56,585] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:33:56,640] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:33:56,674] {logging_mixin.py:104} INFO - [2021-11-25 13:33:56,674] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:33:56,688] {logging_mixin.py:104} INFO - [2021-11-25 13:33:56,688] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:33:56,824] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.262 seconds
+[2021-11-25 13:34:53,419] {scheduler_job.py:182} INFO - Started process (PID=9124) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:34:53,421] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:34:53,422] {logging_mixin.py:104} INFO - [2021-11-25 13:34:53,421] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:34:53,451] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:34:53,478] {logging_mixin.py:104} INFO - [2021-11-25 13:34:53,478] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:34:53,491] {logging_mixin.py:104} INFO - [2021-11-25 13:34:53,491] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:34:53,606] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.191 seconds
+[2021-11-25 13:35:58,171] {scheduler_job.py:182} INFO - Started process (PID=9241) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:35:58,226] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:35:58,227] {logging_mixin.py:104} INFO - [2021-11-25 13:35:58,227] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:35:58,431] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:35:58,453] {logging_mixin.py:104} INFO - [2021-11-25 13:35:58,453] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:35:58,470] {logging_mixin.py:104} INFO - [2021-11-25 13:35:58,470] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:35:59,331] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 1.164 seconds
+[2021-11-25 13:37:22,383] {scheduler_job.py:182} INFO - Started process (PID=9454) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:37:22,384] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:37:22,385] {logging_mixin.py:104} INFO - [2021-11-25 13:37:22,385] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:37:22,409] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:37:22,446] {logging_mixin.py:104} INFO - [2021-11-25 13:37:22,446] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:37:22,462] {logging_mixin.py:104} INFO - [2021-11-25 13:37:22,462] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:37:22,984] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.604 seconds
+[2021-11-25 13:38:17,200] {scheduler_job.py:182} INFO - Started process (PID=9520) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:38:17,207] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:38:17,210] {logging_mixin.py:104} INFO - [2021-11-25 13:38:17,210] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:38:17,303] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:38:17,352] {logging_mixin.py:104} INFO - [2021-11-25 13:38:17,352] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:38:17,394] {logging_mixin.py:104} INFO - [2021-11-25 13:38:17,394] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:38:18,013] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.826 seconds
+[2021-11-25 13:39:22,721] {scheduler_job.py:182} INFO - Started process (PID=9704) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:39:22,725] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:39:22,728] {logging_mixin.py:104} INFO - [2021-11-25 13:39:22,728] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:39:22,774] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:39:22,841] {logging_mixin.py:104} INFO - [2021-11-25 13:39:22,841] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:39:22,874] {logging_mixin.py:104} INFO - [2021-11-25 13:39:22,874] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:39:23,112] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.401 seconds
+[2021-11-25 13:40:08,510] {scheduler_job.py:182} INFO - Started process (PID=9771) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:40:08,514] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:40:08,515] {logging_mixin.py:104} INFO - [2021-11-25 13:40:08,515] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:40:08,560] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:40:08,611] {logging_mixin.py:104} INFO - [2021-11-25 13:40:08,611] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:40:08,640] {logging_mixin.py:104} INFO - [2021-11-25 13:40:08,639] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:40:08,726] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.220 seconds
+[2021-11-25 13:41:06,445] {scheduler_job.py:182} INFO - Started process (PID=9902) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:41:06,447] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:41:06,448] {logging_mixin.py:104} INFO - [2021-11-25 13:41:06,448] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:41:06,494] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:41:06,536] {logging_mixin.py:104} INFO - [2021-11-25 13:41:06,536] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:41:06,559] {logging_mixin.py:104} INFO - [2021-11-25 13:41:06,559] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:41:06,697] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.260 seconds
+[2021-11-25 13:41:58,413] {scheduler_job.py:182} INFO - Started process (PID=10252) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:41:58,414] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:41:58,416] {logging_mixin.py:104} INFO - [2021-11-25 13:41:58,415] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:41:58,476] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:41:58,519] {logging_mixin.py:104} INFO - [2021-11-25 13:41:58,519] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:41:58,543] {logging_mixin.py:104} INFO - [2021-11-25 13:41:58,543] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:41:58,658] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.251 seconds
+[2021-11-25 13:42:48,088] {scheduler_job.py:182} INFO - Started process (PID=10520) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:42:48,090] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:42:48,092] {logging_mixin.py:104} INFO - [2021-11-25 13:42:48,091] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:42:48,145] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:42:48,194] {logging_mixin.py:104} INFO - [2021-11-25 13:42:48,193] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:42:48,218] {logging_mixin.py:104} INFO - [2021-11-25 13:42:48,217] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:42:48,342] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.259 seconds
+[2021-11-25 13:44:22,601] {scheduler_job.py:182} INFO - Started process (PID=11277) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:44:22,607] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:44:22,608] {logging_mixin.py:104} INFO - [2021-11-25 13:44:22,608] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:44:22,655] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:44:22,701] {logging_mixin.py:104} INFO - [2021-11-25 13:44:22,700] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:44:22,724] {logging_mixin.py:104} INFO - [2021-11-25 13:44:22,723] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:44:22,818] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.224 seconds
+[2021-11-25 13:45:17,332] {scheduler_job.py:182} INFO - Started process (PID=11673) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:45:17,334] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:45:17,335] {logging_mixin.py:104} INFO - [2021-11-25 13:45:17,334] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:45:17,365] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:45:17,389] {logging_mixin.py:104} INFO - [2021-11-25 13:45:17,389] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:45:17,403] {logging_mixin.py:104} INFO - [2021-11-25 13:45:17,403] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:45:17,491] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.163 seconds
+[2021-11-25 13:46:00,265] {scheduler_job.py:182} INFO - Started process (PID=11983) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:46:00,266] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:46:00,268] {logging_mixin.py:104} INFO - [2021-11-25 13:46:00,267] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:46:00,326] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:46:00,378] {logging_mixin.py:104} INFO - [2021-11-25 13:46:00,378] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:46:00,404] {logging_mixin.py:104} INFO - [2021-11-25 13:46:00,404] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:46:00,499] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.238 seconds
+[2021-11-25 13:46:47,017] {scheduler_job.py:182} INFO - Started process (PID=12286) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:46:47,025] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:46:47,026] {logging_mixin.py:104} INFO - [2021-11-25 13:46:47,026] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:46:47,086] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:46:47,131] {logging_mixin.py:104} INFO - [2021-11-25 13:46:47,131] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:46:47,161] {logging_mixin.py:104} INFO - [2021-11-25 13:46:47,161] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:46:47,283] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.273 seconds
+[2021-11-25 13:47:43,894] {scheduler_job.py:182} INFO - Started process (PID=12660) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:47:43,903] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:47:43,904] {logging_mixin.py:104} INFO - [2021-11-25 13:47:43,904] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:47:43,962] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:47:44,027] {logging_mixin.py:104} INFO - [2021-11-25 13:47:44,027] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:47:44,085] {logging_mixin.py:104} INFO - [2021-11-25 13:47:44,085] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:47:44,231] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.347 seconds
+[2021-11-25 13:48:34,081] {scheduler_job.py:182} INFO - Started process (PID=13011) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:48:34,083] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:48:34,084] {logging_mixin.py:104} INFO - [2021-11-25 13:48:34,084] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:48:34,144] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:48:34,194] {logging_mixin.py:104} INFO - [2021-11-25 13:48:34,194] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:48:34,226] {logging_mixin.py:104} INFO - [2021-11-25 13:48:34,226] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:48:34,347] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.277 seconds
+[2021-11-25 13:49:29,218] {scheduler_job.py:182} INFO - Started process (PID=13319) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:49:29,220] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:49:29,222] {logging_mixin.py:104} INFO - [2021-11-25 13:49:29,222] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:49:29,286] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:49:29,341] {logging_mixin.py:104} INFO - [2021-11-25 13:49:29,341] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:49:29,373] {logging_mixin.py:104} INFO - [2021-11-25 13:49:29,372] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:49:29,496] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.284 seconds
+[2021-11-25 13:50:17,721] {scheduler_job.py:182} INFO - Started process (PID=13422) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:50:17,722] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:50:17,723] {logging_mixin.py:104} INFO - [2021-11-25 13:50:17,723] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:50:17,768] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:50:17,806] {logging_mixin.py:104} INFO - [2021-11-25 13:50:17,806] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:50:17,838] {logging_mixin.py:104} INFO - [2021-11-25 13:50:17,837] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:50:17,952] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.235 seconds
+[2021-11-25 13:51:03,158] {scheduler_job.py:182} INFO - Started process (PID=13493) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:51:03,160] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:51:03,164] {logging_mixin.py:104} INFO - [2021-11-25 13:51:03,163] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:51:03,214] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:51:03,257] {logging_mixin.py:104} INFO - [2021-11-25 13:51:03,257] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:51:03,286] {logging_mixin.py:104} INFO - [2021-11-25 13:51:03,285] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:51:03,380] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.227 seconds
+[2021-11-25 13:51:49,701] {scheduler_job.py:182} INFO - Started process (PID=13600) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:51:49,703] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:51:49,704] {logging_mixin.py:104} INFO - [2021-11-25 13:51:49,704] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:51:49,730] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:51:49,755] {logging_mixin.py:104} INFO - [2021-11-25 13:51:49,754] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:51:49,773] {logging_mixin.py:104} INFO - [2021-11-25 13:51:49,773] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:51:49,908] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.211 seconds
+[2021-11-25 13:52:31,411] {scheduler_job.py:182} INFO - Started process (PID=13671) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:52:31,414] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:52:31,415] {logging_mixin.py:104} INFO - [2021-11-25 13:52:31,415] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:52:31,440] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:52:31,462] {logging_mixin.py:104} INFO - [2021-11-25 13:52:31,461] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:52:31,475] {logging_mixin.py:104} INFO - [2021-11-25 13:52:31,475] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:52:31,586] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.180 seconds
+[2021-11-25 13:53:22,566] {scheduler_job.py:182} INFO - Started process (PID=13787) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:53:22,568] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:53:22,569] {logging_mixin.py:104} INFO - [2021-11-25 13:53:22,569] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:53:22,606] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:53:22,640] {logging_mixin.py:104} INFO - [2021-11-25 13:53:22,639] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:53:22,661] {logging_mixin.py:104} INFO - [2021-11-25 13:53:22,660] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:53:22,762] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.202 seconds
+[2021-11-25 13:54:04,929] {scheduler_job.py:182} INFO - Started process (PID=13881) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:54:04,933] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:54:04,934] {logging_mixin.py:104} INFO - [2021-11-25 13:54:04,934] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:54:04,970] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:54:05,007] {logging_mixin.py:104} INFO - [2021-11-25 13:54:05,007] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:54:05,027] {logging_mixin.py:104} INFO - [2021-11-25 13:54:05,027] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:54:05,126] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.200 seconds
+[2021-11-25 13:54:48,586] {scheduler_job.py:182} INFO - Started process (PID=13918) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:54:48,588] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:54:48,589] {logging_mixin.py:104} INFO - [2021-11-25 13:54:48,589] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:54:48,626] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:54:48,663] {logging_mixin.py:104} INFO - [2021-11-25 13:54:48,663] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:54:48,688] {logging_mixin.py:104} INFO - [2021-11-25 13:54:48,688] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:54:48,778] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.196 seconds
+[2021-11-25 13:55:35,203] {scheduler_job.py:182} INFO - Started process (PID=13988) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:55:35,207] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:55:35,210] {logging_mixin.py:104} INFO - [2021-11-25 13:55:35,209] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:55:35,261] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:55:35,315] {logging_mixin.py:104} INFO - [2021-11-25 13:55:35,314] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:55:35,345] {logging_mixin.py:104} INFO - [2021-11-25 13:55:35,344] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:55:35,558] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.363 seconds
+[2021-11-25 13:56:26,133] {scheduler_job.py:182} INFO - Started process (PID=14060) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:56:26,137] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:56:26,140] {logging_mixin.py:104} INFO - [2021-11-25 13:56:26,139] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:56:26,188] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:56:26,226] {logging_mixin.py:104} INFO - [2021-11-25 13:56:26,226] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:56:26,253] {logging_mixin.py:104} INFO - [2021-11-25 13:56:26,253] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:56:26,342] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.214 seconds
+[2021-11-25 13:57:16,791] {scheduler_job.py:182} INFO - Started process (PID=14209) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:57:16,793] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:57:16,794] {logging_mixin.py:104} INFO - [2021-11-25 13:57:16,794] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:57:16,821] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:57:16,848] {logging_mixin.py:104} INFO - [2021-11-25 13:57:16,848] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:57:16,866] {logging_mixin.py:104} INFO - [2021-11-25 13:57:16,866] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:57:16,986] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.200 seconds
+[2021-11-25 13:58:05,092] {scheduler_job.py:182} INFO - Started process (PID=14300) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:58:05,094] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:58:05,096] {logging_mixin.py:104} INFO - [2021-11-25 13:58:05,095] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:58:05,138] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:58:05,173] {logging_mixin.py:104} INFO - [2021-11-25 13:58:05,173] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:58:05,200] {logging_mixin.py:104} INFO - [2021-11-25 13:58:05,199] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:58:05,306] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.219 seconds
+[2021-11-25 13:59:00,576] {scheduler_job.py:182} INFO - Started process (PID=14425) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:59:00,581] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:59:00,582] {logging_mixin.py:104} INFO - [2021-11-25 13:59:00,581] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:59:00,626] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:59:00,673] {logging_mixin.py:104} INFO - [2021-11-25 13:59:00,672] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:59:00,693] {logging_mixin.py:104} INFO - [2021-11-25 13:59:00,693] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:59:00,786] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.216 seconds
+[2021-11-25 13:59:49,975] {scheduler_job.py:182} INFO - Started process (PID=14536) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:59:49,977] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 13:59:49,978] {logging_mixin.py:104} INFO - [2021-11-25 13:59:49,978] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:59:50,002] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 13:59:50,025] {logging_mixin.py:104} INFO - [2021-11-25 13:59:50,025] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:59:50,038] {logging_mixin.py:104} INFO - [2021-11-25 13:59:50,038] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 13:59:50,123] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.152 seconds
+[2021-11-25 14:00:34,897] {scheduler_job.py:182} INFO - Started process (PID=14667) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:00:34,899] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:00:34,900] {logging_mixin.py:104} INFO - [2021-11-25 14:00:34,900] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:00:34,925] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:00:34,948] {logging_mixin.py:104} INFO - [2021-11-25 14:00:34,948] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:00:34,962] {logging_mixin.py:104} INFO - [2021-11-25 14:00:34,962] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:00:35,060] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.166 seconds
+[2021-11-25 14:01:32,329] {scheduler_job.py:182} INFO - Started process (PID=14797) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:01:32,330] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:01:32,331] {logging_mixin.py:104} INFO - [2021-11-25 14:01:32,331] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:01:32,353] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:01:32,384] {logging_mixin.py:104} INFO - [2021-11-25 14:01:32,384] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:01:32,397] {logging_mixin.py:104} INFO - [2021-11-25 14:01:32,397] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:01:32,500] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.175 seconds
+[2021-11-25 14:02:13,359] {scheduler_job.py:182} INFO - Started process (PID=14901) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:02:13,361] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:02:13,362] {logging_mixin.py:104} INFO - [2021-11-25 14:02:13,362] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:02:13,386] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:02:13,412] {logging_mixin.py:104} INFO - [2021-11-25 14:02:13,411] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:02:13,430] {logging_mixin.py:104} INFO - [2021-11-25 14:02:13,430] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:02:13,518] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.165 seconds
+[2021-11-25 14:02:55,794] {scheduler_job.py:182} INFO - Started process (PID=14958) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:02:55,796] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:02:55,797] {logging_mixin.py:104} INFO - [2021-11-25 14:02:55,797] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:02:55,832] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:02:55,866] {logging_mixin.py:104} INFO - [2021-11-25 14:02:55,866] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:02:55,885] {logging_mixin.py:104} INFO - [2021-11-25 14:02:55,885] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:02:55,994] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.204 seconds
+[2021-11-25 14:03:40,394] {scheduler_job.py:182} INFO - Started process (PID=15069) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:03:40,396] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:03:40,396] {logging_mixin.py:104} INFO - [2021-11-25 14:03:40,396] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:03:40,419] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:03:40,449] {logging_mixin.py:104} INFO - [2021-11-25 14:03:40,449] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:03:40,462] {logging_mixin.py:104} INFO - [2021-11-25 14:03:40,462] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:03:40,551] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.160 seconds
+[2021-11-25 14:04:27,857] {scheduler_job.py:182} INFO - Started process (PID=15172) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:04:27,871] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:04:27,872] {logging_mixin.py:104} INFO - [2021-11-25 14:04:27,872] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:04:27,962] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:04:27,984] {logging_mixin.py:104} INFO - [2021-11-25 14:04:27,984] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:04:27,997] {logging_mixin.py:104} INFO - [2021-11-25 14:04:27,997] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:04:28,089] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.235 seconds
+[2021-11-25 14:05:10,885] {scheduler_job.py:182} INFO - Started process (PID=15245) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:05:10,887] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:05:10,888] {logging_mixin.py:104} INFO - [2021-11-25 14:05:10,888] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:05:10,912] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:05:10,935] {logging_mixin.py:104} INFO - [2021-11-25 14:05:10,935] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:05:10,950] {logging_mixin.py:104} INFO - [2021-11-25 14:05:10,949] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:05:11,118] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.237 seconds
+[2021-11-25 14:05:51,373] {scheduler_job.py:182} INFO - Started process (PID=15285) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:05:51,375] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:05:51,375] {logging_mixin.py:104} INFO - [2021-11-25 14:05:51,375] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:05:51,399] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:05:51,437] {logging_mixin.py:104} INFO - [2021-11-25 14:05:51,436] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:05:51,449] {logging_mixin.py:104} INFO - [2021-11-25 14:05:51,449] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:05:51,532] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.164 seconds
+[2021-11-25 14:06:34,205] {scheduler_job.py:182} INFO - Started process (PID=15357) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:06:34,206] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:06:34,207] {logging_mixin.py:104} INFO - [2021-11-25 14:06:34,207] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:06:34,230] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:06:34,253] {logging_mixin.py:104} INFO - [2021-11-25 14:06:34,253] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:06:34,267] {logging_mixin.py:104} INFO - [2021-11-25 14:06:34,267] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:06:34,662] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.460 seconds
+[2021-11-25 14:07:20,475] {scheduler_job.py:182} INFO - Started process (PID=15460) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:07:20,477] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:07:20,478] {logging_mixin.py:104} INFO - [2021-11-25 14:07:20,477] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:07:20,502] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:07:20,525] {logging_mixin.py:104} INFO - [2021-11-25 14:07:20,525] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:07:20,539] {logging_mixin.py:104} INFO - [2021-11-25 14:07:20,539] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:07:20,624] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2021-11-25 14:07:59,495] {scheduler_job.py:182} INFO - Started process (PID=15526) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:07:59,496] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:07:59,498] {logging_mixin.py:104} INFO - [2021-11-25 14:07:59,497] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:07:59,522] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:07:59,546] {logging_mixin.py:104} INFO - [2021-11-25 14:07:59,545] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:07:59,560] {logging_mixin.py:104} INFO - [2021-11-25 14:07:59,560] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:07:59,644] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.152 seconds
+[2021-11-25 14:08:41,598] {scheduler_job.py:182} INFO - Started process (PID=15564) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:08:41,599] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:08:41,601] {logging_mixin.py:104} INFO - [2021-11-25 14:08:41,600] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:08:41,626] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:08:41,647] {logging_mixin.py:104} INFO - [2021-11-25 14:08:41,647] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:08:41,661] {logging_mixin.py:104} INFO - [2021-11-25 14:08:41,661] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:08:41,821] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.228 seconds
+[2021-11-25 14:09:46,654] {scheduler_job.py:182} INFO - Started process (PID=15677) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:09:46,656] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:09:46,657] {logging_mixin.py:104} INFO - [2021-11-25 14:09:46,657] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:09:46,682] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:09:46,710] {logging_mixin.py:104} INFO - [2021-11-25 14:09:46,710] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:09:46,792] {logging_mixin.py:104} INFO - [2021-11-25 14:09:46,792] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:09:46,880] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.229 seconds
+[2021-11-25 14:10:28,159] {scheduler_job.py:182} INFO - Started process (PID=15746) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:10:28,160] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:10:28,161] {logging_mixin.py:104} INFO - [2021-11-25 14:10:28,161] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:10:28,193] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:10:28,215] {logging_mixin.py:104} INFO - [2021-11-25 14:10:28,215] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:10:28,300] {logging_mixin.py:104} INFO - [2021-11-25 14:10:28,300] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:10:28,395] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.241 seconds
+[2021-11-25 14:11:24,436] {scheduler_job.py:182} INFO - Started process (PID=15824) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:11:24,449] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:11:24,450] {logging_mixin.py:104} INFO - [2021-11-25 14:11:24,450] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:11:24,502] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:11:24,541] {logging_mixin.py:104} INFO - [2021-11-25 14:11:24,541] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:11:24,651] {logging_mixin.py:104} INFO - [2021-11-25 14:11:24,651] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:11:24,788] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.356 seconds
+[2021-11-25 14:12:36,554] {scheduler_job.py:182} INFO - Started process (PID=15971) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:12:36,556] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:12:36,557] {logging_mixin.py:104} INFO - [2021-11-25 14:12:36,557] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:12:36,593] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:12:36,704] {logging_mixin.py:104} INFO - [2021-11-25 14:12:36,704] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:12:36,716] {logging_mixin.py:104} INFO - [2021-11-25 14:12:36,716] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:12:36,999] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.450 seconds
+[2021-11-25 14:13:35,326] {scheduler_job.py:182} INFO - Started process (PID=16147) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:13:35,329] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:13:35,331] {logging_mixin.py:104} INFO - [2021-11-25 14:13:35,330] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:13:35,382] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:13:35,547] {logging_mixin.py:104} INFO - [2021-11-25 14:13:35,547] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:13:35,569] {logging_mixin.py:104} INFO - [2021-11-25 14:13:35,569] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:13:35,854] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.534 seconds
+[2021-11-25 14:14:22,266] {scheduler_job.py:182} INFO - Started process (PID=16287) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:14:22,268] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:14:22,269] {logging_mixin.py:104} INFO - [2021-11-25 14:14:22,269] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:14:22,299] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:14:22,402] {logging_mixin.py:104} INFO - [2021-11-25 14:14:22,402] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:14:22,415] {logging_mixin.py:104} INFO - [2021-11-25 14:14:22,415] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:14:22,509] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.247 seconds
+[2021-11-25 14:15:06,231] {scheduler_job.py:182} INFO - Started process (PID=16355) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:15:06,232] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:15:06,234] {logging_mixin.py:104} INFO - [2021-11-25 14:15:06,233] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:15:06,366] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:15:06,396] {logging_mixin.py:104} INFO - [2021-11-25 14:15:06,396] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:15:06,413] {logging_mixin.py:104} INFO - [2021-11-25 14:15:06,412] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:15:06,505] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.279 seconds
+[2021-11-25 14:15:50,046] {scheduler_job.py:182} INFO - Started process (PID=16420) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:15:50,049] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:15:50,051] {logging_mixin.py:104} INFO - [2021-11-25 14:15:50,050] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:15:50,237] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:15:50,264] {logging_mixin.py:104} INFO - [2021-11-25 14:15:50,264] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:15:50,281] {logging_mixin.py:104} INFO - [2021-11-25 14:15:50,281] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:15:50,367] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.326 seconds
+[2021-11-25 14:16:38,057] {scheduler_job.py:182} INFO - Started process (PID=16504) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:16:38,058] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:16:38,059] {logging_mixin.py:104} INFO - [2021-11-25 14:16:38,059] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:16:38,157] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:16:38,176] {logging_mixin.py:104} INFO - [2021-11-25 14:16:38,176] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:16:38,187] {logging_mixin.py:104} INFO - [2021-11-25 14:16:38,187] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:16:38,276] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.222 seconds
+[2021-11-25 14:17:28,667] {scheduler_job.py:182} INFO - Started process (PID=16609) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:17:28,668] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:17:28,669] {logging_mixin.py:104} INFO - [2021-11-25 14:17:28,669] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:17:28,765] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:17:28,783] {logging_mixin.py:104} INFO - [2021-11-25 14:17:28,783] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:17:28,795] {logging_mixin.py:104} INFO - [2021-11-25 14:17:28,795] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:17:28,875] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.212 seconds
+[2021-11-25 14:18:12,031] {scheduler_job.py:182} INFO - Started process (PID=16679) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:18:12,033] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:18:12,034] {logging_mixin.py:104} INFO - [2021-11-25 14:18:12,034] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:18:12,195] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:18:12,215] {logging_mixin.py:104} INFO - [2021-11-25 14:18:12,215] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:18:12,228] {logging_mixin.py:104} INFO - [2021-11-25 14:18:12,228] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:18:12,503] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.489 seconds
+[2021-11-25 14:19:07,853] {scheduler_job.py:182} INFO - Started process (PID=16779) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:19:07,863] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:19:07,864] {logging_mixin.py:104} INFO - [2021-11-25 14:19:07,864] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:19:08,000] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:19:08,029] {logging_mixin.py:104} INFO - [2021-11-25 14:19:08,029] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:19:08,046] {logging_mixin.py:104} INFO - [2021-11-25 14:19:08,046] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:19:08,146] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.298 seconds
+[2021-11-25 14:19:56,677] {scheduler_job.py:182} INFO - Started process (PID=16824) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:19:56,678] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:19:56,679] {logging_mixin.py:104} INFO - [2021-11-25 14:19:56,679] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:19:56,774] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:19:56,792] {logging_mixin.py:104} INFO - [2021-11-25 14:19:56,792] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:19:56,803] {logging_mixin.py:104} INFO - [2021-11-25 14:19:56,803] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:19:56,887] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.215 seconds
+[2021-11-25 14:20:59,787] {scheduler_job.py:182} INFO - Started process (PID=16937) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:20:59,789] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:20:59,790] {logging_mixin.py:104} INFO - [2021-11-25 14:20:59,790] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:20:59,914] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:20:59,932] {logging_mixin.py:104} INFO - [2021-11-25 14:20:59,932] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:20:59,944] {logging_mixin.py:104} INFO - [2021-11-25 14:20:59,943] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:21:00,140] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.357 seconds
+[2021-11-25 14:21:59,404] {scheduler_job.py:182} INFO - Started process (PID=17044) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:21:59,405] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:21:59,406] {logging_mixin.py:104} INFO - [2021-11-25 14:21:59,406] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:21:59,430] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:21:59,452] {logging_mixin.py:104} INFO - [2021-11-25 14:21:59,452] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:21:59,465] {logging_mixin.py:104} INFO - [2021-11-25 14:21:59,465] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:21:59,534] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.135 seconds
+[2021-11-25 14:22:45,927] {scheduler_job.py:182} INFO - Started process (PID=17099) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:22:45,929] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:22:45,930] {logging_mixin.py:104} INFO - [2021-11-25 14:22:45,930] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:22:45,955] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:22:45,981] {logging_mixin.py:104} INFO - [2021-11-25 14:22:45,981] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:22:45,995] {logging_mixin.py:104} INFO - [2021-11-25 14:22:45,995] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:22:46,115] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.191 seconds
+[2021-11-25 14:24:01,285] {scheduler_job.py:182} INFO - Started process (PID=17200) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:24:01,348] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:24:01,349] {logging_mixin.py:104} INFO - [2021-11-25 14:24:01,348] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:24:01,760] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:24:01,832] {logging_mixin.py:104} INFO - [2021-11-25 14:24:01,831] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:24:01,846] {logging_mixin.py:104} INFO - [2021-11-25 14:24:01,846] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:24:02,145] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.863 seconds
+[2021-11-25 14:24:46,269] {scheduler_job.py:182} INFO - Started process (PID=17282) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:24:46,270] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:24:46,271] {logging_mixin.py:104} INFO - [2021-11-25 14:24:46,271] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:24:46,302] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:24:46,328] {logging_mixin.py:104} INFO - [2021-11-25 14:24:46,328] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:24:46,349] {logging_mixin.py:104} INFO - [2021-11-25 14:24:46,349] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:24:46,473] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.208 seconds
+[2021-11-25 14:25:26,998] {scheduler_job.py:182} INFO - Started process (PID=17351) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:25:27,000] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:25:27,001] {logging_mixin.py:104} INFO - [2021-11-25 14:25:27,001] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:25:27,024] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:25:27,046] {logging_mixin.py:104} INFO - [2021-11-25 14:25:27,046] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:25:27,059] {logging_mixin.py:104} INFO - [2021-11-25 14:25:27,059] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:25:27,143] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.149 seconds
+[2021-11-25 14:26:10,931] {scheduler_job.py:182} INFO - Started process (PID=17428) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:26:10,933] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:26:10,934] {logging_mixin.py:104} INFO - [2021-11-25 14:26:10,934] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:26:10,957] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:26:10,981] {logging_mixin.py:104} INFO - [2021-11-25 14:26:10,980] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:26:10,994] {logging_mixin.py:104} INFO - [2021-11-25 14:26:10,994] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:26:11,095] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.168 seconds
+[2021-11-25 14:26:51,231] {scheduler_job.py:182} INFO - Started process (PID=17492) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:26:51,233] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:26:51,234] {logging_mixin.py:104} INFO - [2021-11-25 14:26:51,234] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:26:51,260] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:26:51,286] {logging_mixin.py:104} INFO - [2021-11-25 14:26:51,286] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:26:51,301] {logging_mixin.py:104} INFO - [2021-11-25 14:26:51,301] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:26:51,401] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds
+[2021-11-25 14:27:36,300] {scheduler_job.py:182} INFO - Started process (PID=17571) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:27:36,301] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:27:36,302] {logging_mixin.py:104} INFO - [2021-11-25 14:27:36,302] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:27:36,324] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:27:36,346] {logging_mixin.py:104} INFO - [2021-11-25 14:27:36,346] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:27:36,360] {logging_mixin.py:104} INFO - [2021-11-25 14:27:36,360] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:27:36,489] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.194 seconds
+[2021-11-25 14:28:19,501] {scheduler_job.py:182} INFO - Started process (PID=17643) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:28:19,503] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:28:19,504] {logging_mixin.py:104} INFO - [2021-11-25 14:28:19,504] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:28:19,527] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:28:19,548] {logging_mixin.py:104} INFO - [2021-11-25 14:28:19,548] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:28:19,561] {logging_mixin.py:104} INFO - [2021-11-25 14:28:19,561] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:28:19,649] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-11-25 14:29:04,657] {scheduler_job.py:182} INFO - Started process (PID=17753) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:29:04,659] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:29:04,660] {logging_mixin.py:104} INFO - [2021-11-25 14:29:04,660] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:29:04,682] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:29:04,704] {logging_mixin.py:104} INFO - [2021-11-25 14:29:04,703] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:29:04,719] {logging_mixin.py:104} INFO - [2021-11-25 14:29:04,719] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:29:04,807] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2021-11-25 14:29:43,655] {scheduler_job.py:182} INFO - Started process (PID=17790) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:29:43,657] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:29:43,658] {logging_mixin.py:104} INFO - [2021-11-25 14:29:43,658] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:29:43,681] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:29:43,702] {logging_mixin.py:104} INFO - [2021-11-25 14:29:43,702] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:29:43,715] {logging_mixin.py:104} INFO - [2021-11-25 14:29:43,715] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:29:43,852] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.201 seconds
+[2021-11-25 14:30:26,801] {scheduler_job.py:182} INFO - Started process (PID=17866) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:30:26,803] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:30:26,804] {logging_mixin.py:104} INFO - [2021-11-25 14:30:26,804] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:30:26,826] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:30:26,848] {logging_mixin.py:104} INFO - [2021-11-25 14:30:26,848] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:30:26,861] {logging_mixin.py:104} INFO - [2021-11-25 14:30:26,861] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:30:26,959] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.162 seconds
+[2021-11-25 14:31:15,571] {scheduler_job.py:182} INFO - Started process (PID=17973) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:31:15,572] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:31:15,573] {logging_mixin.py:104} INFO - [2021-11-25 14:31:15,573] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:31:15,702] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:31:15,737] {logging_mixin.py:104} INFO - [2021-11-25 14:31:15,737] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:31:15,751] {logging_mixin.py:104} INFO - [2021-11-25 14:31:15,751] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:31:15,854] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.286 seconds
+[2021-11-25 14:32:11,445] {scheduler_job.py:182} INFO - Started process (PID=18072) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:32:11,447] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:32:11,448] {logging_mixin.py:104} INFO - [2021-11-25 14:32:11,448] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:32:11,481] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:32:11,520] {logging_mixin.py:104} INFO - [2021-11-25 14:32:11,520] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:32:11,534] {logging_mixin.py:104} INFO - [2021-11-25 14:32:11,533] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:32:11,650] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.208 seconds
+[2021-11-25 14:32:55,710] {scheduler_job.py:182} INFO - Started process (PID=18129) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:32:55,723] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:32:55,725] {logging_mixin.py:104} INFO - [2021-11-25 14:32:55,724] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:32:55,749] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:32:55,773] {logging_mixin.py:104} INFO - [2021-11-25 14:32:55,773] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:32:55,790] {logging_mixin.py:104} INFO - [2021-11-25 14:32:55,790] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:32:55,895] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.188 seconds
+[2021-11-25 14:33:39,666] {scheduler_job.py:182} INFO - Started process (PID=18219) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:33:39,668] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:33:39,669] {logging_mixin.py:104} INFO - [2021-11-25 14:33:39,669] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:33:39,692] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:33:39,714] {logging_mixin.py:104} INFO - [2021-11-25 14:33:39,714] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:33:39,727] {logging_mixin.py:104} INFO - [2021-11-25 14:33:39,727] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:33:39,811] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.149 seconds
+[2021-11-25 14:34:19,464] {scheduler_job.py:182} INFO - Started process (PID=18318) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:34:19,465] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:34:19,466] {logging_mixin.py:104} INFO - [2021-11-25 14:34:19,466] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:34:19,488] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:34:19,510] {logging_mixin.py:104} INFO - [2021-11-25 14:34:19,509] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:34:19,523] {logging_mixin.py:104} INFO - [2021-11-25 14:34:19,522] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:34:19,622] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.161 seconds
+[2021-11-25 14:35:01,638] {scheduler_job.py:182} INFO - Started process (PID=18389) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:35:01,640] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:35:01,641] {logging_mixin.py:104} INFO - [2021-11-25 14:35:01,641] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:35:01,664] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:35:01,685] {logging_mixin.py:104} INFO - [2021-11-25 14:35:01,685] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:35:01,698] {logging_mixin.py:104} INFO - [2021-11-25 14:35:01,698] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:35:01,821] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.187 seconds
+[2021-11-25 14:35:39,011] {scheduler_job.py:182} INFO - Started process (PID=18429) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:35:39,013] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:35:39,014] {logging_mixin.py:104} INFO - [2021-11-25 14:35:39,014] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:35:39,036] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:35:39,058] {logging_mixin.py:104} INFO - [2021-11-25 14:35:39,058] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:35:39,073] {logging_mixin.py:104} INFO - [2021-11-25 14:35:39,073] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:35:39,173] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.166 seconds
+[2021-11-25 14:36:23,585] {scheduler_job.py:182} INFO - Started process (PID=18506) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:36:23,586] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:36:23,587] {logging_mixin.py:104} INFO - [2021-11-25 14:36:23,587] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:36:23,610] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:36:23,634] {logging_mixin.py:104} INFO - [2021-11-25 14:36:23,633] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:36:23,646] {logging_mixin.py:104} INFO - [2021-11-25 14:36:23,646] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:36:23,737] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2021-11-25 14:37:04,274] {scheduler_job.py:182} INFO - Started process (PID=18597) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:37:04,276] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:37:04,277] {logging_mixin.py:104} INFO - [2021-11-25 14:37:04,277] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:37:04,302] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:37:04,339] {logging_mixin.py:104} INFO - [2021-11-25 14:37:04,338] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:37:04,358] {logging_mixin.py:104} INFO - [2021-11-25 14:37:04,358] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:37:04,444] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds
+[2021-11-25 14:37:45,219] {scheduler_job.py:182} INFO - Started process (PID=18639) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:37:45,222] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:37:45,223] {logging_mixin.py:104} INFO - [2021-11-25 14:37:45,222] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:37:45,245] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:37:45,267] {logging_mixin.py:104} INFO - [2021-11-25 14:37:45,266] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:37:45,284] {logging_mixin.py:104} INFO - [2021-11-25 14:37:45,283] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:37:45,394] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.178 seconds
+[2021-11-25 14:38:23,033] {scheduler_job.py:182} INFO - Started process (PID=18711) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:38:23,034] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:38:23,035] {logging_mixin.py:104} INFO - [2021-11-25 14:38:23,035] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:38:23,057] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:38:23,079] {logging_mixin.py:104} INFO - [2021-11-25 14:38:23,078] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:38:23,092] {logging_mixin.py:104} INFO - [2021-11-25 14:38:23,092] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:38:23,229] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.199 seconds
+[2021-11-25 14:39:11,909] {scheduler_job.py:182} INFO - Started process (PID=18821) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:39:11,910] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:39:11,911] {logging_mixin.py:104} INFO - [2021-11-25 14:39:11,911] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:39:11,933] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:39:11,955] {logging_mixin.py:104} INFO - [2021-11-25 14:39:11,955] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:39:11,969] {logging_mixin.py:104} INFO - [2021-11-25 14:39:11,969] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:39:12,051] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2021-11-25 14:39:51,913] {scheduler_job.py:182} INFO - Started process (PID=18859) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:39:51,915] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:39:51,915] {logging_mixin.py:104} INFO - [2021-11-25 14:39:51,915] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:39:51,938] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:39:51,961] {logging_mixin.py:104} INFO - [2021-11-25 14:39:51,961] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:39:51,975] {logging_mixin.py:104} INFO - [2021-11-25 14:39:51,975] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:39:52,067] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2021-11-25 14:40:31,839] {scheduler_job.py:182} INFO - Started process (PID=18930) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:40:31,841] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:40:31,842] {logging_mixin.py:104} INFO - [2021-11-25 14:40:31,842] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:40:31,865] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:40:31,887] {logging_mixin.py:104} INFO - [2021-11-25 14:40:31,887] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:40:31,900] {logging_mixin.py:104} INFO - [2021-11-25 14:40:31,900] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:40:32,019] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.184 seconds
+[2021-11-25 14:41:08,598] {scheduler_job.py:182} INFO - Started process (PID=19012) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:41:08,601] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:41:08,602] {logging_mixin.py:104} INFO - [2021-11-25 14:41:08,602] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:41:08,623] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:41:08,645] {logging_mixin.py:104} INFO - [2021-11-25 14:41:08,644] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:41:08,659] {logging_mixin.py:104} INFO - [2021-11-25 14:41:08,658] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:41:08,797] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.204 seconds
+[2021-11-25 14:41:50,680] {scheduler_job.py:182} INFO - Started process (PID=19077) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:41:50,682] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:41:50,683] {logging_mixin.py:104} INFO - [2021-11-25 14:41:50,683] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:41:50,706] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:41:50,728] {logging_mixin.py:104} INFO - [2021-11-25 14:41:50,728] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:41:50,741] {logging_mixin.py:104} INFO - [2021-11-25 14:41:50,740] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:41:50,897] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.221 seconds
+[2021-11-25 14:42:30,839] {scheduler_job.py:182} INFO - Started process (PID=19145) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:42:30,841] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:42:30,842] {logging_mixin.py:104} INFO - [2021-11-25 14:42:30,841] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:42:30,864] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:42:30,887] {logging_mixin.py:104} INFO - [2021-11-25 14:42:30,887] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:42:30,900] {logging_mixin.py:104} INFO - [2021-11-25 14:42:30,900] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:42:31,004] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.169 seconds
+[2021-11-25 14:43:14,609] {scheduler_job.py:182} INFO - Started process (PID=19224) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:43:14,611] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:43:14,612] {logging_mixin.py:104} INFO - [2021-11-25 14:43:14,612] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:43:14,635] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:43:14,657] {logging_mixin.py:104} INFO - [2021-11-25 14:43:14,657] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:43:14,670] {logging_mixin.py:104} INFO - [2021-11-25 14:43:14,669] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:43:14,766] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.160 seconds
+[2021-11-25 14:43:55,948] {scheduler_job.py:182} INFO - Started process (PID=19263) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:43:55,950] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:43:55,950] {logging_mixin.py:104} INFO - [2021-11-25 14:43:55,950] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:43:55,973] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:43:55,995] {logging_mixin.py:104} INFO - [2021-11-25 14:43:55,995] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:43:56,008] {logging_mixin.py:104} INFO - [2021-11-25 14:43:56,008] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:43:56,098] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-11-25 14:44:37,859] {scheduler_job.py:182} INFO - Started process (PID=19367) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:44:37,860] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:44:37,861] {logging_mixin.py:104} INFO - [2021-11-25 14:44:37,861] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:44:37,896] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:44:37,930] {logging_mixin.py:104} INFO - [2021-11-25 14:44:37,930] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:44:37,948] {logging_mixin.py:104} INFO - [2021-11-25 14:44:37,948] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:44:38,033] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.179 seconds
+[2021-11-25 14:45:19,223] {scheduler_job.py:182} INFO - Started process (PID=19438) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:45:19,225] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:45:19,226] {logging_mixin.py:104} INFO - [2021-11-25 14:45:19,226] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:45:19,249] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:45:19,273] {logging_mixin.py:104} INFO - [2021-11-25 14:45:19,273] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:45:19,289] {logging_mixin.py:104} INFO - [2021-11-25 14:45:19,289] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:45:19,370] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.150 seconds
+[2021-11-25 14:46:04,276] {scheduler_job.py:182} INFO - Started process (PID=19541) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:46:04,279] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:46:04,280] {logging_mixin.py:104} INFO - [2021-11-25 14:46:04,279] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:46:04,303] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:46:04,325] {logging_mixin.py:104} INFO - [2021-11-25 14:46:04,325] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:46:04,340] {logging_mixin.py:104} INFO - [2021-11-25 14:46:04,340] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:46:04,444] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.172 seconds
+[2021-11-25 14:46:43,699] {scheduler_job.py:182} INFO - Started process (PID=19603) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:46:43,701] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:46:43,702] {logging_mixin.py:104} INFO - [2021-11-25 14:46:43,702] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:46:43,728] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:46:43,749] {logging_mixin.py:104} INFO - [2021-11-25 14:46:43,749] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:46:43,762] {logging_mixin.py:104} INFO - [2021-11-25 14:46:43,762] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:46:43,854] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.159 seconds
+[2021-11-25 14:47:22,315] {scheduler_job.py:182} INFO - Started process (PID=19681) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:47:22,316] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:47:22,317] {logging_mixin.py:104} INFO - [2021-11-25 14:47:22,317] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:47:22,341] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:47:22,363] {logging_mixin.py:104} INFO - [2021-11-25 14:47:22,363] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:47:22,376] {logging_mixin.py:104} INFO - [2021-11-25 14:47:22,376] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:47:22,477] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.166 seconds
+[2021-11-25 14:48:10,703] {scheduler_job.py:182} INFO - Started process (PID=19761) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:48:10,705] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:48:10,706] {logging_mixin.py:104} INFO - [2021-11-25 14:48:10,706] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:48:10,729] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:48:10,751] {logging_mixin.py:104} INFO - [2021-11-25 14:48:10,751] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:48:10,764] {logging_mixin.py:104} INFO - [2021-11-25 14:48:10,764] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:48:10,867] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.168 seconds
+[2021-11-25 14:48:57,458] {scheduler_job.py:182} INFO - Started process (PID=19809) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:48:57,460] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:48:57,461] {logging_mixin.py:104} INFO - [2021-11-25 14:48:57,460] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:48:57,485] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:48:57,508] {logging_mixin.py:104} INFO - [2021-11-25 14:48:57,508] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:48:57,528] {logging_mixin.py:104} INFO - [2021-11-25 14:48:57,528] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:48:57,748] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.294 seconds
+[2021-11-25 14:49:55,852] {scheduler_job.py:182} INFO - Started process (PID=19911) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:49:55,854] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:49:55,855] {logging_mixin.py:104} INFO - [2021-11-25 14:49:55,855] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:49:55,883] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:49:55,906] {logging_mixin.py:104} INFO - [2021-11-25 14:49:55,906] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:49:55,920] {logging_mixin.py:104} INFO - [2021-11-25 14:49:55,920] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:49:56,011] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.163 seconds
+[2021-11-25 14:50:40,360] {scheduler_job.py:182} INFO - Started process (PID=19987) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:50:40,361] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:50:40,362] {logging_mixin.py:104} INFO - [2021-11-25 14:50:40,362] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:50:40,386] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:50:40,408] {logging_mixin.py:104} INFO - [2021-11-25 14:50:40,408] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:50:40,422] {logging_mixin.py:104} INFO - [2021-11-25 14:50:40,422] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:50:40,511] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2021-11-25 14:51:26,315] {scheduler_job.py:182} INFO - Started process (PID=20067) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:51:26,318] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:51:26,319] {logging_mixin.py:104} INFO - [2021-11-25 14:51:26,319] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:51:26,340] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:51:26,361] {logging_mixin.py:104} INFO - [2021-11-25 14:51:26,360] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:51:26,374] {logging_mixin.py:104} INFO - [2021-11-25 14:51:26,373] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:51:26,537] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.225 seconds
+[2021-11-25 14:52:08,287] {scheduler_job.py:182} INFO - Started process (PID=20161) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:52:08,288] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:52:08,290] {logging_mixin.py:104} INFO - [2021-11-25 14:52:08,289] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:52:08,315] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:52:08,337] {logging_mixin.py:104} INFO - [2021-11-25 14:52:08,337] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:52:08,350] {logging_mixin.py:104} INFO - [2021-11-25 14:52:08,350] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:52:08,428] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.145 seconds
+[2021-11-25 14:52:49,389] {scheduler_job.py:182} INFO - Started process (PID=20208) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:52:49,391] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:52:49,392] {logging_mixin.py:104} INFO - [2021-11-25 14:52:49,391] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:52:49,414] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:52:49,436] {logging_mixin.py:104} INFO - [2021-11-25 14:52:49,435] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:52:49,448] {logging_mixin.py:104} INFO - [2021-11-25 14:52:49,448] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:52:49,531] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.146 seconds
+[2021-11-25 14:53:33,358] {scheduler_job.py:182} INFO - Started process (PID=20287) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:53:33,361] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:53:33,362] {logging_mixin.py:104} INFO - [2021-11-25 14:53:33,362] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:53:33,395] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:53:33,430] {logging_mixin.py:104} INFO - [2021-11-25 14:53:33,430] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:53:33,448] {logging_mixin.py:104} INFO - [2021-11-25 14:53:33,448] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:53:33,936] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.582 seconds
+[2021-11-25 14:54:21,239] {scheduler_job.py:182} INFO - Started process (PID=20406) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:54:21,241] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:54:21,242] {logging_mixin.py:104} INFO - [2021-11-25 14:54:21,242] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:54:21,267] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:54:21,293] {logging_mixin.py:104} INFO - [2021-11-25 14:54:21,293] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:54:21,306] {logging_mixin.py:104} INFO - [2021-11-25 14:54:21,306] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:54:21,390] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2021-11-25 14:55:07,127] {scheduler_job.py:182} INFO - Started process (PID=20480) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:55:07,129] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:55:07,130] {logging_mixin.py:104} INFO - [2021-11-25 14:55:07,129] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:55:07,154] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:55:07,177] {logging_mixin.py:104} INFO - [2021-11-25 14:55:07,176] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:55:07,190] {logging_mixin.py:104} INFO - [2021-11-25 14:55:07,190] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:55:07,337] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.214 seconds
+[2021-11-25 14:55:46,100] {scheduler_job.py:182} INFO - Started process (PID=20517) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:55:46,102] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:55:46,103] {logging_mixin.py:104} INFO - [2021-11-25 14:55:46,103] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:55:46,128] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:55:46,150] {logging_mixin.py:104} INFO - [2021-11-25 14:55:46,150] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:55:46,163] {logging_mixin.py:104} INFO - [2021-11-25 14:55:46,163] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:55:46,276] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.180 seconds
+[2021-11-25 14:56:31,705] {scheduler_job.py:182} INFO - Started process (PID=20597) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:56:31,708] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:56:31,709] {logging_mixin.py:104} INFO - [2021-11-25 14:56:31,709] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:56:31,731] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:56:31,753] {logging_mixin.py:104} INFO - [2021-11-25 14:56:31,753] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:56:31,767] {logging_mixin.py:104} INFO - [2021-11-25 14:56:31,767] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:56:31,886] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.186 seconds
+[2021-11-25 14:57:10,591] {scheduler_job.py:182} INFO - Started process (PID=20687) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:57:10,593] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:57:10,594] {logging_mixin.py:104} INFO - [2021-11-25 14:57:10,594] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:57:10,617] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:57:10,638] {logging_mixin.py:104} INFO - [2021-11-25 14:57:10,638] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:57:10,651] {logging_mixin.py:104} INFO - [2021-11-25 14:57:10,651] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:57:10,731] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.144 seconds
+[2021-11-25 14:57:57,831] {scheduler_job.py:182} INFO - Started process (PID=20749) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:57:57,832] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:57:57,833] {logging_mixin.py:104} INFO - [2021-11-25 14:57:57,833] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:57:57,867] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:57:57,900] {logging_mixin.py:104} INFO - [2021-11-25 14:57:57,900] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:57:57,918] {logging_mixin.py:104} INFO - [2021-11-25 14:57:57,917] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:57:58,032] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.206 seconds
+[2021-11-25 14:58:44,542] {scheduler_job.py:182} INFO - Started process (PID=20836) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:58:44,544] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:58:44,545] {logging_mixin.py:104} INFO - [2021-11-25 14:58:44,545] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:58:44,568] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:58:44,588] {logging_mixin.py:104} INFO - [2021-11-25 14:58:44,588] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:58:44,601] {logging_mixin.py:104} INFO - [2021-11-25 14:58:44,601] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:58:44,703] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.164 seconds
+[2021-11-25 14:59:31,653] {scheduler_job.py:182} INFO - Started process (PID=20945) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:59:31,656] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 14:59:31,657] {logging_mixin.py:104} INFO - [2021-11-25 14:59:31,657] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:59:31,681] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 14:59:31,703] {logging_mixin.py:104} INFO - [2021-11-25 14:59:31,703] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:59:31,717] {logging_mixin.py:104} INFO - [2021-11-25 14:59:31,717] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 14:59:31,809] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.161 seconds
+[2021-11-25 15:00:13,298] {scheduler_job.py:182} INFO - Started process (PID=21020) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:00:13,300] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:00:13,301] {logging_mixin.py:104} INFO - [2021-11-25 15:00:13,301] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:00:13,326] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:00:13,347] {logging_mixin.py:104} INFO - [2021-11-25 15:00:13,347] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:00:13,361] {logging_mixin.py:104} INFO - [2021-11-25 15:00:13,361] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:00:13,454] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.160 seconds
+[2021-11-25 15:00:57,720] {scheduler_job.py:182} INFO - Started process (PID=21078) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:00:57,722] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:00:57,723] {logging_mixin.py:104} INFO - [2021-11-25 15:00:57,723] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:00:57,747] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:00:57,769] {logging_mixin.py:104} INFO - [2021-11-25 15:00:57,769] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:00:57,783] {logging_mixin.py:104} INFO - [2021-11-25 15:00:57,783] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:00:57,933] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.217 seconds
+[2021-11-25 15:01:41,297] {scheduler_job.py:182} INFO - Started process (PID=21188) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:01:41,300] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:01:41,301] {logging_mixin.py:104} INFO - [2021-11-25 15:01:41,301] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:01:41,326] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:01:41,350] {logging_mixin.py:104} INFO - [2021-11-25 15:01:41,350] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:01:41,365] {logging_mixin.py:104} INFO - [2021-11-25 15:01:41,365] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:01:41,464] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.171 seconds
+[2021-11-25 15:02:27,196] {scheduler_job.py:182} INFO - Started process (PID=21317) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:02:27,198] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:02:27,199] {logging_mixin.py:104} INFO - [2021-11-25 15:02:27,198] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:02:27,223] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:02:27,248] {logging_mixin.py:104} INFO - [2021-11-25 15:02:27,248] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:02:27,269] {logging_mixin.py:104} INFO - [2021-11-25 15:02:27,269] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:02:27,370] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.177 seconds
+[2021-11-25 15:03:05,995] {scheduler_job.py:182} INFO - Started process (PID=21395) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:03:05,997] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:03:05,997] {logging_mixin.py:104} INFO - [2021-11-25 15:03:05,997] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:03:06,020] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:03:06,040] {logging_mixin.py:104} INFO - [2021-11-25 15:03:06,040] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:03:06,053] {logging_mixin.py:104} INFO - [2021-11-25 15:03:06,053] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:03:06,148] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2021-11-25 15:03:52,977] {scheduler_job.py:182} INFO - Started process (PID=21446) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:03:52,988] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:03:52,989] {logging_mixin.py:104} INFO - [2021-11-25 15:03:52,989] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:03:53,026] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:03:53,063] {logging_mixin.py:104} INFO - [2021-11-25 15:03:53,062] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:03:53,083] {logging_mixin.py:104} INFO - [2021-11-25 15:03:53,083] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:03:53,185] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.212 seconds
+[2021-11-25 15:06:03,473] {scheduler_job.py:182} INFO - Started process (PID=21705) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:06:03,494] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:06:03,495] {logging_mixin.py:104} INFO - [2021-11-25 15:06:03,495] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:06:03,547] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:06:03,570] {logging_mixin.py:104} INFO - [2021-11-25 15:06:03,570] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:06:03,583] {logging_mixin.py:104} INFO - [2021-11-25 15:06:03,583] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:06:03,702] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.233 seconds
+[2021-11-25 15:06:44,144] {scheduler_job.py:182} INFO - Started process (PID=21831) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:06:44,145] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:06:44,146] {logging_mixin.py:104} INFO - [2021-11-25 15:06:44,145] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:06:44,169] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:06:44,190] {logging_mixin.py:104} INFO - [2021-11-25 15:06:44,190] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:06:44,203] {logging_mixin.py:104} INFO - [2021-11-25 15:06:44,203] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:06:44,293] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-11-25 15:07:26,442] {scheduler_job.py:182} INFO - Started process (PID=21902) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:07:26,444] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:07:26,445] {logging_mixin.py:104} INFO - [2021-11-25 15:07:26,445] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:07:26,470] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:07:26,492] {logging_mixin.py:104} INFO - [2021-11-25 15:07:26,492] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:07:26,506] {logging_mixin.py:104} INFO - [2021-11-25 15:07:26,506] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:07:26,584] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.146 seconds
+[2021-11-25 15:08:09,118] {scheduler_job.py:182} INFO - Started process (PID=22009) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:08:09,120] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:08:09,121] {logging_mixin.py:104} INFO - [2021-11-25 15:08:09,121] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:08:09,145] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:08:09,167] {logging_mixin.py:104} INFO - [2021-11-25 15:08:09,167] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:08:09,181] {logging_mixin.py:104} INFO - [2021-11-25 15:08:09,181] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:08:09,268] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-11-25 15:08:51,453] {scheduler_job.py:182} INFO - Started process (PID=22053) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:08:51,455] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:08:51,456] {logging_mixin.py:104} INFO - [2021-11-25 15:08:51,455] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:08:51,480] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:08:51,508] {logging_mixin.py:104} INFO - [2021-11-25 15:08:51,508] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:08:51,520] {logging_mixin.py:104} INFO - [2021-11-25 15:08:51,520] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:08:51,591] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.142 seconds
+[2021-11-25 15:09:33,312] {scheduler_job.py:182} INFO - Started process (PID=22166) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:09:33,314] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:09:33,315] {logging_mixin.py:104} INFO - [2021-11-25 15:09:33,315] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:09:33,339] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:09:33,362] {logging_mixin.py:104} INFO - [2021-11-25 15:09:33,362] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:09:33,376] {logging_mixin.py:104} INFO - [2021-11-25 15:09:33,376] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:09:33,459] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2021-11-25 15:10:16,610] {scheduler_job.py:182} INFO - Started process (PID=22241) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:10:16,612] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:10:16,613] {logging_mixin.py:104} INFO - [2021-11-25 15:10:16,613] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:10:16,640] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:10:16,664] {logging_mixin.py:104} INFO - [2021-11-25 15:10:16,664] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:10:16,679] {logging_mixin.py:104} INFO - [2021-11-25 15:10:16,678] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:10:16,763] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2021-11-25 15:11:01,970] {scheduler_job.py:182} INFO - Started process (PID=22314) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:11:01,972] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:11:01,973] {logging_mixin.py:104} INFO - [2021-11-25 15:11:01,972] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:11:01,996] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:11:02,021] {logging_mixin.py:104} INFO - [2021-11-25 15:11:02,021] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:11:02,035] {logging_mixin.py:104} INFO - [2021-11-25 15:11:02,035] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:11:02,142] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.175 seconds
+[2021-11-25 15:11:46,725] {scheduler_job.py:182} INFO - Started process (PID=22382) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:11:46,727] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:11:46,728] {logging_mixin.py:104} INFO - [2021-11-25 15:11:46,728] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:11:46,750] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:11:46,772] {logging_mixin.py:104} INFO - [2021-11-25 15:11:46,772] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:11:46,786] {logging_mixin.py:104} INFO - [2021-11-25 15:11:46,786] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:11:46,896] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.175 seconds
+[2021-11-25 15:12:34,466] {scheduler_job.py:182} INFO - Started process (PID=22457) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:12:34,468] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:12:34,469] {logging_mixin.py:104} INFO - [2021-11-25 15:12:34,469] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:12:34,491] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:12:34,526] {logging_mixin.py:104} INFO - [2021-11-25 15:12:34,526] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:12:34,539] {logging_mixin.py:104} INFO - [2021-11-25 15:12:34,539] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:12:34,652] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.190 seconds
+[2021-11-25 15:13:21,373] {scheduler_job.py:182} INFO - Started process (PID=22542) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:13:21,374] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:13:21,375] {logging_mixin.py:104} INFO - [2021-11-25 15:13:21,375] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:13:21,399] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:13:21,423] {logging_mixin.py:104} INFO - [2021-11-25 15:13:21,423] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:13:21,436] {logging_mixin.py:104} INFO - [2021-11-25 15:13:21,436] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:13:21,523] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2021-11-25 15:14:04,718] {scheduler_job.py:182} INFO - Started process (PID=22641) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:14:04,721] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:14:04,722] {logging_mixin.py:104} INFO - [2021-11-25 15:14:04,722] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:14:04,743] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:14:04,765] {logging_mixin.py:104} INFO - [2021-11-25 15:14:04,765] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:14:04,778] {logging_mixin.py:104} INFO - [2021-11-25 15:14:04,778] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:14:04,863] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2021-11-25 15:14:56,424] {scheduler_job.py:182} INFO - Started process (PID=22691) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:14:56,507] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:14:56,508] {logging_mixin.py:104} INFO - [2021-11-25 15:14:56,507] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:14:56,661] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:14:56,779] {logging_mixin.py:104} INFO - [2021-11-25 15:14:56,779] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:14:56,793] {logging_mixin.py:104} INFO - [2021-11-25 15:14:56,792] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:14:56,914] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.493 seconds
+[2021-11-25 15:15:44,747] {scheduler_job.py:182} INFO - Started process (PID=22767) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:15:44,748] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:15:44,749] {logging_mixin.py:104} INFO - [2021-11-25 15:15:44,749] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:15:44,773] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:15:44,795] {logging_mixin.py:104} INFO - [2021-11-25 15:15:44,795] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:15:44,808] {logging_mixin.py:104} INFO - [2021-11-25 15:15:44,808] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:15:44,903] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.161 seconds
+[2021-11-25 15:16:25,694] {scheduler_job.py:182} INFO - Started process (PID=22842) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:16:25,696] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:16:25,697] {logging_mixin.py:104} INFO - [2021-11-25 15:16:25,697] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:16:25,719] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:16:25,741] {logging_mixin.py:104} INFO - [2021-11-25 15:16:25,741] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:16:25,755] {logging_mixin.py:104} INFO - [2021-11-25 15:16:25,754] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:16:25,907] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.217 seconds
+[2021-11-25 15:17:05,249] {scheduler_job.py:182} INFO - Started process (PID=22937) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:17:05,250] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:17:05,251] {logging_mixin.py:104} INFO - [2021-11-25 15:17:05,251] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:17:05,277] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:17:05,302] {logging_mixin.py:104} INFO - [2021-11-25 15:17:05,302] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:17:05,316] {logging_mixin.py:104} INFO - [2021-11-25 15:17:05,316] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:17:05,418] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds
+[2021-11-25 15:17:48,655] {scheduler_job.py:182} INFO - Started process (PID=22986) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:17:48,657] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:17:48,657] {logging_mixin.py:104} INFO - [2021-11-25 15:17:48,657] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:17:48,680] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:17:48,702] {logging_mixin.py:104} INFO - [2021-11-25 15:17:48,702] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:17:48,715] {logging_mixin.py:104} INFO - [2021-11-25 15:17:48,715] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:17:48,792] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.140 seconds
+[2021-11-25 15:18:28,424] {scheduler_job.py:182} INFO - Started process (PID=23057) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:18:28,425] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:18:28,426] {logging_mixin.py:104} INFO - [2021-11-25 15:18:28,426] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:18:28,449] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:18:28,471] {logging_mixin.py:104} INFO - [2021-11-25 15:18:28,470] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:18:28,484] {logging_mixin.py:104} INFO - [2021-11-25 15:18:28,483] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:18:28,564] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.145 seconds
+[2021-11-25 15:19:22,089] {scheduler_job.py:182} INFO - Started process (PID=23166) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:19:22,091] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:19:22,092] {logging_mixin.py:104} INFO - [2021-11-25 15:19:22,092] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:19:22,115] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:19:22,138] {logging_mixin.py:104} INFO - [2021-11-25 15:19:22,138] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:19:22,156] {logging_mixin.py:104} INFO - [2021-11-25 15:19:22,156] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:19:22,270] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.186 seconds
+[2021-11-25 15:20:03,655] {scheduler_job.py:182} INFO - Started process (PID=23235) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:20:03,656] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:20:03,657] {logging_mixin.py:104} INFO - [2021-11-25 15:20:03,657] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:20:03,679] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:20:03,701] {logging_mixin.py:104} INFO - [2021-11-25 15:20:03,701] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:20:03,715] {logging_mixin.py:104} INFO - [2021-11-25 15:20:03,714] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:20:03,801] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2021-11-25 15:20:48,405] {scheduler_job.py:182} INFO - Started process (PID=23282) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:20:48,407] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:20:48,408] {logging_mixin.py:104} INFO - [2021-11-25 15:20:48,408] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:20:48,431] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:20:48,452] {logging_mixin.py:104} INFO - [2021-11-25 15:20:48,452] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:20:48,466] {logging_mixin.py:104} INFO - [2021-11-25 15:20:48,466] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:20:48,549] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2021-11-25 15:21:29,064] {scheduler_job.py:182} INFO - Started process (PID=23355) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:21:29,066] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:21:29,067] {logging_mixin.py:104} INFO - [2021-11-25 15:21:29,067] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:21:29,092] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:21:29,114] {logging_mixin.py:104} INFO - [2021-11-25 15:21:29,114] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:21:29,128] {logging_mixin.py:104} INFO - [2021-11-25 15:21:29,128] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:21:29,210] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2021-11-25 15:22:07,979] {scheduler_job.py:182} INFO - Started process (PID=23449) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:22:07,981] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:22:07,982] {logging_mixin.py:104} INFO - [2021-11-25 15:22:07,981] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:22:08,005] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:22:08,026] {logging_mixin.py:104} INFO - [2021-11-25 15:22:08,026] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:22:08,039] {logging_mixin.py:104} INFO - [2021-11-25 15:22:08,039] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:22:08,133] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.159 seconds
+[2021-11-25 15:22:49,609] {scheduler_job.py:182} INFO - Started process (PID=23493) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:22:49,630] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:22:49,631] {logging_mixin.py:104} INFO - [2021-11-25 15:22:49,631] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:22:49,697] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:22:49,738] {logging_mixin.py:104} INFO - [2021-11-25 15:22:49,738] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:22:49,752] {logging_mixin.py:104} INFO - [2021-11-25 15:22:49,752] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:22:49,965] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.360 seconds
+[2021-11-25 15:24:24,669] {scheduler_job.py:182} INFO - Started process (PID=23632) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:24:24,681] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:24:24,682] {logging_mixin.py:104} INFO - [2021-11-25 15:24:24,682] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:24:24,739] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:24:24,761] {logging_mixin.py:104} INFO - [2021-11-25 15:24:24,761] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:24:24,775] {logging_mixin.py:104} INFO - [2021-11-25 15:24:24,775] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:24:24,861] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.196 seconds
+[2021-11-25 15:25:06,540] {scheduler_job.py:182} INFO - Started process (PID=23753) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:25:06,541] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:25:06,543] {logging_mixin.py:104} INFO - [2021-11-25 15:25:06,542] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:25:06,571] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:25:06,594] {logging_mixin.py:104} INFO - [2021-11-25 15:25:06,594] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:25:06,606] {logging_mixin.py:104} INFO - [2021-11-25 15:25:06,606] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:25:06,696] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.161 seconds
+[2021-11-25 15:25:46,016] {scheduler_job.py:182} INFO - Started process (PID=23791) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:25:46,018] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:25:46,019] {logging_mixin.py:104} INFO - [2021-11-25 15:25:46,019] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:25:46,041] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:25:46,063] {logging_mixin.py:104} INFO - [2021-11-25 15:25:46,063] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:25:46,076] {logging_mixin.py:104} INFO - [2021-11-25 15:25:46,075] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:25:46,161] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.149 seconds
+[2021-11-25 15:26:29,609] {scheduler_job.py:182} INFO - Started process (PID=23867) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:26:29,610] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:26:29,611] {logging_mixin.py:104} INFO - [2021-11-25 15:26:29,611] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:26:29,635] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:26:29,658] {logging_mixin.py:104} INFO - [2021-11-25 15:26:29,658] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:26:29,671] {logging_mixin.py:104} INFO - [2021-11-25 15:26:29,671] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:26:29,755] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2021-11-25 15:27:08,763] {scheduler_job.py:182} INFO - Started process (PID=24003) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:27:08,764] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:27:08,765] {logging_mixin.py:104} INFO - [2021-11-25 15:27:08,765] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:27:08,793] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:27:08,819] {logging_mixin.py:104} INFO - [2021-11-25 15:27:08,819] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:27:08,834] {logging_mixin.py:104} INFO - [2021-11-25 15:27:08,834] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:27:09,155] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.395 seconds
+[2021-11-25 15:28:03,186] {scheduler_job.py:182} INFO - Started process (PID=24117) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:28:03,190] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:28:03,190] {logging_mixin.py:104} INFO - [2021-11-25 15:28:03,190] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:28:03,213] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:28:03,237] {logging_mixin.py:104} INFO - [2021-11-25 15:28:03,237] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:28:03,250] {logging_mixin.py:104} INFO - [2021-11-25 15:28:03,250] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:28:04,118] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.935 seconds
+[2021-11-25 15:29:01,703] {scheduler_job.py:182} INFO - Started process (PID=24281) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:29:01,704] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-25 15:29:01,705] {logging_mixin.py:104} INFO - [2021-11-25 15:29:01,705] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:29:01,728] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-25 15:29:01,750] {logging_mixin.py:104} INFO - [2021-11-25 15:29:01,750] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:29:01,764] {logging_mixin.py:104} INFO - [2021-11-25 15:29:01,764] {dag.py:2305} INFO - Setting next_dagrun for example_complex to None
+[2021-11-25 15:29:02,225] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.526 seconds

@@ -1,0 +1,1015 @@
+[2021-11-25 13:29:07,819] {scheduler_job.py:182} INFO - Started process (PID=7744) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:29:07,821] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:29:07,824] {logging_mixin.py:104} INFO - [2021-11-25 13:29:07,823] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:29:07,861] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:29:07,902] {logging_mixin.py:104} INFO - [2021-11-25 13:29:07,902] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:29:07,954] {logging_mixin.py:104} INFO - [2021-11-25 13:29:07,954] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:29:08,098] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.284 seconds
+[2021-11-25 13:30:01,837] {scheduler_job.py:182} INFO - Started process (PID=7960) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:30:01,839] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:30:01,842] {logging_mixin.py:104} INFO - [2021-11-25 13:30:01,841] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:30:01,884] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:30:01,928] {logging_mixin.py:104} INFO - [2021-11-25 13:30:01,927] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:30:01,970] {logging_mixin.py:104} INFO - [2021-11-25 13:30:01,969] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:30:02,098] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.266 seconds
+[2021-11-25 13:30:57,593] {scheduler_job.py:182} INFO - Started process (PID=8193) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:30:57,595] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:30:57,596] {logging_mixin.py:104} INFO - [2021-11-25 13:30:57,595] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:30:57,627] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:30:57,660] {logging_mixin.py:104} INFO - [2021-11-25 13:30:57,660] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:30:57,695] {logging_mixin.py:104} INFO - [2021-11-25 13:30:57,694] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:30:57,791] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.206 seconds
+[2021-11-25 13:31:52,411] {scheduler_job.py:182} INFO - Started process (PID=8265) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:31:52,414] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:31:52,415] {logging_mixin.py:104} INFO - [2021-11-25 13:31:52,415] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:31:52,449] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:31:52,493] {logging_mixin.py:104} INFO - [2021-11-25 13:31:52,493] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:31:52,530] {logging_mixin.py:104} INFO - [2021-11-25 13:31:52,530] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:31:52,657] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.254 seconds
+[2021-11-25 13:32:44,084] {scheduler_job.py:182} INFO - Started process (PID=8436) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:32:44,086] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:32:44,087] {logging_mixin.py:104} INFO - [2021-11-25 13:32:44,087] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:32:44,105] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:32:44,123] {logging_mixin.py:104} INFO - [2021-11-25 13:32:44,123] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:32:44,150] {logging_mixin.py:104} INFO - [2021-11-25 13:32:44,150] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:32:44,239] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.158 seconds
+[2021-11-25 13:33:42,293] {scheduler_job.py:182} INFO - Started process (PID=8822) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:33:42,315] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:33:42,316] {logging_mixin.py:104} INFO - [2021-11-25 13:33:42,316] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:33:42,351] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:33:42,373] {logging_mixin.py:104} INFO - [2021-11-25 13:33:42,373] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:33:42,404] {logging_mixin.py:104} INFO - [2021-11-25 13:33:42,403] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:33:42,649] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.360 seconds
+[2021-11-25 13:34:59,970] {scheduler_job.py:182} INFO - Started process (PID=9141) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:34:59,984] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:34:59,985] {logging_mixin.py:104} INFO - [2021-11-25 13:34:59,985] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:35:00,024] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:35:00,058] {logging_mixin.py:104} INFO - [2021-11-25 13:35:00,058] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:35:00,086] {logging_mixin.py:104} INFO - [2021-11-25 13:35:00,085] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:35:00,180] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.214 seconds
+[2021-11-25 13:37:31,687] {scheduler_job.py:182} INFO - Started process (PID=9460) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:37:31,702] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:37:31,703] {logging_mixin.py:104} INFO - [2021-11-25 13:37:31,703] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:37:31,748] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:37:31,783] {logging_mixin.py:104} INFO - [2021-11-25 13:37:31,783] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:37:31,808] {logging_mixin.py:104} INFO - [2021-11-25 13:37:31,808] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:37:32,493] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.811 seconds
+[2021-11-25 13:38:45,125] {scheduler_job.py:182} INFO - Started process (PID=9599) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:38:45,127] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:38:45,128] {logging_mixin.py:104} INFO - [2021-11-25 13:38:45,128] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:38:45,157] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:38:45,185] {logging_mixin.py:104} INFO - [2021-11-25 13:38:45,185] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:38:45,216] {logging_mixin.py:104} INFO - [2021-11-25 13:38:45,216] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:38:45,375] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.254 seconds
+[2021-11-25 13:39:39,823] {scheduler_job.py:182} INFO - Started process (PID=9722) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:39:39,825] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:39:39,825] {logging_mixin.py:104} INFO - [2021-11-25 13:39:39,825] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:39:39,843] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:39:39,863] {logging_mixin.py:104} INFO - [2021-11-25 13:39:39,862] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:39:39,882] {logging_mixin.py:104} INFO - [2021-11-25 13:39:39,882] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:39:40,000] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.181 seconds
+[2021-11-25 13:40:25,713] {scheduler_job.py:182} INFO - Started process (PID=9789) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:40:25,715] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:40:25,717] {logging_mixin.py:104} INFO - [2021-11-25 13:40:25,717] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:40:25,751] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:40:25,779] {logging_mixin.py:104} INFO - [2021-11-25 13:40:25,779] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:40:25,827] {logging_mixin.py:104} INFO - [2021-11-25 13:40:25,826] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:40:27,027] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 1.321 seconds
+[2021-11-25 13:41:26,072] {scheduler_job.py:182} INFO - Started process (PID=10005) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:41:26,074] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:41:26,074] {logging_mixin.py:104} INFO - [2021-11-25 13:41:26,074] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:41:26,098] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:41:26,117] {logging_mixin.py:104} INFO - [2021-11-25 13:41:26,117] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:41:26,142] {logging_mixin.py:104} INFO - [2021-11-25 13:41:26,142] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:41:26,279] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.211 seconds
+[2021-11-25 13:42:19,673] {scheduler_job.py:182} INFO - Started process (PID=10330) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:42:19,674] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:42:19,675] {logging_mixin.py:104} INFO - [2021-11-25 13:42:19,675] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:42:19,696] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:42:19,712] {logging_mixin.py:104} INFO - [2021-11-25 13:42:19,712] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:42:19,731] {logging_mixin.py:104} INFO - [2021-11-25 13:42:19,731] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:42:19,833] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.163 seconds
+[2021-11-25 13:43:06,286] {scheduler_job.py:182} INFO - Started process (PID=10558) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:43:06,287] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:43:06,289] {logging_mixin.py:104} INFO - [2021-11-25 13:43:06,288] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:43:06,308] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:43:06,340] {logging_mixin.py:104} INFO - [2021-11-25 13:43:06,339] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:43:06,371] {logging_mixin.py:104} INFO - [2021-11-25 13:43:06,371] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:43:06,449] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.167 seconds
+[2021-11-25 13:44:32,682] {scheduler_job.py:182} INFO - Started process (PID=11344) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:44:32,684] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:44:32,686] {logging_mixin.py:104} INFO - [2021-11-25 13:44:32,685] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:44:32,716] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:44:32,752] {logging_mixin.py:104} INFO - [2021-11-25 13:44:32,752] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:44:32,786] {logging_mixin.py:104} INFO - [2021-11-25 13:44:32,785] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:44:33,005] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.327 seconds
+[2021-11-25 13:45:25,432] {scheduler_job.py:182} INFO - Started process (PID=11724) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:45:25,434] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:45:25,435] {logging_mixin.py:104} INFO - [2021-11-25 13:45:25,435] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:45:25,452] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:45:25,471] {logging_mixin.py:104} INFO - [2021-11-25 13:45:25,471] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:45:25,488] {logging_mixin.py:104} INFO - [2021-11-25 13:45:25,488] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:45:25,595] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.167 seconds
+[2021-11-25 13:46:16,723] {scheduler_job.py:182} INFO - Started process (PID=12087) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:46:16,726] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:46:16,727] {logging_mixin.py:104} INFO - [2021-11-25 13:46:16,727] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:46:16,762] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:46:16,804] {logging_mixin.py:104} INFO - [2021-11-25 13:46:16,804] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:46:16,839] {logging_mixin.py:104} INFO - [2021-11-25 13:46:16,839] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:46:16,962] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.244 seconds
+[2021-11-25 13:47:09,163] {scheduler_job.py:182} INFO - Started process (PID=12412) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:47:09,165] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:47:09,167] {logging_mixin.py:104} INFO - [2021-11-25 13:47:09,166] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:47:09,195] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:47:09,219] {logging_mixin.py:104} INFO - [2021-11-25 13:47:09,219] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:47:09,259] {logging_mixin.py:104} INFO - [2021-11-25 13:47:09,258] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:47:09,388] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.230 seconds
+[2021-11-25 13:48:02,694] {scheduler_job.py:182} INFO - Started process (PID=12800) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:48:02,696] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:48:02,698] {logging_mixin.py:104} INFO - [2021-11-25 13:48:02,697] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:48:02,733] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:48:02,769] {logging_mixin.py:104} INFO - [2021-11-25 13:48:02,769] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:48:02,807] {logging_mixin.py:104} INFO - [2021-11-25 13:48:02,807] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:48:02,907] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.220 seconds
+[2021-11-25 13:48:53,901] {scheduler_job.py:182} INFO - Started process (PID=13110) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:48:53,907] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:48:53,908] {logging_mixin.py:104} INFO - [2021-11-25 13:48:53,908] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:48:53,947] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:48:53,991] {logging_mixin.py:104} INFO - [2021-11-25 13:48:53,991] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:48:54,034] {logging_mixin.py:104} INFO - [2021-11-25 13:48:54,034] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:48:54,390] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.498 seconds
+[2021-11-25 13:49:48,866] {scheduler_job.py:182} INFO - Started process (PID=13367) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:49:48,870] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:49:48,872] {logging_mixin.py:104} INFO - [2021-11-25 13:49:48,872] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:49:48,903] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:49:48,936] {logging_mixin.py:104} INFO - [2021-11-25 13:49:48,936] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:49:48,968] {logging_mixin.py:104} INFO - [2021-11-25 13:49:48,968] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:49:49,058] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.197 seconds
+[2021-11-25 13:50:35,343] {scheduler_job.py:182} INFO - Started process (PID=13437) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:50:35,346] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:50:35,347] {logging_mixin.py:104} INFO - [2021-11-25 13:50:35,347] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:50:35,375] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:50:35,403] {logging_mixin.py:104} INFO - [2021-11-25 13:50:35,403] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:50:35,431] {logging_mixin.py:104} INFO - [2021-11-25 13:50:35,431] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:50:35,528] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.191 seconds
+[2021-11-25 13:51:20,976] {scheduler_job.py:182} INFO - Started process (PID=13534) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:51:20,978] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:51:20,979] {logging_mixin.py:104} INFO - [2021-11-25 13:51:20,978] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:51:21,004] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:51:21,034] {logging_mixin.py:104} INFO - [2021-11-25 13:51:21,034] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:51:21,067] {logging_mixin.py:104} INFO - [2021-11-25 13:51:21,066] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:51:21,180] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.208 seconds
+[2021-11-25 13:52:08,996] {scheduler_job.py:182} INFO - Started process (PID=13650) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:52:08,998] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:52:08,999] {logging_mixin.py:104} INFO - [2021-11-25 13:52:08,999] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:52:09,022] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:52:09,046] {logging_mixin.py:104} INFO - [2021-11-25 13:52:09,045] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:52:09,065] {logging_mixin.py:104} INFO - [2021-11-25 13:52:09,065] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:52:09,182] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.191 seconds
+[2021-11-25 13:52:55,403] {scheduler_job.py:182} INFO - Started process (PID=13718) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:52:55,406] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:52:55,408] {logging_mixin.py:104} INFO - [2021-11-25 13:52:55,407] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:52:55,436] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:52:55,465] {logging_mixin.py:104} INFO - [2021-11-25 13:52:55,465] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:52:55,494] {logging_mixin.py:104} INFO - [2021-11-25 13:52:55,494] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:52:55,618] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.220 seconds
+[2021-11-25 13:53:40,312] {scheduler_job.py:182} INFO - Started process (PID=13804) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:53:40,314] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:53:40,315] {logging_mixin.py:104} INFO - [2021-11-25 13:53:40,315] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:53:40,348] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:53:40,387] {logging_mixin.py:104} INFO - [2021-11-25 13:53:40,387] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:53:40,423] {logging_mixin.py:104} INFO - [2021-11-25 13:53:40,423] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:53:40,543] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.235 seconds
+[2021-11-25 13:54:34,031] {scheduler_job.py:182} INFO - Started process (PID=13907) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:54:34,033] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:54:34,035] {logging_mixin.py:104} INFO - [2021-11-25 13:54:34,035] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:54:34,063] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:54:34,095] {logging_mixin.py:104} INFO - [2021-11-25 13:54:34,095] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:54:34,130] {logging_mixin.py:104} INFO - [2021-11-25 13:54:34,130] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:54:34,265] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.239 seconds
+[2021-11-25 13:55:20,101] {scheduler_job.py:182} INFO - Started process (PID=13977) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:55:20,106] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:55:20,107] {logging_mixin.py:104} INFO - [2021-11-25 13:55:20,107] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:55:20,151] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:55:20,190] {logging_mixin.py:104} INFO - [2021-11-25 13:55:20,189] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:55:20,236] {logging_mixin.py:104} INFO - [2021-11-25 13:55:20,235] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:55:20,331] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.237 seconds
+[2021-11-25 13:56:08,873] {scheduler_job.py:182} INFO - Started process (PID=14045) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:56:08,875] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:56:08,876] {logging_mixin.py:104} INFO - [2021-11-25 13:56:08,876] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:56:08,917] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:56:08,968] {logging_mixin.py:104} INFO - [2021-11-25 13:56:08,968] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:56:09,014] {logging_mixin.py:104} INFO - [2021-11-25 13:56:09,014] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:56:09,196] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.329 seconds
+[2021-11-25 13:56:59,603] {scheduler_job.py:182} INFO - Started process (PID=14160) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:56:59,605] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:56:59,606] {logging_mixin.py:104} INFO - [2021-11-25 13:56:59,606] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:56:59,640] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:56:59,673] {logging_mixin.py:104} INFO - [2021-11-25 13:56:59,673] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:56:59,707] {logging_mixin.py:104} INFO - [2021-11-25 13:56:59,707] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:56:59,805] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.206 seconds
+[2021-11-25 13:57:50,142] {scheduler_job.py:182} INFO - Started process (PID=14257) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:57:50,151] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:57:50,152] {logging_mixin.py:104} INFO - [2021-11-25 13:57:50,152] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:57:50,186] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:57:50,219] {logging_mixin.py:104} INFO - [2021-11-25 13:57:50,219] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:57:50,252] {logging_mixin.py:104} INFO - [2021-11-25 13:57:50,252] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:57:50,372] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.236 seconds
+[2021-11-25 13:58:48,111] {scheduler_job.py:182} INFO - Started process (PID=14357) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:58:48,114] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:58:48,116] {logging_mixin.py:104} INFO - [2021-11-25 13:58:48,115] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:58:48,144] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:58:48,177] {logging_mixin.py:104} INFO - [2021-11-25 13:58:48,177] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:58:48,214] {logging_mixin.py:104} INFO - [2021-11-25 13:58:48,214] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:58:48,336] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.230 seconds
+[2021-11-25 13:59:37,877] {scheduler_job.py:182} INFO - Started process (PID=14520) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:59:37,879] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 13:59:37,880] {logging_mixin.py:104} INFO - [2021-11-25 13:59:37,880] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:59:37,902] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 13:59:37,927] {logging_mixin.py:104} INFO - [2021-11-25 13:59:37,927] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 13:59:37,953] {logging_mixin.py:104} INFO - [2021-11-25 13:59:37,953] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 13:59:38,064] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.192 seconds
+[2021-11-25 14:00:21,995] {scheduler_job.py:182} INFO - Started process (PID=14644) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:00:21,996] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:00:21,997] {logging_mixin.py:104} INFO - [2021-11-25 14:00:21,997] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:00:22,018] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:00:22,042] {logging_mixin.py:104} INFO - [2021-11-25 14:00:22,042] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:00:22,067] {logging_mixin.py:104} INFO - [2021-11-25 14:00:22,067] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:00:22,168] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.177 seconds
+[2021-11-25 14:01:21,145] {scheduler_job.py:182} INFO - Started process (PID=14788) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:01:21,147] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:01:21,149] {logging_mixin.py:104} INFO - [2021-11-25 14:01:21,148] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:01:21,168] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:01:21,198] {logging_mixin.py:104} INFO - [2021-11-25 14:01:21,197] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:01:21,216] {logging_mixin.py:104} INFO - [2021-11-25 14:01:21,216] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:01:21,301] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.160 seconds
+[2021-11-25 14:02:06,052] {scheduler_job.py:182} INFO - Started process (PID=14884) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:02:06,054] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:02:06,054] {logging_mixin.py:104} INFO - [2021-11-25 14:02:06,054] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:02:06,071] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:02:06,087] {logging_mixin.py:104} INFO - [2021-11-25 14:02:06,087] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:02:06,104] {logging_mixin.py:104} INFO - [2021-11-25 14:02:06,103] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:02:06,197] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.148 seconds
+[2021-11-25 14:02:46,482] {scheduler_job.py:182} INFO - Started process (PID=14947) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:02:46,484] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:02:46,485] {logging_mixin.py:104} INFO - [2021-11-25 14:02:46,485] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:02:46,506] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:02:46,528] {logging_mixin.py:104} INFO - [2021-11-25 14:02:46,528] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:02:46,545] {logging_mixin.py:104} INFO - [2021-11-25 14:02:46,545] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:02:46,636] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.158 seconds
+[2021-11-25 14:03:32,428] {scheduler_job.py:182} INFO - Started process (PID=15062) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:03:32,430] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:03:32,430] {logging_mixin.py:104} INFO - [2021-11-25 14:03:32,430] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:03:32,451] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:03:32,472] {logging_mixin.py:104} INFO - [2021-11-25 14:03:32,472] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:03:32,491] {logging_mixin.py:104} INFO - [2021-11-25 14:03:32,491] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:03:32,581] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.156 seconds
+[2021-11-25 14:04:31,933] {scheduler_job.py:182} INFO - Started process (PID=15175) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:04:31,936] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:04:31,937] {logging_mixin.py:104} INFO - [2021-11-25 14:04:31,936] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:04:31,962] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:04:31,979] {logging_mixin.py:104} INFO - [2021-11-25 14:04:31,979] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:04:31,997] {logging_mixin.py:104} INFO - [2021-11-25 14:04:31,997] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:04:32,081] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.151 seconds
+[2021-11-25 14:05:14,828] {scheduler_job.py:182} INFO - Started process (PID=15248) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:05:14,831] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:05:14,832] {logging_mixin.py:104} INFO - [2021-11-25 14:05:14,832] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:05:14,850] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:05:14,869] {logging_mixin.py:104} INFO - [2021-11-25 14:05:14,869] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:05:14,888] {logging_mixin.py:104} INFO - [2021-11-25 14:05:14,888] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:05:14,976] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.152 seconds
+[2021-11-25 14:06:02,098] {scheduler_job.py:182} INFO - Started process (PID=15325) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:06:02,100] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:06:02,101] {logging_mixin.py:104} INFO - [2021-11-25 14:06:02,101] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:06:02,128] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:06:02,146] {logging_mixin.py:104} INFO - [2021-11-25 14:06:02,146] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:06:02,166] {logging_mixin.py:104} INFO - [2021-11-25 14:06:02,166] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:06:02,338] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.245 seconds
+[2021-11-25 14:06:51,625] {scheduler_job.py:182} INFO - Started process (PID=15395) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:06:51,626] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:06:51,627] {logging_mixin.py:104} INFO - [2021-11-25 14:06:51,627] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:06:51,643] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:06:51,660] {logging_mixin.py:104} INFO - [2021-11-25 14:06:51,660] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:06:51,678] {logging_mixin.py:104} INFO - [2021-11-25 14:06:51,678] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:06:51,965] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.343 seconds
+[2021-11-25 14:07:33,787] {scheduler_job.py:182} INFO - Started process (PID=15471) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:07:33,789] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:07:33,790] {logging_mixin.py:104} INFO - [2021-11-25 14:07:33,790] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:07:33,806] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:07:33,826] {logging_mixin.py:104} INFO - [2021-11-25 14:07:33,826] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:07:33,846] {logging_mixin.py:104} INFO - [2021-11-25 14:07:33,846] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:07:33,942] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.159 seconds
+[2021-11-25 14:08:22,556] {scheduler_job.py:182} INFO - Started process (PID=15546) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:08:22,558] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:08:22,559] {logging_mixin.py:104} INFO - [2021-11-25 14:08:22,559] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:08:22,576] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:08:22,593] {logging_mixin.py:104} INFO - [2021-11-25 14:08:22,593] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:08:22,610] {logging_mixin.py:104} INFO - [2021-11-25 14:08:22,610] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:08:22,703] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.151 seconds
+[2021-11-25 14:09:23,598] {scheduler_job.py:182} INFO - Started process (PID=15657) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:09:23,599] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:09:23,600] {logging_mixin.py:104} INFO - [2021-11-25 14:09:23,600] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:09:23,633] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:09:23,667] {logging_mixin.py:104} INFO - [2021-11-25 14:09:23,667] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:09:23,686] {logging_mixin.py:104} INFO - [2021-11-25 14:09:23,686] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:09:23,766] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.173 seconds
+[2021-11-25 14:10:16,057] {scheduler_job.py:182} INFO - Started process (PID=15736) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:10:16,058] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:10:16,059] {logging_mixin.py:104} INFO - [2021-11-25 14:10:16,059] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:10:16,075] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:10:16,092] {logging_mixin.py:104} INFO - [2021-11-25 14:10:16,092] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:10:16,110] {logging_mixin.py:104} INFO - [2021-11-25 14:10:16,110] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:10:16,199] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.147 seconds
+[2021-11-25 14:11:12,762] {scheduler_job.py:182} INFO - Started process (PID=15812) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:11:12,764] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:11:12,765] {logging_mixin.py:104} INFO - [2021-11-25 14:11:12,764] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:11:12,783] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:11:12,802] {logging_mixin.py:104} INFO - [2021-11-25 14:11:12,802] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:11:12,824] {logging_mixin.py:104} INFO - [2021-11-25 14:11:12,824] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:11:12,921] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.163 seconds
+[2021-11-25 14:12:13,961] {scheduler_job.py:182} INFO - Started process (PID=15942) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:12:13,963] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:12:13,964] {logging_mixin.py:104} INFO - [2021-11-25 14:12:13,964] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:12:13,989] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:12:14,010] {logging_mixin.py:104} INFO - [2021-11-25 14:12:14,010] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:12:14,032] {logging_mixin.py:104} INFO - [2021-11-25 14:12:14,032] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:12:14,935] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.980 seconds
+[2021-11-25 14:13:20,524] {scheduler_job.py:182} INFO - Started process (PID=16132) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:13:20,526] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:13:20,527] {logging_mixin.py:104} INFO - [2021-11-25 14:13:20,527] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:13:20,553] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:13:20,580] {logging_mixin.py:104} INFO - [2021-11-25 14:13:20,580] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:13:20,698] {logging_mixin.py:104} INFO - [2021-11-25 14:13:20,698] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:13:21,059] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.540 seconds
+[2021-11-25 14:14:23,615] {scheduler_job.py:182} INFO - Started process (PID=16288) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:14:23,617] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:14:23,618] {logging_mixin.py:104} INFO - [2021-11-25 14:14:23,618] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:14:23,646] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:14:23,675] {logging_mixin.py:104} INFO - [2021-11-25 14:14:23,675] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:14:23,790] {logging_mixin.py:104} INFO - [2021-11-25 14:14:23,789] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:14:23,916] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.306 seconds
+[2021-11-25 14:15:07,607] {scheduler_job.py:182} INFO - Started process (PID=16368) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:15:07,609] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:15:07,610] {logging_mixin.py:104} INFO - [2021-11-25 14:15:07,610] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:15:07,646] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:15:07,676] {logging_mixin.py:104} INFO - [2021-11-25 14:15:07,675] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:15:07,806] {logging_mixin.py:104} INFO - [2021-11-25 14:15:07,806] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:15:07,918] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.317 seconds
+[2021-11-25 14:15:52,939] {scheduler_job.py:182} INFO - Started process (PID=16422) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:15:52,941] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:15:52,942] {logging_mixin.py:104} INFO - [2021-11-25 14:15:52,942] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:15:52,973] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:15:53,009] {logging_mixin.py:104} INFO - [2021-11-25 14:15:53,009] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:15:53,180] {logging_mixin.py:104} INFO - [2021-11-25 14:15:53,179] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:15:53,267] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.335 seconds
+[2021-11-25 14:16:38,903] {scheduler_job.py:182} INFO - Started process (PID=16506) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:16:38,905] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:16:38,906] {logging_mixin.py:104} INFO - [2021-11-25 14:16:38,906] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:16:38,925] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:16:38,949] {logging_mixin.py:104} INFO - [2021-11-25 14:16:38,949] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:16:39,070] {logging_mixin.py:104} INFO - [2021-11-25 14:16:39,069] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:16:39,162] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.262 seconds
+[2021-11-25 14:17:32,776] {scheduler_job.py:182} INFO - Started process (PID=16612) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:17:32,778] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:17:32,778] {logging_mixin.py:104} INFO - [2021-11-25 14:17:32,778] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:17:32,796] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:17:32,881] {logging_mixin.py:104} INFO - [2021-11-25 14:17:32,881] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:17:32,897] {logging_mixin.py:104} INFO - [2021-11-25 14:17:32,897] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:17:33,015] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.243 seconds
+[2021-11-25 14:18:43,074] {scheduler_job.py:182} INFO - Started process (PID=16699) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:18:43,095] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:18:43,096] {logging_mixin.py:104} INFO - [2021-11-25 14:18:43,095] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:18:43,218] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:18:43,244] {logging_mixin.py:104} INFO - [2021-11-25 14:18:43,244] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:18:43,262] {logging_mixin.py:104} INFO - [2021-11-25 14:18:43,261] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:18:43,348] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.278 seconds
+[2021-11-25 14:19:43,404] {scheduler_job.py:182} INFO - Started process (PID=16811) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:19:43,407] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:19:43,408] {logging_mixin.py:104} INFO - [2021-11-25 14:19:43,408] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:19:43,507] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:19:43,520] {logging_mixin.py:104} INFO - [2021-11-25 14:19:43,520] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:19:43,535] {logging_mixin.py:104} INFO - [2021-11-25 14:19:43,535] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:19:43,614] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.215 seconds
+[2021-11-25 14:20:37,317] {scheduler_job.py:182} INFO - Started process (PID=16890) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:20:37,319] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:20:37,320] {logging_mixin.py:104} INFO - [2021-11-25 14:20:37,320] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:20:37,415] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:20:37,428] {logging_mixin.py:104} INFO - [2021-11-25 14:20:37,428] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:20:37,443] {logging_mixin.py:104} INFO - [2021-11-25 14:20:37,443] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:20:37,526] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.212 seconds
+[2021-11-25 14:21:44,852] {scheduler_job.py:182} INFO - Started process (PID=17000) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:21:44,855] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:21:44,856] {logging_mixin.py:104} INFO - [2021-11-25 14:21:44,856] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:21:44,875] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:21:44,891] {logging_mixin.py:104} INFO - [2021-11-25 14:21:44,891] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:21:44,909] {logging_mixin.py:104} INFO - [2021-11-25 14:21:44,909] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:21:45,010] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.161 seconds
+[2021-11-25 14:22:26,883] {scheduler_job.py:182} INFO - Started process (PID=17076) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:22:26,885] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:22:26,886] {logging_mixin.py:104} INFO - [2021-11-25 14:22:26,886] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:22:26,903] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:22:26,920] {logging_mixin.py:104} INFO - [2021-11-25 14:22:26,920] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:22:26,938] {logging_mixin.py:104} INFO - [2021-11-25 14:22:26,938] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:22:27,033] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.153 seconds
+[2021-11-25 14:23:34,346] {scheduler_job.py:182} INFO - Started process (PID=17155) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:23:34,369] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:23:34,370] {logging_mixin.py:104} INFO - [2021-11-25 14:23:34,370] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:23:34,423] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:23:34,447] {logging_mixin.py:104} INFO - [2021-11-25 14:23:34,447] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:23:34,465] {logging_mixin.py:104} INFO - [2021-11-25 14:23:34,465] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:23:34,547] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.204 seconds
+[2021-11-25 14:24:26,535] {scheduler_job.py:182} INFO - Started process (PID=17264) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:24:26,537] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:24:26,538] {logging_mixin.py:104} INFO - [2021-11-25 14:24:26,538] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:24:26,560] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:24:26,578] {logging_mixin.py:104} INFO - [2021-11-25 14:24:26,578] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:24:26,598] {logging_mixin.py:104} INFO - [2021-11-25 14:24:26,598] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:24:26,702] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.169 seconds
+[2021-11-25 14:25:07,781] {scheduler_job.py:182} INFO - Started process (PID=17335) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:25:07,784] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:25:07,785] {logging_mixin.py:104} INFO - [2021-11-25 14:25:07,784] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:25:07,802] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:25:07,820] {logging_mixin.py:104} INFO - [2021-11-25 14:25:07,820] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:25:07,837] {logging_mixin.py:104} INFO - [2021-11-25 14:25:07,837] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:25:07,949] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.171 seconds
+[2021-11-25 14:25:51,136] {scheduler_job.py:182} INFO - Started process (PID=17373) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:25:51,138] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:25:51,139] {logging_mixin.py:104} INFO - [2021-11-25 14:25:51,139] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:25:51,157] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:25:51,174] {logging_mixin.py:104} INFO - [2021-11-25 14:25:51,174] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:25:51,192] {logging_mixin.py:104} INFO - [2021-11-25 14:25:51,192] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:25:51,300] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.169 seconds
+[2021-11-25 14:26:32,777] {scheduler_job.py:182} INFO - Started process (PID=17449) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:26:32,779] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:26:32,780] {logging_mixin.py:104} INFO - [2021-11-25 14:26:32,779] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:26:32,797] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:26:32,814] {logging_mixin.py:104} INFO - [2021-11-25 14:26:32,814] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:26:32,832] {logging_mixin.py:104} INFO - [2021-11-25 14:26:32,832] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:26:32,932] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.159 seconds
+[2021-11-25 14:27:14,206] {scheduler_job.py:182} INFO - Started process (PID=17543) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:27:14,209] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:27:14,210] {logging_mixin.py:104} INFO - [2021-11-25 14:27:14,210] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:27:14,226] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:27:14,243] {logging_mixin.py:104} INFO - [2021-11-25 14:27:14,243] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:27:14,261] {logging_mixin.py:104} INFO - [2021-11-25 14:27:14,261] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:27:14,349] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.146 seconds
+[2021-11-25 14:28:00,943] {scheduler_job.py:182} INFO - Started process (PID=17625) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:28:00,944] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:28:00,945] {logging_mixin.py:104} INFO - [2021-11-25 14:28:00,945] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:28:00,961] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:28:00,978] {logging_mixin.py:104} INFO - [2021-11-25 14:28:00,978] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:28:01,001] {logging_mixin.py:104} INFO - [2021-11-25 14:28:01,001] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:28:01,095] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.156 seconds
+[2021-11-25 14:28:39,053] {scheduler_job.py:182} INFO - Started process (PID=17665) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:28:39,054] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:28:39,056] {logging_mixin.py:104} INFO - [2021-11-25 14:28:39,055] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:28:39,074] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:28:39,092] {logging_mixin.py:104} INFO - [2021-11-25 14:28:39,092] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:28:39,111] {logging_mixin.py:104} INFO - [2021-11-25 14:28:39,111] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:28:39,191] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.142 seconds
+[2021-11-25 14:29:24,800] {scheduler_job.py:182} INFO - Started process (PID=17771) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:29:24,801] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:29:24,803] {logging_mixin.py:104} INFO - [2021-11-25 14:29:24,802] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:29:24,825] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:29:24,852] {logging_mixin.py:104} INFO - [2021-11-25 14:29:24,851] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:29:24,871] {logging_mixin.py:104} INFO - [2021-11-25 14:29:24,871] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:29:24,955] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.159 seconds
+[2021-11-25 14:30:03,783] {scheduler_job.py:182} INFO - Started process (PID=17841) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:30:03,785] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:30:03,786] {logging_mixin.py:104} INFO - [2021-11-25 14:30:03,786] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:30:03,803] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:30:03,819] {logging_mixin.py:104} INFO - [2021-11-25 14:30:03,819] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:30:03,837] {logging_mixin.py:104} INFO - [2021-11-25 14:30:03,837] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:30:03,952] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.173 seconds
+[2021-11-25 14:30:46,204] {scheduler_job.py:182} INFO - Started process (PID=17900) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:30:46,206] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:30:46,207] {logging_mixin.py:104} INFO - [2021-11-25 14:30:46,207] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:30:46,225] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:30:46,242] {logging_mixin.py:104} INFO - [2021-11-25 14:30:46,242] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:30:46,261] {logging_mixin.py:104} INFO - [2021-11-25 14:30:46,261] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:30:46,373] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.172 seconds
+[2021-11-25 14:31:34,989] {scheduler_job.py:182} INFO - Started process (PID=17986) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:31:34,991] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:31:34,992] {logging_mixin.py:104} INFO - [2021-11-25 14:31:34,992] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:31:35,031] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:31:35,049] {logging_mixin.py:104} INFO - [2021-11-25 14:31:35,048] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:31:35,066] {logging_mixin.py:104} INFO - [2021-11-25 14:31:35,066] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:31:35,163] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.177 seconds
+[2021-11-25 14:32:21,771] {scheduler_job.py:182} INFO - Started process (PID=18084) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:32:21,773] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:32:21,775] {logging_mixin.py:104} INFO - [2021-11-25 14:32:21,774] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:32:21,793] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:32:21,811] {logging_mixin.py:104} INFO - [2021-11-25 14:32:21,810] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:32:21,829] {logging_mixin.py:104} INFO - [2021-11-25 14:32:21,829] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:32:21,912] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.144 seconds
+[2021-11-25 14:33:02,417] {scheduler_job.py:182} INFO - Started process (PID=18166) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:33:02,419] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:33:02,420] {logging_mixin.py:104} INFO - [2021-11-25 14:33:02,420] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:33:02,440] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:33:02,459] {logging_mixin.py:104} INFO - [2021-11-25 14:33:02,458] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:33:02,478] {logging_mixin.py:104} INFO - [2021-11-25 14:33:02,477] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:33:02,573] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.159 seconds
+[2021-11-25 14:33:57,685] {scheduler_job.py:182} INFO - Started process (PID=18263) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:33:57,687] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:33:57,688] {logging_mixin.py:104} INFO - [2021-11-25 14:33:57,687] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:33:57,713] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:33:57,736] {logging_mixin.py:104} INFO - [2021-11-25 14:33:57,735] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:33:57,760] {logging_mixin.py:104} INFO - [2021-11-25 14:33:57,760] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:33:57,968] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.288 seconds
+[2021-11-25 14:34:39,234] {scheduler_job.py:182} INFO - Started process (PID=18335) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:34:39,235] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:34:39,236] {logging_mixin.py:104} INFO - [2021-11-25 14:34:39,236] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:34:39,254] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:34:39,271] {logging_mixin.py:104} INFO - [2021-11-25 14:34:39,271] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:34:39,292] {logging_mixin.py:104} INFO - [2021-11-25 14:34:39,292] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:34:39,390] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.160 seconds
+[2021-11-25 14:35:22,864] {scheduler_job.py:182} INFO - Started process (PID=18410) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:35:22,865] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:35:22,866] {logging_mixin.py:104} INFO - [2021-11-25 14:35:22,866] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:35:22,886] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:35:22,904] {logging_mixin.py:104} INFO - [2021-11-25 14:35:22,904] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:35:22,923] {logging_mixin.py:104} INFO - [2021-11-25 14:35:22,923] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:35:23,029] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.168 seconds
+[2021-11-25 14:36:04,911] {scheduler_job.py:182} INFO - Started process (PID=18488) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:36:04,913] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:36:04,914] {logging_mixin.py:104} INFO - [2021-11-25 14:36:04,914] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:36:04,932] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:36:04,949] {logging_mixin.py:104} INFO - [2021-11-25 14:36:04,949] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:36:04,967] {logging_mixin.py:104} INFO - [2021-11-25 14:36:04,967] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:36:05,063] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.155 seconds
+[2021-11-25 14:36:45,782] {scheduler_job.py:182} INFO - Started process (PID=18551) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:36:45,784] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:36:45,784] {logging_mixin.py:104} INFO - [2021-11-25 14:36:45,784] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:36:45,801] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:36:45,836] {logging_mixin.py:104} INFO - [2021-11-25 14:36:45,836] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:36:45,854] {logging_mixin.py:104} INFO - [2021-11-25 14:36:45,854] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:36:45,933] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.154 seconds
+[2021-11-25 14:37:26,441] {scheduler_job.py:182} INFO - Started process (PID=18620) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:37:26,443] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:37:26,444] {logging_mixin.py:104} INFO - [2021-11-25 14:37:26,443] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:37:26,460] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:37:26,477] {logging_mixin.py:104} INFO - [2021-11-25 14:37:26,476] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:37:26,494] {logging_mixin.py:104} INFO - [2021-11-25 14:37:26,494] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:37:26,595] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.157 seconds
+[2021-11-25 14:38:05,283] {scheduler_job.py:182} INFO - Started process (PID=18695) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:38:05,285] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:38:05,286] {logging_mixin.py:104} INFO - [2021-11-25 14:38:05,285] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:38:05,310] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:38:05,335] {logging_mixin.py:104} INFO - [2021-11-25 14:38:05,334] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:38:05,360] {logging_mixin.py:104} INFO - [2021-11-25 14:38:05,360] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:38:05,452] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.174 seconds
+[2021-11-25 14:38:51,908] {scheduler_job.py:182} INFO - Started process (PID=18738) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:38:51,910] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:38:51,911] {logging_mixin.py:104} INFO - [2021-11-25 14:38:51,911] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:38:51,931] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:38:51,956] {logging_mixin.py:104} INFO - [2021-11-25 14:38:51,956] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:38:51,983] {logging_mixin.py:104} INFO - [2021-11-25 14:38:51,983] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:38:52,082] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.178 seconds
+[2021-11-25 14:39:33,885] {scheduler_job.py:182} INFO - Started process (PID=18840) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:39:33,887] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:39:33,888] {logging_mixin.py:104} INFO - [2021-11-25 14:39:33,887] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:39:33,908] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:39:33,926] {logging_mixin.py:104} INFO - [2021-11-25 14:39:33,925] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:39:33,948] {logging_mixin.py:104} INFO - [2021-11-25 14:39:33,948] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:39:34,046] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.165 seconds
+[2021-11-25 14:40:12,656] {scheduler_job.py:182} INFO - Started process (PID=18908) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:40:12,657] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:40:12,658] {logging_mixin.py:104} INFO - [2021-11-25 14:40:12,658] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:40:12,674] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:40:12,690] {logging_mixin.py:104} INFO - [2021-11-25 14:40:12,690] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:40:12,707] {logging_mixin.py:104} INFO - [2021-11-25 14:40:12,707] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:40:12,804] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.153 seconds
+[2021-11-25 14:40:55,833] {scheduler_job.py:182} INFO - Started process (PID=18968) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:40:55,836] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:40:55,837] {logging_mixin.py:104} INFO - [2021-11-25 14:40:55,837] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:40:55,852] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:40:55,869] {logging_mixin.py:104} INFO - [2021-11-25 14:40:55,869] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:40:55,886] {logging_mixin.py:104} INFO - [2021-11-25 14:40:55,886] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:40:55,976] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.146 seconds
+[2021-11-25 14:41:40,638] {scheduler_job.py:182} INFO - Started process (PID=19047) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:41:40,640] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:41:40,641] {logging_mixin.py:104} INFO - [2021-11-25 14:41:40,641] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:41:40,658] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:41:40,674] {logging_mixin.py:104} INFO - [2021-11-25 14:41:40,674] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:41:40,691] {logging_mixin.py:104} INFO - [2021-11-25 14:41:40,691] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:41:40,776] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.142 seconds
+[2021-11-25 14:42:20,372] {scheduler_job.py:182} INFO - Started process (PID=19137) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:42:20,374] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:42:20,374] {logging_mixin.py:104} INFO - [2021-11-25 14:42:20,374] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:42:20,392] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:42:20,410] {logging_mixin.py:104} INFO - [2021-11-25 14:42:20,410] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:42:20,429] {logging_mixin.py:104} INFO - [2021-11-25 14:42:20,428] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:42:20,519] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.152 seconds
+[2021-11-25 14:43:04,613] {scheduler_job.py:182} INFO - Started process (PID=19214) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:43:04,616] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:43:04,617] {logging_mixin.py:104} INFO - [2021-11-25 14:43:04,617] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:43:04,632] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:43:04,649] {logging_mixin.py:104} INFO - [2021-11-25 14:43:04,649] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:43:04,667] {logging_mixin.py:104} INFO - [2021-11-25 14:43:04,666] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:43:04,757] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.148 seconds
+[2021-11-25 14:43:43,984] {scheduler_job.py:182} INFO - Started process (PID=19253) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:43:43,986] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:43:43,988] {logging_mixin.py:104} INFO - [2021-11-25 14:43:43,988] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:43:44,007] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:43:44,024] {logging_mixin.py:104} INFO - [2021-11-25 14:43:44,024] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:43:44,042] {logging_mixin.py:104} INFO - [2021-11-25 14:43:44,042] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:43:44,123] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.144 seconds
+[2021-11-25 14:44:28,409] {scheduler_job.py:182} INFO - Started process (PID=19356) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:44:28,410] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:44:28,411] {logging_mixin.py:104} INFO - [2021-11-25 14:44:28,411] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:44:28,428] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:44:28,445] {logging_mixin.py:104} INFO - [2021-11-25 14:44:28,445] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:44:28,463] {logging_mixin.py:104} INFO - [2021-11-25 14:44:28,463] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:44:28,581] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.177 seconds
+[2021-11-25 14:45:10,282] {scheduler_job.py:182} INFO - Started process (PID=19430) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:45:10,284] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:45:10,285] {logging_mixin.py:104} INFO - [2021-11-25 14:45:10,285] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:45:10,305] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:45:10,334] {logging_mixin.py:104} INFO - [2021-11-25 14:45:10,334] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:45:10,353] {logging_mixin.py:104} INFO - [2021-11-25 14:45:10,353] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:45:10,438] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.162 seconds
+[2021-11-25 14:45:53,500] {scheduler_job.py:182} INFO - Started process (PID=19469) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:45:53,502] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:45:53,503] {logging_mixin.py:104} INFO - [2021-11-25 14:45:53,503] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:45:53,520] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:45:53,537] {logging_mixin.py:104} INFO - [2021-11-25 14:45:53,537] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:45:53,556] {logging_mixin.py:104} INFO - [2021-11-25 14:45:53,555] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:45:53,689] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.193 seconds
+[2021-11-25 14:46:33,500] {scheduler_job.py:182} INFO - Started process (PID=19570) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:46:33,502] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:46:33,503] {logging_mixin.py:104} INFO - [2021-11-25 14:46:33,503] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:46:33,522] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:46:33,541] {logging_mixin.py:104} INFO - [2021-11-25 14:46:33,540] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:46:33,560] {logging_mixin.py:104} INFO - [2021-11-25 14:46:33,559] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:46:33,650] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.154 seconds
+[2021-11-25 14:47:23,662] {scheduler_job.py:182} INFO - Started process (PID=19682) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:47:23,664] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:47:23,665] {logging_mixin.py:104} INFO - [2021-11-25 14:47:23,664] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:47:23,682] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:47:23,699] {logging_mixin.py:104} INFO - [2021-11-25 14:47:23,699] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:47:23,716] {logging_mixin.py:104} INFO - [2021-11-25 14:47:23,715] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:47:23,797] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.138 seconds
+[2021-11-25 14:48:12,065] {scheduler_job.py:182} INFO - Started process (PID=19763) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:48:12,068] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:48:12,069] {logging_mixin.py:104} INFO - [2021-11-25 14:48:12,069] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:48:12,085] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:48:12,101] {logging_mixin.py:104} INFO - [2021-11-25 14:48:12,101] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:48:12,118] {logging_mixin.py:104} INFO - [2021-11-25 14:48:12,118] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:48:12,206] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.145 seconds
+[2021-11-25 14:48:58,796] {scheduler_job.py:182} INFO - Started process (PID=19848) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:48:58,797] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:48:58,798] {logging_mixin.py:104} INFO - [2021-11-25 14:48:58,798] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:48:58,821] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:48:58,844] {logging_mixin.py:104} INFO - [2021-11-25 14:48:58,844] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:48:58,869] {logging_mixin.py:104} INFO - [2021-11-25 14:48:58,868] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:48:59,164] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.372 seconds
+[2021-11-25 14:49:57,111] {scheduler_job.py:182} INFO - Started process (PID=19912) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:49:57,128] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:49:57,129] {logging_mixin.py:104} INFO - [2021-11-25 14:49:57,129] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:49:57,163] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:49:57,182] {logging_mixin.py:104} INFO - [2021-11-25 14:49:57,182] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:49:57,200] {logging_mixin.py:104} INFO - [2021-11-25 14:49:57,200] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:49:57,284] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.176 seconds
+[2021-11-25 14:50:41,568] {scheduler_job.py:182} INFO - Started process (PID=19988) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:50:41,570] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:50:41,571] {logging_mixin.py:104} INFO - [2021-11-25 14:50:41,571] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:50:41,588] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:50:41,604] {logging_mixin.py:104} INFO - [2021-11-25 14:50:41,604] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:50:41,623] {logging_mixin.py:104} INFO - [2021-11-25 14:50:41,623] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:50:41,707] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.142 seconds
+[2021-11-25 14:51:27,321] {scheduler_job.py:182} INFO - Started process (PID=20068) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:51:27,324] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:51:27,325] {logging_mixin.py:104} INFO - [2021-11-25 14:51:27,325] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:51:27,341] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:51:27,361] {logging_mixin.py:104} INFO - [2021-11-25 14:51:27,361] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:51:27,380] {logging_mixin.py:104} INFO - [2021-11-25 14:51:27,380] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:51:27,469] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.151 seconds
+[2021-11-25 14:52:09,677] {scheduler_job.py:182} INFO - Started process (PID=20163) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:52:09,679] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:52:09,680] {logging_mixin.py:104} INFO - [2021-11-25 14:52:09,680] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:52:09,699] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:52:09,715] {logging_mixin.py:104} INFO - [2021-11-25 14:52:09,715] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:52:09,734] {logging_mixin.py:104} INFO - [2021-11-25 14:52:09,733] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:52:09,854] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.180 seconds
+[2021-11-25 14:52:50,633] {scheduler_job.py:182} INFO - Started process (PID=20209) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:52:50,635] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:52:50,636] {logging_mixin.py:104} INFO - [2021-11-25 14:52:50,636] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:52:50,653] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:52:50,670] {logging_mixin.py:104} INFO - [2021-11-25 14:52:50,670] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:52:50,688] {logging_mixin.py:104} INFO - [2021-11-25 14:52:50,688] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:52:50,821] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.193 seconds
+[2021-11-25 14:53:35,003] {scheduler_job.py:182} INFO - Started process (PID=20295) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:53:35,005] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:53:35,006] {logging_mixin.py:104} INFO - [2021-11-25 14:53:35,006] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:53:35,022] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:53:35,040] {logging_mixin.py:104} INFO - [2021-11-25 14:53:35,040] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:53:35,069] {logging_mixin.py:104} INFO - [2021-11-25 14:53:35,069] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:53:35,341] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.341 seconds
+[2021-11-25 14:54:22,480] {scheduler_job.py:182} INFO - Started process (PID=20407) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:54:22,481] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:54:22,482] {logging_mixin.py:104} INFO - [2021-11-25 14:54:22,482] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:54:22,499] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:54:22,515] {logging_mixin.py:104} INFO - [2021-11-25 14:54:22,515] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:54:22,532] {logging_mixin.py:104} INFO - [2021-11-25 14:54:22,532] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:54:22,632] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.155 seconds
+[2021-11-25 14:55:08,612] {scheduler_job.py:182} INFO - Started process (PID=20481) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:55:08,614] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:55:08,615] {logging_mixin.py:104} INFO - [2021-11-25 14:55:08,615] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:55:08,634] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:55:08,651] {logging_mixin.py:104} INFO - [2021-11-25 14:55:08,651] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:55:08,669] {logging_mixin.py:104} INFO - [2021-11-25 14:55:08,669] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:55:08,770] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.161 seconds
+[2021-11-25 14:55:47,346] {scheduler_job.py:182} INFO - Started process (PID=20518) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:55:47,348] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:55:47,349] {logging_mixin.py:104} INFO - [2021-11-25 14:55:47,349] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:55:47,366] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:55:47,385] {logging_mixin.py:104} INFO - [2021-11-25 14:55:47,385] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:55:47,408] {logging_mixin.py:104} INFO - [2021-11-25 14:55:47,408] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:55:47,492] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.150 seconds
+[2021-11-25 14:56:32,948] {scheduler_job.py:182} INFO - Started process (PID=20598) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:56:32,951] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:56:32,952] {logging_mixin.py:104} INFO - [2021-11-25 14:56:32,952] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:56:32,968] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:56:32,985] {logging_mixin.py:104} INFO - [2021-11-25 14:56:32,985] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:56:33,004] {logging_mixin.py:104} INFO - [2021-11-25 14:56:33,004] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:56:33,160] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.216 seconds
+[2021-11-25 14:57:20,599] {scheduler_job.py:182} INFO - Started process (PID=20696) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:57:20,600] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:57:20,601] {logging_mixin.py:104} INFO - [2021-11-25 14:57:20,601] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:57:20,618] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:57:20,637] {logging_mixin.py:104} INFO - [2021-11-25 14:57:20,637] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:57:20,655] {logging_mixin.py:104} INFO - [2021-11-25 14:57:20,655] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:57:20,782] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.188 seconds
+[2021-11-25 14:58:08,586] {scheduler_job.py:182} INFO - Started process (PID=20772) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:58:08,588] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:58:08,589] {logging_mixin.py:104} INFO - [2021-11-25 14:58:08,589] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:58:08,605] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:58:08,621] {logging_mixin.py:104} INFO - [2021-11-25 14:58:08,621] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:58:08,638] {logging_mixin.py:104} INFO - [2021-11-25 14:58:08,638] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:58:08,725] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.144 seconds
+[2021-11-25 14:58:56,489] {scheduler_job.py:182} INFO - Started process (PID=20856) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:58:56,491] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:58:56,492] {logging_mixin.py:104} INFO - [2021-11-25 14:58:56,492] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:58:56,510] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:58:56,528] {logging_mixin.py:104} INFO - [2021-11-25 14:58:56,528] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:58:56,545] {logging_mixin.py:104} INFO - [2021-11-25 14:58:56,545] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:58:56,628] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.143 seconds
+[2021-11-25 14:59:43,825] {scheduler_job.py:182} INFO - Started process (PID=20958) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:59:43,827] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 14:59:43,829] {logging_mixin.py:104} INFO - [2021-11-25 14:59:43,828] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:59:43,845] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 14:59:43,861] {logging_mixin.py:104} INFO - [2021-11-25 14:59:43,861] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 14:59:43,879] {logging_mixin.py:104} INFO - [2021-11-25 14:59:43,879] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 14:59:43,965] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.146 seconds
+[2021-11-25 15:00:23,848] {scheduler_job.py:182} INFO - Started process (PID=21030) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:00:23,850] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:00:23,852] {logging_mixin.py:104} INFO - [2021-11-25 15:00:23,851] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:00:23,870] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:00:23,887] {logging_mixin.py:104} INFO - [2021-11-25 15:00:23,887] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:00:23,904] {logging_mixin.py:104} INFO - [2021-11-25 15:00:23,904] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:00:23,990] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.145 seconds
+[2021-11-25 15:01:05,817] {scheduler_job.py:182} INFO - Started process (PID=21149) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:01:05,819] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:01:05,820] {logging_mixin.py:104} INFO - [2021-11-25 15:01:05,820] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:01:05,839] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:01:05,857] {logging_mixin.py:104} INFO - [2021-11-25 15:01:05,857] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:01:05,875] {logging_mixin.py:104} INFO - [2021-11-25 15:01:05,874] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:01:05,960] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.148 seconds
+[2021-11-25 15:01:49,135] {scheduler_job.py:182} INFO - Started process (PID=21221) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:01:49,137] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:01:49,138] {logging_mixin.py:104} INFO - [2021-11-25 15:01:49,138] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:01:49,154] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:01:49,171] {logging_mixin.py:104} INFO - [2021-11-25 15:01:49,171] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:01:49,188] {logging_mixin.py:104} INFO - [2021-11-25 15:01:49,188] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:01:49,275] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.144 seconds
+[2021-11-25 15:02:37,901] {scheduler_job.py:182} INFO - Started process (PID=21329) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:02:37,902] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:02:37,903] {logging_mixin.py:104} INFO - [2021-11-25 15:02:37,903] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:02:37,919] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:02:37,936] {logging_mixin.py:104} INFO - [2021-11-25 15:02:37,936] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:02:37,952] {logging_mixin.py:104} INFO - [2021-11-25 15:02:37,952] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:02:38,063] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.167 seconds
+[2021-11-25 15:03:23,569] {scheduler_job.py:182} INFO - Started process (PID=21415) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:03:23,570] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:03:23,571] {logging_mixin.py:104} INFO - [2021-11-25 15:03:23,571] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:03:23,588] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:03:23,605] {logging_mixin.py:104} INFO - [2021-11-25 15:03:23,605] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:03:23,623] {logging_mixin.py:104} INFO - [2021-11-25 15:03:23,623] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:03:23,703] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.138 seconds
+[2021-11-25 15:04:06,346] {scheduler_job.py:182} INFO - Started process (PID=21517) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:04:06,361] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:04:06,362] {logging_mixin.py:104} INFO - [2021-11-25 15:04:06,362] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:04:06,416] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:04:06,445] {logging_mixin.py:104} INFO - [2021-11-25 15:04:06,445] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:04:06,463] {logging_mixin.py:104} INFO - [2021-11-25 15:04:06,463] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:04:06,557] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.214 seconds
+[2021-11-25 15:06:08,937] {scheduler_job.py:182} INFO - Started process (PID=21709) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:06:08,939] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:06:08,940] {logging_mixin.py:104} INFO - [2021-11-25 15:06:08,940] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:06:08,984] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:06:09,007] {logging_mixin.py:104} INFO - [2021-11-25 15:06:09,007] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:06:09,027] {logging_mixin.py:104} INFO - [2021-11-25 15:06:09,026] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:06:09,124] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.191 seconds
+[2021-11-25 15:06:57,192] {scheduler_job.py:182} INFO - Started process (PID=21847) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:06:57,193] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:06:57,195] {logging_mixin.py:104} INFO - [2021-11-25 15:06:57,194] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:06:57,214] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:06:57,233] {logging_mixin.py:104} INFO - [2021-11-25 15:06:57,232] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:06:57,252] {logging_mixin.py:104} INFO - [2021-11-25 15:06:57,252] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:06:57,338] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.150 seconds
+[2021-11-25 15:07:41,606] {scheduler_job.py:182} INFO - Started process (PID=21917) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:07:41,608] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:07:41,610] {logging_mixin.py:104} INFO - [2021-11-25 15:07:41,610] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:07:41,627] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:07:41,646] {logging_mixin.py:104} INFO - [2021-11-25 15:07:41,646] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:07:41,663] {logging_mixin.py:104} INFO - [2021-11-25 15:07:41,663] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:07:41,747] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.145 seconds
+[2021-11-25 15:08:31,253] {scheduler_job.py:182} INFO - Started process (PID=22031) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:08:31,254] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:08:31,255] {logging_mixin.py:104} INFO - [2021-11-25 15:08:31,255] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:08:31,273] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:08:31,291] {logging_mixin.py:104} INFO - [2021-11-25 15:08:31,291] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:08:31,310] {logging_mixin.py:104} INFO - [2021-11-25 15:08:31,309] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:08:31,397] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.148 seconds
+[2021-11-25 15:09:11,797] {scheduler_job.py:182} INFO - Started process (PID=22141) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:09:11,800] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:09:11,801] {logging_mixin.py:104} INFO - [2021-11-25 15:09:11,801] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:09:11,819] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:09:11,838] {logging_mixin.py:104} INFO - [2021-11-25 15:09:11,838] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:09:11,857] {logging_mixin.py:104} INFO - [2021-11-25 15:09:11,856] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:09:11,929] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.136 seconds
+[2021-11-25 15:09:55,947] {scheduler_job.py:182} INFO - Started process (PID=22185) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:09:55,948] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:09:55,950] {logging_mixin.py:104} INFO - [2021-11-25 15:09:55,949] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:09:55,968] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:09:55,985] {logging_mixin.py:104} INFO - [2021-11-25 15:09:55,985] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:09:56,003] {logging_mixin.py:104} INFO - [2021-11-25 15:09:56,003] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:09:56,119] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.176 seconds
+[2021-11-25 15:10:34,156] {scheduler_job.py:182} INFO - Started process (PID=22258) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:10:34,158] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:10:34,159] {logging_mixin.py:104} INFO - [2021-11-25 15:10:34,159] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:10:34,177] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:10:34,194] {logging_mixin.py:104} INFO - [2021-11-25 15:10:34,194] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:10:34,213] {logging_mixin.py:104} INFO - [2021-11-25 15:10:34,213] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:10:34,298] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.146 seconds
+[2021-11-25 15:11:25,266] {scheduler_job.py:182} INFO - Started process (PID=22336) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:11:25,267] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:11:25,268] {logging_mixin.py:104} INFO - [2021-11-25 15:11:25,268] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:11:25,288] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:11:25,305] {logging_mixin.py:104} INFO - [2021-11-25 15:11:25,305] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:11:25,322] {logging_mixin.py:104} INFO - [2021-11-25 15:11:25,322] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:11:25,408] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.147 seconds
+[2021-11-25 15:12:09,078] {scheduler_job.py:182} INFO - Started process (PID=22434) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:12:09,091] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:12:09,092] {logging_mixin.py:104} INFO - [2021-11-25 15:12:09,091] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:12:09,110] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:12:09,135] {logging_mixin.py:104} INFO - [2021-11-25 15:12:09,135] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:12:09,153] {logging_mixin.py:104} INFO - [2021-11-25 15:12:09,153] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:12:09,246] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.171 seconds
+[2021-11-25 15:13:00,083] {scheduler_job.py:182} INFO - Started process (PID=22518) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:13:00,086] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:13:00,087] {logging_mixin.py:104} INFO - [2021-11-25 15:13:00,087] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:13:00,104] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:13:00,121] {logging_mixin.py:104} INFO - [2021-11-25 15:13:00,121] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:13:00,138] {logging_mixin.py:104} INFO - [2021-11-25 15:13:00,138] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:13:00,227] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.147 seconds
+[2021-11-25 15:13:44,348] {scheduler_job.py:182} INFO - Started process (PID=22568) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:13:44,350] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:13:44,351] {logging_mixin.py:104} INFO - [2021-11-25 15:13:44,351] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:13:44,367] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:13:44,384] {logging_mixin.py:104} INFO - [2021-11-25 15:13:44,384] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:13:44,402] {logging_mixin.py:104} INFO - [2021-11-25 15:13:44,402] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:13:44,631] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.286 seconds
+[2021-11-25 15:14:26,249] {scheduler_job.py:182} INFO - Started process (PID=22663) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:14:26,264] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:14:26,265] {logging_mixin.py:104} INFO - [2021-11-25 15:14:26,265] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:14:26,314] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:14:26,351] {logging_mixin.py:104} INFO - [2021-11-25 15:14:26,351] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:14:26,370] {logging_mixin.py:104} INFO - [2021-11-25 15:14:26,370] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:14:26,473] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.229 seconds
+[2021-11-25 15:15:11,901] {scheduler_job.py:182} INFO - Started process (PID=22735) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:15:11,903] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:15:11,903] {logging_mixin.py:104} INFO - [2021-11-25 15:15:11,903] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:15:11,919] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:15:11,936] {logging_mixin.py:104} INFO - [2021-11-25 15:15:11,936] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:15:11,954] {logging_mixin.py:104} INFO - [2021-11-25 15:15:11,953] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:15:12,028] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.131 seconds
+[2021-11-25 15:15:55,195] {scheduler_job.py:182} INFO - Started process (PID=22775) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:15:55,197] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:15:55,198] {logging_mixin.py:104} INFO - [2021-11-25 15:15:55,198] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:15:55,216] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:15:55,233] {logging_mixin.py:104} INFO - [2021-11-25 15:15:55,233] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:15:55,252] {logging_mixin.py:104} INFO - [2021-11-25 15:15:55,252] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:15:55,378] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.188 seconds
+[2021-11-25 15:16:34,476] {scheduler_job.py:182} INFO - Started process (PID=22850) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:16:34,478] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:16:34,479] {logging_mixin.py:104} INFO - [2021-11-25 15:16:34,479] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:16:34,497] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:16:34,514] {logging_mixin.py:104} INFO - [2021-11-25 15:16:34,514] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:16:34,532] {logging_mixin.py:104} INFO - [2021-11-25 15:16:34,532] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:16:34,613] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.140 seconds
+[2021-11-25 15:17:15,056] {scheduler_job.py:182} INFO - Started process (PID=22950) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:17:15,058] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:17:15,058] {logging_mixin.py:104} INFO - [2021-11-25 15:17:15,058] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:17:15,077] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:17:15,095] {logging_mixin.py:104} INFO - [2021-11-25 15:17:15,095] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:17:15,113] {logging_mixin.py:104} INFO - [2021-11-25 15:17:15,113] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:17:15,194] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.143 seconds
+[2021-11-25 15:18:01,026] {scheduler_job.py:182} INFO - Started process (PID=23029) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:18:01,027] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:18:01,028] {logging_mixin.py:104} INFO - [2021-11-25 15:18:01,028] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:18:01,047] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:18:01,065] {logging_mixin.py:104} INFO - [2021-11-25 15:18:01,065] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:18:01,083] {logging_mixin.py:104} INFO - [2021-11-25 15:18:01,083] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:18:01,243] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.222 seconds
+[2021-11-25 15:18:42,331] {scheduler_job.py:182} INFO - Started process (PID=23069) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:18:42,333] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:18:42,333] {logging_mixin.py:104} INFO - [2021-11-25 15:18:42,333] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:18:42,353] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:18:42,369] {logging_mixin.py:104} INFO - [2021-11-25 15:18:42,369] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:18:42,386] {logging_mixin.py:104} INFO - [2021-11-25 15:18:42,386] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:18:42,469] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.141 seconds
+[2021-11-25 15:19:41,295] {scheduler_job.py:182} INFO - Started process (PID=23181) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:19:41,312] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:19:41,313] {logging_mixin.py:104} INFO - [2021-11-25 15:19:41,313] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:19:41,330] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:19:41,349] {logging_mixin.py:104} INFO - [2021-11-25 15:19:41,349] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:19:41,366] {logging_mixin.py:104} INFO - [2021-11-25 15:19:41,366] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:19:41,453] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.162 seconds
+[2021-11-25 15:20:29,394] {scheduler_job.py:182} INFO - Started process (PID=23262) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:20:29,396] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:20:29,397] {logging_mixin.py:104} INFO - [2021-11-25 15:20:29,397] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:20:29,414] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:20:29,431] {logging_mixin.py:104} INFO - [2021-11-25 15:20:29,431] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:20:29,448] {logging_mixin.py:104} INFO - [2021-11-25 15:20:29,448] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:20:29,561] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.171 seconds
+[2021-11-25 15:21:12,915] {scheduler_job.py:182} INFO - Started process (PID=23337) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:21:12,917] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:21:12,917] {logging_mixin.py:104} INFO - [2021-11-25 15:21:12,917] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:21:12,934] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:21:12,950] {logging_mixin.py:104} INFO - [2021-11-25 15:21:12,950] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:21:12,969] {logging_mixin.py:104} INFO - [2021-11-25 15:21:12,969] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:21:13,067] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.157 seconds
+[2021-11-25 15:21:58,754] {scheduler_job.py:182} INFO - Started process (PID=23435) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:21:58,756] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:21:58,757] {logging_mixin.py:104} INFO - [2021-11-25 15:21:58,757] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:21:58,773] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:21:58,789] {logging_mixin.py:104} INFO - [2021-11-25 15:21:58,789] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:21:58,806] {logging_mixin.py:104} INFO - [2021-11-25 15:21:58,806] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:21:58,891] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.142 seconds
+[2021-11-25 15:22:39,454] {scheduler_job.py:182} INFO - Started process (PID=23477) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:22:39,456] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:22:39,457] {logging_mixin.py:104} INFO - [2021-11-25 15:22:39,457] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:22:39,482] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:22:39,500] {logging_mixin.py:104} INFO - [2021-11-25 15:22:39,499] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:22:39,517] {logging_mixin.py:104} INFO - [2021-11-25 15:22:39,517] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:22:39,603] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.155 seconds
+[2021-11-25 15:24:31,863] {scheduler_job.py:182} INFO - Started process (PID=23659) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:24:31,963] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:24:31,964] {logging_mixin.py:104} INFO - [2021-11-25 15:24:31,964] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:24:32,103] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:24:32,120] {logging_mixin.py:104} INFO - [2021-11-25 15:24:32,119] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:24:32,137] {logging_mixin.py:104} INFO - [2021-11-25 15:24:32,137] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:24:32,522] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.663 seconds
+[2021-11-25 15:25:18,273] {scheduler_job.py:182} INFO - Started process (PID=23766) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:25:18,275] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:25:18,277] {logging_mixin.py:104} INFO - [2021-11-25 15:25:18,276] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:25:18,299] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:25:18,315] {logging_mixin.py:104} INFO - [2021-11-25 15:25:18,315] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:25:18,333] {logging_mixin.py:104} INFO - [2021-11-25 15:25:18,333] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:25:18,416] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.146 seconds
+[2021-11-25 15:25:56,993] {scheduler_job.py:182} INFO - Started process (PID=23805) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:25:56,995] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:25:56,996] {logging_mixin.py:104} INFO - [2021-11-25 15:25:56,995] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:25:57,015] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:25:57,033] {logging_mixin.py:104} INFO - [2021-11-25 15:25:57,033] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:25:57,052] {logging_mixin.py:104} INFO - [2021-11-25 15:25:57,052] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:25:57,141] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.151 seconds
+[2021-11-25 15:26:41,845] {scheduler_job.py:182} INFO - Started process (PID=23898) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:26:41,846] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:26:41,847] {logging_mixin.py:104} INFO - [2021-11-25 15:26:41,847] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:26:41,865] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:26:41,882] {logging_mixin.py:104} INFO - [2021-11-25 15:26:41,881] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:26:41,899] {logging_mixin.py:104} INFO - [2021-11-25 15:26:41,899] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:26:42,010] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.169 seconds
+[2021-11-25 15:27:34,804] {scheduler_job.py:182} INFO - Started process (PID=24047) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:27:34,805] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:27:34,806] {logging_mixin.py:104} INFO - [2021-11-25 15:27:34,806] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:27:34,825] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:27:34,844] {logging_mixin.py:104} INFO - [2021-11-25 15:27:34,844] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:27:34,868] {logging_mixin.py:104} INFO - [2021-11-25 15:27:34,868] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:27:35,015] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.215 seconds
+[2021-11-25 15:28:27,211] {scheduler_job.py:182} INFO - Started process (PID=24156) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:28:27,213] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:28:27,213] {logging_mixin.py:104} INFO - [2021-11-25 15:28:27,213] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:28:27,233] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:28:27,250] {logging_mixin.py:104} INFO - [2021-11-25 15:28:27,250] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:28:27,268] {logging_mixin.py:104} INFO - [2021-11-25 15:28:27,268] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:28:27,543] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.336 seconds
+[2021-11-25 15:29:27,373] {scheduler_job.py:182} INFO - Started process (PID=24333) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:29:27,374] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-25 15:29:27,375] {logging_mixin.py:104} INFO - [2021-11-25 15:29:27,375] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:29:27,392] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-25 15:29:27,408] {logging_mixin.py:104} INFO - [2021-11-25 15:29:27,408] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-25 15:29:27,425] {logging_mixin.py:104} INFO - [2021-11-25 15:29:27,425] {dag.py:2305} INFO - Setting next_dagrun for example_bash_operator to 2021-11-23 00:00:00+00:00
+[2021-11-25 15:29:27,628] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.258 seconds

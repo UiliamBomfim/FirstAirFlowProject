@@ -1230,3 +1230,255 @@
 [2021-11-24 00:20:40,828] {logging_mixin.py:104} INFO - [2021-11-24 00:20:40,828] {dag.py:1832} INFO - Sync 1 DAGs
 [2021-11-24 00:20:40,842] {logging_mixin.py:104} INFO - [2021-11-24 00:20:40,842] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
 [2021-11-24 00:20:40,933] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.446 seconds
+[2021-11-24 00:21:32,093] {scheduler_job.py:182} INFO - Started process (PID=12141) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:21:32,095] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:21:32,096] {logging_mixin.py:104} INFO - [2021-11-24 00:21:32,096] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:21:32,119] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:21:32,443] {logging_mixin.py:104} INFO - [2021-11-24 00:21:32,443] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:21:32,455] {logging_mixin.py:104} INFO - [2021-11-24 00:21:32,455] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:21:32,546] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.457 seconds
+[2021-11-24 00:22:14,964] {scheduler_job.py:182} INFO - Started process (PID=12185) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:22:14,966] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:22:14,967] {logging_mixin.py:104} INFO - [2021-11-24 00:22:14,967] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:22:14,990] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:22:15,310] {logging_mixin.py:104} INFO - [2021-11-24 00:22:15,310] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:22:15,321] {logging_mixin.py:104} INFO - [2021-11-24 00:22:15,321] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:22:15,452] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.492 seconds
+[2021-11-24 00:23:02,850] {scheduler_job.py:182} INFO - Started process (PID=12308) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:23:02,852] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:23:02,853] {logging_mixin.py:104} INFO - [2021-11-24 00:23:02,853] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:23:03,058] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:23:03,077] {logging_mixin.py:104} INFO - [2021-11-24 00:23:03,077] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:23:03,093] {logging_mixin.py:104} INFO - [2021-11-24 00:23:03,093] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:23:03,588] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.747 seconds
+[2021-11-24 00:23:53,448] {scheduler_job.py:182} INFO - Started process (PID=12396) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:23:53,451] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:23:53,453] {logging_mixin.py:104} INFO - [2021-11-24 00:23:53,452] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:23:53,506] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:23:54,337] {logging_mixin.py:104} INFO - [2021-11-24 00:23:54,337] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:23:54,360] {logging_mixin.py:104} INFO - [2021-11-24 00:23:54,360] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:23:54,565] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 1.127 seconds
+[2021-11-24 00:24:40,772] {scheduler_job.py:182} INFO - Started process (PID=12440) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:24:40,774] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:24:40,775] {logging_mixin.py:104} INFO - [2021-11-24 00:24:40,775] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:24:40,808] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:24:41,143] {logging_mixin.py:104} INFO - [2021-11-24 00:24:41,142] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:24:41,154] {logging_mixin.py:104} INFO - [2021-11-24 00:24:41,154] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:24:41,293] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.524 seconds
+[2021-11-24 00:25:20,867] {scheduler_job.py:182} INFO - Started process (PID=12502) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:25:20,870] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:25:20,871] {logging_mixin.py:104} INFO - [2021-11-24 00:25:20,871] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:25:20,915] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:25:21,264] {logging_mixin.py:104} INFO - [2021-11-24 00:25:21,264] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:25:21,278] {logging_mixin.py:104} INFO - [2021-11-24 00:25:21,278] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:25:21,627] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.768 seconds
+[2021-11-24 00:26:02,285] {scheduler_job.py:182} INFO - Started process (PID=12546) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:26:02,287] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:26:02,288] {logging_mixin.py:104} INFO - [2021-11-24 00:26:02,288] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:26:02,310] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:26:02,620] {logging_mixin.py:104} INFO - [2021-11-24 00:26:02,620] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:26:02,631] {logging_mixin.py:104} INFO - [2021-11-24 00:26:02,631] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:26:02,725] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.445 seconds
+[2021-11-24 00:26:45,239] {scheduler_job.py:182} INFO - Started process (PID=12598) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:26:45,241] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:26:45,242] {logging_mixin.py:104} INFO - [2021-11-24 00:26:45,242] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:26:45,267] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:26:45,581] {logging_mixin.py:104} INFO - [2021-11-24 00:26:45,581] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:26:45,594] {logging_mixin.py:104} INFO - [2021-11-24 00:26:45,594] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:26:45,701] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.466 seconds
+[2021-11-24 00:27:23,412] {scheduler_job.py:182} INFO - Started process (PID=12636) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:27:23,414] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:27:23,416] {logging_mixin.py:104} INFO - [2021-11-24 00:27:23,415] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:27:23,442] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:27:23,750] {logging_mixin.py:104} INFO - [2021-11-24 00:27:23,750] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:27:23,763] {logging_mixin.py:104} INFO - [2021-11-24 00:27:23,763] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:27:23,841] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.432 seconds
+[2021-11-24 00:28:11,331] {scheduler_job.py:182} INFO - Started process (PID=12685) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:28:11,332] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:28:11,333] {logging_mixin.py:104} INFO - [2021-11-24 00:28:11,333] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:28:11,355] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:28:11,668] {logging_mixin.py:104} INFO - [2021-11-24 00:28:11,668] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:28:11,680] {logging_mixin.py:104} INFO - [2021-11-24 00:28:11,679] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:28:11,785] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.458 seconds
+[2021-11-24 00:28:51,930] {scheduler_job.py:182} INFO - Started process (PID=12725) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:28:51,932] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:28:51,933] {logging_mixin.py:104} INFO - [2021-11-24 00:28:51,933] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:28:51,967] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:28:52,278] {logging_mixin.py:104} INFO - [2021-11-24 00:28:52,278] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:28:52,290] {logging_mixin.py:104} INFO - [2021-11-24 00:28:52,290] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:28:52,400] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.473 seconds
+[2021-11-24 00:29:39,548] {scheduler_job.py:182} INFO - Started process (PID=12772) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:29:39,550] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:29:39,551] {logging_mixin.py:104} INFO - [2021-11-24 00:29:39,551] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:29:39,571] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:29:39,875] {logging_mixin.py:104} INFO - [2021-11-24 00:29:39,875] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:29:39,887] {logging_mixin.py:104} INFO - [2021-11-24 00:29:39,887] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:29:39,980] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.437 seconds
+[2021-11-24 00:30:24,799] {scheduler_job.py:182} INFO - Started process (PID=12838) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:30:24,801] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:30:24,802] {logging_mixin.py:104} INFO - [2021-11-24 00:30:24,802] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:30:24,827] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:30:25,144] {logging_mixin.py:104} INFO - [2021-11-24 00:30:25,144] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:30:25,157] {logging_mixin.py:104} INFO - [2021-11-24 00:30:25,157] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:30:25,247] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.452 seconds
+[2021-11-24 00:31:10,180] {scheduler_job.py:182} INFO - Started process (PID=12884) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:31:10,181] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:31:10,182] {logging_mixin.py:104} INFO - [2021-11-24 00:31:10,182] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:31:10,211] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:31:10,560] {logging_mixin.py:104} INFO - [2021-11-24 00:31:10,560] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:31:10,571] {logging_mixin.py:104} INFO - [2021-11-24 00:31:10,571] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:31:10,668] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.492 seconds
+[2021-11-24 00:31:52,514] {scheduler_job.py:182} INFO - Started process (PID=12925) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:31:52,516] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:31:52,517] {logging_mixin.py:104} INFO - [2021-11-24 00:31:52,517] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:31:52,543] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:31:52,854] {logging_mixin.py:104} INFO - [2021-11-24 00:31:52,854] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:31:52,867] {logging_mixin.py:104} INFO - [2021-11-24 00:31:52,867] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:31:52,957] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.446 seconds
+[2021-11-24 00:32:36,397] {scheduler_job.py:182} INFO - Started process (PID=12972) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:32:36,399] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:32:36,400] {logging_mixin.py:104} INFO - [2021-11-24 00:32:36,400] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:32:36,431] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:32:36,887] {logging_mixin.py:104} INFO - [2021-11-24 00:32:36,887] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:32:36,905] {logging_mixin.py:104} INFO - [2021-11-24 00:32:36,905] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:32:37,028] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.635 seconds
+[2021-11-24 00:33:20,935] {scheduler_job.py:182} INFO - Started process (PID=13011) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:33:20,937] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:33:20,938] {logging_mixin.py:104} INFO - [2021-11-24 00:33:20,938] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:33:20,959] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:33:20,976] {logging_mixin.py:104} INFO - [2021-11-24 00:33:20,975] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:33:20,989] {logging_mixin.py:104} INFO - [2021-11-24 00:33:20,988] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:33:21,077] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.145 seconds
+[2021-11-24 00:34:01,617] {scheduler_job.py:182} INFO - Started process (PID=13054) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:34:01,619] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:34:01,620] {logging_mixin.py:104} INFO - [2021-11-24 00:34:01,620] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:34:01,650] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:34:02,113] {logging_mixin.py:104} INFO - [2021-11-24 00:34:02,112] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:34:02,129] {logging_mixin.py:104} INFO - [2021-11-24 00:34:02,128] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:34:02,237] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.623 seconds
+[2021-11-24 00:34:44,323] {scheduler_job.py:182} INFO - Started process (PID=13096) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:34:44,326] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:34:44,327] {logging_mixin.py:104} INFO - [2021-11-24 00:34:44,327] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:34:44,347] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:34:44,654] {logging_mixin.py:104} INFO - [2021-11-24 00:34:44,654] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:34:44,665] {logging_mixin.py:104} INFO - [2021-11-24 00:34:44,665] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:34:44,767] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.447 seconds
+[2021-11-24 00:35:27,206] {scheduler_job.py:182} INFO - Started process (PID=13165) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:35:27,208] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:35:27,209] {logging_mixin.py:104} INFO - [2021-11-24 00:35:27,209] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:35:27,232] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:35:27,549] {logging_mixin.py:104} INFO - [2021-11-24 00:35:27,549] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:35:27,560] {logging_mixin.py:104} INFO - [2021-11-24 00:35:27,560] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:35:27,654] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.452 seconds
+[2021-11-24 00:36:14,795] {scheduler_job.py:182} INFO - Started process (PID=13209) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:36:14,796] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:36:14,797] {logging_mixin.py:104} INFO - [2021-11-24 00:36:14,797] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:36:14,819] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:36:15,130] {logging_mixin.py:104} INFO - [2021-11-24 00:36:15,130] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:36:15,148] {logging_mixin.py:104} INFO - [2021-11-24 00:36:15,148] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:36:15,278] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.488 seconds
+[2021-11-24 00:36:57,789] {scheduler_job.py:182} INFO - Started process (PID=13251) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:36:57,791] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:36:57,792] {logging_mixin.py:104} INFO - [2021-11-24 00:36:57,792] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:36:57,814] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:36:58,123] {logging_mixin.py:104} INFO - [2021-11-24 00:36:58,123] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:36:58,134] {logging_mixin.py:104} INFO - [2021-11-24 00:36:58,134] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:36:58,247] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.462 seconds
+[2021-11-24 00:37:36,392] {scheduler_job.py:182} INFO - Started process (PID=13288) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:37:36,393] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:37:36,394] {logging_mixin.py:104} INFO - [2021-11-24 00:37:36,394] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:37:36,429] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:37:36,819] {logging_mixin.py:104} INFO - [2021-11-24 00:37:36,819] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:37:36,832] {logging_mixin.py:104} INFO - [2021-11-24 00:37:36,832] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:37:36,954] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.566 seconds
+[2021-11-24 00:38:18,439] {scheduler_job.py:182} INFO - Started process (PID=13326) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:38:18,440] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:38:18,442] {logging_mixin.py:104} INFO - [2021-11-24 00:38:18,441] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:38:18,467] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:38:18,777] {logging_mixin.py:104} INFO - [2021-11-24 00:38:18,777] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:38:18,791] {logging_mixin.py:104} INFO - [2021-11-24 00:38:18,791] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:38:18,897] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.462 seconds
+[2021-11-24 00:38:59,132] {scheduler_job.py:182} INFO - Started process (PID=13368) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:38:59,134] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:38:59,135] {logging_mixin.py:104} INFO - [2021-11-24 00:38:59,134] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:38:59,160] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:38:59,480] {logging_mixin.py:104} INFO - [2021-11-24 00:38:59,479] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:38:59,491] {logging_mixin.py:104} INFO - [2021-11-24 00:38:59,491] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:38:59,583] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.456 seconds
+[2021-11-24 00:39:38,409] {scheduler_job.py:182} INFO - Started process (PID=13409) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:39:38,411] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:39:38,412] {logging_mixin.py:104} INFO - [2021-11-24 00:39:38,411] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:39:38,434] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:39:38,450] {logging_mixin.py:104} INFO - [2021-11-24 00:39:38,450] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:39:38,463] {logging_mixin.py:104} INFO - [2021-11-24 00:39:38,462] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:39:38,549] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.144 seconds
+[2021-11-24 00:40:17,644] {scheduler_job.py:182} INFO - Started process (PID=13469) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:40:17,646] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:40:17,647] {logging_mixin.py:104} INFO - [2021-11-24 00:40:17,647] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:40:17,674] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:40:17,985] {logging_mixin.py:104} INFO - [2021-11-24 00:40:17,985] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:40:17,999] {logging_mixin.py:104} INFO - [2021-11-24 00:40:17,998] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:40:18,085] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.445 seconds
+[2021-11-24 00:41:01,021] {scheduler_job.py:182} INFO - Started process (PID=13511) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:41:01,023] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:41:01,024] {logging_mixin.py:104} INFO - [2021-11-24 00:41:01,024] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:41:01,045] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:41:01,360] {logging_mixin.py:104} INFO - [2021-11-24 00:41:01,360] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:41:01,371] {logging_mixin.py:104} INFO - [2021-11-24 00:41:01,371] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:41:01,464] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.448 seconds
+[2021-11-24 00:41:48,075] {scheduler_job.py:182} INFO - Started process (PID=13556) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:41:48,077] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:41:48,078] {logging_mixin.py:104} INFO - [2021-11-24 00:41:48,077] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:41:48,099] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:41:48,408] {logging_mixin.py:104} INFO - [2021-11-24 00:41:48,408] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:41:48,420] {logging_mixin.py:104} INFO - [2021-11-24 00:41:48,420] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:41:48,498] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.427 seconds
+[2021-11-24 00:42:30,722] {scheduler_job.py:182} INFO - Started process (PID=13596) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:42:30,725] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:42:30,726] {logging_mixin.py:104} INFO - [2021-11-24 00:42:30,726] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:42:30,747] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:42:31,058] {logging_mixin.py:104} INFO - [2021-11-24 00:42:31,058] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:42:31,069] {logging_mixin.py:104} INFO - [2021-11-24 00:42:31,069] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:42:31,159] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.441 seconds
+[2021-11-24 00:43:11,442] {scheduler_job.py:182} INFO - Started process (PID=13635) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:43:11,444] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:43:11,444] {logging_mixin.py:104} INFO - [2021-11-24 00:43:11,444] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:43:11,466] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:43:11,773] {logging_mixin.py:104} INFO - [2021-11-24 00:43:11,773] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:43:11,785] {logging_mixin.py:104} INFO - [2021-11-24 00:43:11,785] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:43:11,883] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.446 seconds
+[2021-11-24 00:43:55,934] {scheduler_job.py:182} INFO - Started process (PID=13695) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:43:55,936] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:43:55,937] {logging_mixin.py:104} INFO - [2021-11-24 00:43:55,936] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:43:55,964] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:43:56,298] {logging_mixin.py:104} INFO - [2021-11-24 00:43:56,298] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:43:56,318] {logging_mixin.py:104} INFO - [2021-11-24 00:43:56,318] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:43:56,427] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.496 seconds
+[2021-11-24 00:44:36,475] {scheduler_job.py:182} INFO - Started process (PID=13736) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:44:36,477] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:44:36,478] {logging_mixin.py:104} INFO - [2021-11-24 00:44:36,478] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:44:36,504] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:44:36,808] {logging_mixin.py:104} INFO - [2021-11-24 00:44:36,808] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:44:36,821] {logging_mixin.py:104} INFO - [2021-11-24 00:44:36,821] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:44:36,907] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.435 seconds
+[2021-11-24 00:45:22,760] {scheduler_job.py:182} INFO - Started process (PID=13806) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:45:22,761] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:45:22,762] {logging_mixin.py:104} INFO - [2021-11-24 00:45:22,762] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:45:22,784] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:45:23,092] {logging_mixin.py:104} INFO - [2021-11-24 00:45:23,092] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:45:23,104] {logging_mixin.py:104} INFO - [2021-11-24 00:45:23,103] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:45:23,200] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.445 seconds
+[2021-11-24 00:46:04,578] {scheduler_job.py:182} INFO - Started process (PID=13864) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:46:04,580] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:46:04,580] {logging_mixin.py:104} INFO - [2021-11-24 00:46:04,580] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:46:04,604] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:46:04,931] {logging_mixin.py:104} INFO - [2021-11-24 00:46:04,931] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:46:04,944] {logging_mixin.py:104} INFO - [2021-11-24 00:46:04,944] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:46:05,066] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.494 seconds
+[2021-11-24 00:46:50,462] {scheduler_job.py:182} INFO - Started process (PID=13947) to work on /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:46:50,464] {scheduler_job.py:633} INFO - Processing file /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-24 00:46:50,466] {logging_mixin.py:104} INFO - [2021-11-24 00:46:50,465] {dagbag.py:487} INFO - Filling up the DagBag from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:46:50,491] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-24 00:46:50,823] {logging_mixin.py:104} INFO - [2021-11-24 00:46:50,823] {dag.py:1832} INFO - Sync 1 DAGs
+[2021-11-24 00:46:50,834] {logging_mixin.py:104} INFO - [2021-11-24 00:46:50,834] {dag.py:2305} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-24 00:46:50,952] {scheduler_job.py:190} INFO - Processing /home/uiliam/virtualenvs/sandbox/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.495 seconds
