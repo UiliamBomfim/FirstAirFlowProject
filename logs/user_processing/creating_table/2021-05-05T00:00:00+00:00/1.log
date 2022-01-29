@@ -1,0 +1,249 @@
+[2022-01-26 00:24:22,126] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [queued]>
+[2022-01-26 00:24:22,158] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [queued]>
+[2022-01-26 00:24:22,158] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-26 00:24:22,158] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-01-26 00:24:22,158] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-26 00:24:22,187] {taskinstance.py:1259} INFO - Executing <Task(SqliteOperator): creating_table> on 2021-05-05 00:00:00+00:00
+[2022-01-26 00:24:22,195] {standard_task_runner.py:52} INFO - Started process 118594 to run task
+[2022-01-26 00:24:22,202] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'user_processing', 'creating_table', 'scheduled__2021-05-05T00:00:00+00:00', '--job-id', '128', '--raw', '--subdir', 'DAGS_FOLDER/user_processing.py', '--cfg-path', '/tmp/tmp9dvi5ow7', '--error-file', '/tmp/tmp9h1mvuyk']
+[2022-01-26 00:24:22,203] {standard_task_runner.py:77} INFO - Job 128: Subtask creating_table
+[2022-01-26 00:24:22,299] {logging_mixin.py:109} INFO - Running <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [running]> on host uiliam-Vostro-15-3515
+[2022-01-26 00:24:22,420] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=user_processing
+AIRFLOW_CTX_TASK_ID=creating_table
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-05T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-05T00:00:00+00:00
+[2022-01-26 00:24:22,421] {sqlite.py:61} INFO - Executing: 
+            CREATE TABLE IF NOT EXISTS users (
+            first_name TEXT NOT NULL,
+            lastname TEXT NOT NULL,
+            country TEXT NOT NULL,
+            username TEXT NOT NULL,
+            password TEXT NOT NULL,
+            email TEXT NOT NULL PRIMARY KEY
+            );
+            
+[2022-01-26 00:24:22,481] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/operators/sqlite.py", line 63, in execute
+    hook.run(self.sql, parameters=self.parameters)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/dbapi.py", line 198, in run
+    with closing(self.get_conn()) as conn:
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/hooks/sqlite.py", line 35, in get_conn
+    airflow_conn = self.get_connection(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/base.py", line 68, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/connection.py", line 410, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `db_sqlite` isn't defined
+[2022-01-26 00:24:22,511] {taskinstance.py:1267} INFO - Marking task as FAILED. dag_id=user_processing, task_id=creating_table, execution_date=20210505T000000, start_date=20220126T032422, end_date=20220126T032422
+[2022-01-26 00:24:22,537] {standard_task_runner.py:89} ERROR - Failed to execute job 128 for task creating_table
+Traceback (most recent call last):
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/operators/sqlite.py", line 63, in execute
+    hook.run(self.sql, parameters=self.parameters)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/dbapi.py", line 198, in run
+    with closing(self.get_conn()) as conn:
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/hooks/sqlite.py", line 35, in get_conn
+    airflow_conn = self.get_connection(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/base.py", line 68, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/connection.py", line 410, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `db_sqlite` isn't defined
+[2022-01-26 00:24:22,579] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-01-26 00:24:22,963] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2022-01-26 00:31:05,131] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [queued]>
+[2022-01-26 00:31:05,148] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [queued]>
+[2022-01-26 00:31:05,149] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-26 00:31:05,149] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-01-26 00:31:05,149] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-26 00:31:05,176] {taskinstance.py:1259} INFO - Executing <Task(SqliteOperator): creating_table> on 2021-05-05 00:00:00+00:00
+[2022-01-26 00:31:05,185] {standard_task_runner.py:52} INFO - Started process 134730 to run task
+[2022-01-26 00:31:05,188] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'user_processing', 'creating_table', 'scheduled__2021-05-05T00:00:00+00:00', '--job-id', '264', '--raw', '--subdir', 'DAGS_FOLDER/user_processing.py', '--cfg-path', '/tmp/tmpgrb9lfxv', '--error-file', '/tmp/tmpv058n3m5']
+[2022-01-26 00:31:05,189] {standard_task_runner.py:77} INFO - Job 264: Subtask creating_table
+[2022-01-26 00:31:05,287] {logging_mixin.py:109} INFO - Running <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [running]> on host uiliam-Vostro-15-3515
+[2022-01-26 00:31:05,413] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=user_processing
+AIRFLOW_CTX_TASK_ID=creating_table
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-05T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-05T00:00:00+00:00
+[2022-01-26 00:31:05,414] {sqlite.py:61} INFO - Executing: 
+            CREATE TABLE IF NOT EXISTS users (
+            first_name TEXT NOT NULL,
+            lastname TEXT NOT NULL,
+            country TEXT NOT NULL,
+            username TEXT NOT NULL,
+            password TEXT NOT NULL,
+            email TEXT NOT NULL PRIMARY KEY
+            );
+            
+[2022-01-26 00:31:05,561] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/operators/sqlite.py", line 63, in execute
+    hook.run(self.sql, parameters=self.parameters)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/dbapi.py", line 198, in run
+    with closing(self.get_conn()) as conn:
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/hooks/sqlite.py", line 35, in get_conn
+    airflow_conn = self.get_connection(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/base.py", line 68, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/connection.py", line 410, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `db_sqlite` isn't defined
+[2022-01-26 00:31:05,576] {taskinstance.py:1267} INFO - Marking task as FAILED. dag_id=user_processing, task_id=creating_table, execution_date=20210505T000000, start_date=20220126T033105, end_date=20220126T033105
+[2022-01-26 00:31:05,604] {standard_task_runner.py:89} ERROR - Failed to execute job 264 for task creating_table
+Traceback (most recent call last):
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/operators/sqlite.py", line 63, in execute
+    hook.run(self.sql, parameters=self.parameters)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/dbapi.py", line 198, in run
+    with closing(self.get_conn()) as conn:
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/hooks/sqlite.py", line 35, in get_conn
+    airflow_conn = self.get_connection(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/base.py", line 68, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/connection.py", line 410, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `db_sqlite` isn't defined
+[2022-01-26 00:31:05,657] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-01-26 00:31:05,731] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2022-01-26 01:41:27,927] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [queued]>
+[2022-01-26 01:41:27,941] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [queued]>
+[2022-01-26 01:41:27,942] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-26 01:41:27,942] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-01-26 01:41:27,942] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-26 01:41:27,965] {taskinstance.py:1259} INFO - Executing <Task(SqliteOperator): creating_table> on 2021-05-05 00:00:00+00:00
+[2022-01-26 01:41:27,980] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'user_processing', 'creating_table', 'scheduled__2021-05-05T00:00:00+00:00', '--job-id', '656', '--raw', '--subdir', 'DAGS_FOLDER/user_processing.py', '--cfg-path', '/tmp/tmpp3s9_fx7', '--error-file', '/tmp/tmpe_yrmxyi']
+[2022-01-26 01:41:27,982] {standard_task_runner.py:77} INFO - Job 656: Subtask creating_table
+[2022-01-26 01:41:27,976] {standard_task_runner.py:52} INFO - Started process 214181 to run task
+[2022-01-26 01:41:28,099] {logging_mixin.py:109} INFO - Running <TaskInstance: user_processing.creating_table scheduled__2021-05-05T00:00:00+00:00 [running]> on host uiliam-Vostro-15-3515
+[2022-01-26 01:41:28,248] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=user_processing
+AIRFLOW_CTX_TASK_ID=creating_table
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-05T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-05T00:00:00+00:00
+[2022-01-26 01:41:28,255] {sqlite.py:61} INFO - Executing: 
+            CREATE TABLE IF NOT EXISTS users (
+            first_name TEXT NOT NULL,
+            lastname TEXT NOT NULL,
+            country TEXT NOT NULL,
+            username TEXT NOT NULL,
+            password TEXT NOT NULL,
+            email TEXT NOT NULL PRIMARY KEY
+            );
+            
+[2022-01-26 01:41:28,417] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/operators/sqlite.py", line 63, in execute
+    hook.run(self.sql, parameters=self.parameters)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/dbapi.py", line 198, in run
+    with closing(self.get_conn()) as conn:
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/hooks/sqlite.py", line 35, in get_conn
+    airflow_conn = self.get_connection(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/base.py", line 68, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/connection.py", line 410, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `db_sqlite` isn't defined
+[2022-01-26 01:41:28,436] {taskinstance.py:1267} INFO - Marking task as FAILED. dag_id=user_processing, task_id=creating_table, execution_date=20210505T000000, start_date=20220126T044127, end_date=20220126T044128
+[2022-01-26 01:41:28,464] {standard_task_runner.py:89} ERROR - Failed to execute job 656 for task creating_table
+Traceback (most recent call last):
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/operators/sqlite.py", line 63, in execute
+    hook.run(self.sql, parameters=self.parameters)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/dbapi.py", line 198, in run
+    with closing(self.get_conn()) as conn:
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/providers/sqlite/hooks/sqlite.py", line 35, in get_conn
+    airflow_conn = self.get_connection(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/hooks/base.py", line 68, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/uiliam/sandbox/lib/python3.9/site-packages/airflow/models/connection.py", line 410, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `db_sqlite` isn't defined
+[2022-01-26 01:41:28,493] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-01-26 01:41:28,580] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
